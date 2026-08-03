@@ -1,0 +1,5447 @@
+[
+  {
+    "page": 5,
+    "category": "Accesories - Misc Accessories",
+    "name": "LW Towel",
+    "code": "20031SBLN",
+    "baseCode": "20031",
+    "color": "SBLN",
+    "image": "assets/20031SBLN.jpg"
+  },
+  {
+    "page": 49,
+    "category": "M’s Lifestyle Essentials - Tops",
+    "name": "M’s Point Reyes Canvas Jacket",
+    "code": "20250SMDB",
+    "baseCode": "20250",
+    "color": "SMDB",
+    "image": "assets/20250SMDB.jpg"
+  },
+  {
+    "page": 57,
+    "category": "W’s Lifestyle Essentials - Tops",
+    "name": "W’s Point Reyes Canvas Coat",
+    "code": "20255GMTG",
+    "baseCode": "20255",
+    "color": "GMTG",
+    "image": "assets/20255GMTG.jpg"
+  },
+  {
+    "page": 49,
+    "category": "M’s Lifestyle Essentials - Tops",
+    "name": "M’s Daily Quilted Jacket",
+    "code": "20270BSNG",
+    "baseCode": "20270",
+    "color": "BSNG",
+    "image": "assets/20270BSNG.jpg"
+  },
+  {
+    "page": 49,
+    "category": "M’s Lifestyle Essentials - Tops",
+    "name": "M’s Daily Quilted Jacket",
+    "code": "20270SMDB",
+    "baseCode": "20270",
+    "color": "SMDB",
+    "image": "assets/20270SMDB.jpg"
+  },
+  {
+    "page": 50,
+    "category": "M’s Lifestyle Essentials - Tops",
+    "name": "M’s Outdoor Everyday Marsupial",
+    "code": "20345CLOR",
+    "baseCode": "20345",
+    "color": "CLOR",
+    "image": "assets/20345CLOR.jpg"
+  },
+  {
+    "page": 50,
+    "category": "M’s Lifestyle Essentials - Tops",
+    "name": "M’s Outdoor Everyday Marsupial",
+    "code": "20345GMTG",
+    "baseCode": "20345",
+    "color": "GMTG",
+    "image": "assets/20345GMTG.jpg"
+  },
+  {
+    "page": 57,
+    "category": "W’s Lifestyle Essentials - Tops",
+    "name": "W’s Skysail Unlined Parka",
+    "code": "20460SNBE",
+    "baseCode": "20460",
+    "color": "SNBE",
+    "image": "assets/20460SNBE.jpg"
+  },
+  {
+    "page": 57,
+    "category": "W’s Lifestyle Essentials - Tops",
+    "name": "W’s Skysail Unlined Parka",
+    "code": "20460WSTO",
+    "baseCode": "20460",
+    "color": "WSTO",
+    "image": "assets/20460WSTO.jpg"
+  },
+  {
+    "page": 49,
+    "category": "M’s Lifestyle Essentials - Tops",
+    "name": "M’s Light & Variable Jacket",
+    "code": "20495CLOR",
+    "baseCode": "20495",
+    "color": "CLOR",
+    "image": "assets/20495CLOR.jpg"
+  },
+  {
+    "page": 49,
+    "category": "M’s Lifestyle Essentials - Tops",
+    "name": "M’s Light & Variable Jacket",
+    "code": "20495WSTO",
+    "baseCode": "20495",
+    "color": "WSTO",
+    "image": "assets/20495WSTO.jpg"
+  },
+  {
+    "page": 57,
+    "category": "W’s Lifestyle Essentials - Tops",
+    "name": "W’s Light Gust Hooded P/O",
+    "code": "20571BLK",
+    "baseCode": "20571",
+    "color": "BLK",
+    "image": "assets/20571BLK.jpg"
+  },
+  {
+    "page": 57,
+    "category": "W’s Lifestyle Essentials - Tops",
+    "name": "W’s Light Gust Hooded P/O",
+    "code": "20571CPRG",
+    "baseCode": "20571",
+    "color": "CPRG",
+    "image": "assets/20571CPRG.jpg"
+  },
+  {
+    "page": 57,
+    "category": "W’s Lifestyle Essentials - Tops",
+    "name": "W’s Light Gust Shirt Jacket",
+    "code": "20590CPRG",
+    "baseCode": "20590",
+    "color": "CPRG",
+    "image": "assets/20590CPRG.jpg"
+  },
+  {
+    "page": 57,
+    "category": "W’s Lifestyle Essentials - Tops",
+    "name": "W’s Light Gust Shirt Jacket",
+    "code": "20590QVLT",
+    "baseCode": "20590",
+    "color": "QVLT",
+    "image": "assets/20590QVLT.jpg"
+  },
+  {
+    "page": 50,
+    "category": "M’s Lifestyle Essentials - Tops",
+    "name": "M’s Outdoor Everyday Rain Jacket",
+    "code": "20850BSNG",
+    "baseCode": "20850",
+    "color": "BSNG",
+    "image": "assets/20850BSNG.jpg"
+  },
+  {
+    "page": 50,
+    "category": "M’s Lifestyle Essentials - Tops",
+    "name": "M’s Outdoor Everyday Rain Jacket",
+    "code": "20850CLOR",
+    "baseCode": "20850",
+    "color": "CLOR",
+    "image": "assets/20850CLOR.jpg"
+  },
+  {
+    "page": 13,
+    "category": "Active Essentials - Bottoms",
+    "name": "Artículo Patagonia",
+    "code": "21151BLK",
+    "baseCode": "21151",
+    "color": "BLK",
+    "image": "assets/21151BLK.jpg"
+  },
+  {
+    "page": 13,
+    "category": "Active Essentials - Bottoms",
+    "name": "Artículo Patagonia",
+    "code": "21151SMDB",
+    "baseCode": "21151",
+    "color": "SMDB",
+    "image": "assets/21151SMDB.jpg"
+  },
+  {
+    "page": 13,
+    "category": "Active Essentials - Bottoms",
+    "name": "Artículo Patagonia",
+    "code": "21205BSNG",
+    "baseCode": "21205",
+    "color": "BSNG",
+    "image": "assets/21205BSNG.jpg"
+  },
+  {
+    "page": 55,
+    "category": "M’s Lifestyle Essentials - Bottoms",
+    "name": "M’s Daily Sweatpants",
+    "code": "21475SGRY",
+    "baseCode": "21475",
+    "color": "SGRY",
+    "image": "assets/21475SGRY.jpg"
+  },
+  {
+    "page": 13,
+    "category": "Active Essentials - Bottoms",
+    "name": "Artículo Patagonia",
+    "code": "21495BLK",
+    "baseCode": "21495",
+    "color": "BLK",
+    "image": "assets/21495BLK.jpg"
+  },
+  {
+    "page": 13,
+    "category": "Active Essentials - Bottoms",
+    "name": "Artículo Patagonia",
+    "code": "21495BSNG",
+    "baseCode": "21495",
+    "color": "BSNG",
+    "image": "assets/21495BSNG.jpg"
+  },
+  {
+    "page": 55,
+    "category": "M’s Lifestyle Essentials - Bottoms",
+    "name": "M’s Outdoor Everyday Pants",
+    "code": "21582DRBN",
+    "baseCode": "21582",
+    "color": "DRBN",
+    "image": "assets/21582DRBN.jpg"
+  },
+  {
+    "page": 55,
+    "category": "M’s Lifestyle Essentials - Bottoms",
+    "name": "M’s Outdoor Everyday Pants",
+    "code": "21582WSTO",
+    "baseCode": "21582",
+    "color": "WSTO",
+    "image": "assets/21582WSTO.jpg"
+  },
+  {
+    "page": 55,
+    "category": "M’s Lifestyle Essentials - Bottoms",
+    "name": "Artículo Patagonia",
+    "code": "21880BSNG",
+    "baseCode": "21880",
+    "color": "BSNG",
+    "image": "assets/21880BSNG.jpg"
+  },
+  {
+    "page": 55,
+    "category": "M’s Lifestyle Essentials - Bottoms",
+    "name": "Artículo Patagonia",
+    "code": "21880DRBN",
+    "baseCode": "21880",
+    "color": "DRBN",
+    "image": "assets/21880DRBN.jpg"
+  },
+  {
+    "page": 61,
+    "category": "W’s Lifestyle Essentials - Bottoms",
+    "name": "Holidays",
+    "code": "21932NLHR",
+    "baseCode": "21932",
+    "color": "NLHR",
+    "image": "assets/21932NLHR.jpg"
+  },
+  {
+    "page": 61,
+    "category": "W’s Lifestyle Essentials - Bottoms",
+    "name": "Holidays",
+    "code": "21932SNBE",
+    "baseCode": "21932",
+    "color": "SNBE",
+    "image": "assets/21932SNBE.jpg"
+  },
+  {
+    "page": 61,
+    "category": "W’s Lifestyle Essentials - Bottoms",
+    "name": "W’s Outdoor Everyday Cargo Pants",
+    "code": "22030BCBN",
+    "baseCode": "22030",
+    "color": "BCBN",
+    "image": "assets/22030BCBN.jpg"
+  },
+  {
+    "page": 61,
+    "category": "W’s Lifestyle Essentials - Bottoms",
+    "name": "W’s Outdoor Everyday Cargo Pants",
+    "code": "22030WSTO",
+    "baseCode": "22030",
+    "color": "WSTO",
+    "image": "assets/22030WSTO.jpg"
+  },
+  {
+    "page": 55,
+    "category": "M’s Lifestyle Essentials - Bottoms",
+    "name": "PreSeason PreSeason",
+    "code": "22136BSNG",
+    "baseCode": "22136",
+    "color": "BSNG",
+    "image": "assets/22136BSNG.jpg"
+  },
+  {
+    "page": 55,
+    "category": "M’s Lifestyle Essentials - Bottoms",
+    "name": "PreSeason PreSeason",
+    "code": "22136FGE",
+    "baseCode": "22136",
+    "color": "FGE",
+    "image": "assets/22136FGE.jpg"
+  },
+  {
+    "page": 55,
+    "category": "M’s Lifestyle Essentials - Bottoms",
+    "name": "PreSeason PreSeason",
+    "code": "22136SBDY",
+    "baseCode": "22136",
+    "color": "SBDY",
+    "image": "assets/22136SBDY.jpg"
+  },
+  {
+    "page": 61,
+    "category": "W’s Lifestyle Essentials - Bottoms",
+    "name": "W’s Roamwith Pants",
+    "code": "22155BLK",
+    "baseCode": "22155",
+    "color": "BLK",
+    "image": "assets/22155BLK.jpg"
+  },
+  {
+    "page": 61,
+    "category": "W’s Lifestyle Essentials - Bottoms",
+    "name": "W’s Roamwith Pants",
+    "code": "22155SBDY",
+    "baseCode": "22155",
+    "color": "SBDY",
+    "image": "assets/22155SBDY.jpg"
+  },
+  {
+    "page": 61,
+    "category": "W’s Lifestyle Essentials - Bottoms",
+    "name": "W’s Point Reyes Canvas Wide Leg Pants",
+    "code": "22170GMTG",
+    "baseCode": "22170",
+    "color": "GMTG",
+    "image": "assets/22170GMTG.jpg"
+  },
+  {
+    "page": 61,
+    "category": "W’s Lifestyle Essentials - Bottoms",
+    "name": "W’s Point Reyes Canvas Wide Leg Pants",
+    "code": "22170UDNL",
+    "baseCode": "22170",
+    "color": "UDNL",
+    "image": "assets/22170UDNL.jpg"
+  },
+  {
+    "page": 5,
+    "category": "Accesories - Misc Accessories",
+    "name": "Sun Mask",
+    "code": "22397CLNA",
+    "baseCode": "22397",
+    "color": "CLNA",
+    "image": "assets/22397CLNA.jpg"
+  },
+  {
+    "page": 5,
+    "category": "Accesories - Misc Accessories",
+    "name": "Sun Mask",
+    "code": "22397KALB",
+    "baseCode": "22397",
+    "color": "KALB",
+    "image": "assets/22397KALB.jpg"
+  },
+  {
+    "page": 5,
+    "category": "Accesories - Misc Accessories",
+    "name": "Artículo Patagonia",
+    "code": "22397ORPL",
+    "baseCode": "22397",
+    "color": "ORPL",
+    "image": "assets/22397ORPL.jpg"
+  },
+  {
+    "page": 5,
+    "category": "Accesories - Misc Accessories",
+    "name": "Artículo Patagonia",
+    "code": "22397SERS",
+    "baseCode": "22397",
+    "color": "SERS",
+    "image": "assets/22397SERS.jpg"
+  },
+  {
+    "page": 43,
+    "category": "Logo - Accesories",
+    "name": "Graphic Maclure Hat",
+    "code": "22545PLBH",
+    "baseCode": "22545",
+    "color": "PLBH",
+    "image": "assets/22545PLBH.jpg"
+  },
+  {
+    "page": 43,
+    "category": "Logo - Accesories",
+    "name": "Graphic Maclure Hat",
+    "code": "22545PLPS",
+    "baseCode": "22545",
+    "color": "PLPS",
+    "image": "assets/22545PLPS.jpg"
+  },
+  {
+    "page": 51,
+    "category": "M’s Lifestyle Essentials - Tops",
+    "name": "Daily Crewneck Sweatshirt",
+    "code": "22765CLOR",
+    "baseCode": "22765",
+    "color": "CLOR",
+    "image": "assets/22765CLOR.jpg"
+  },
+  {
+    "page": 51,
+    "category": "M’s Lifestyle Essentials - Tops",
+    "name": "Daily Crewneck Sweatshirt",
+    "code": "22765GMTG",
+    "baseCode": "22765",
+    "color": "GMTG",
+    "image": "assets/22765GMTG.jpg"
+  },
+  {
+    "page": 51,
+    "category": "M’s Lifestyle Essentials - Tops",
+    "name": "Daily Crewneck Sweatshirt",
+    "code": "22765SMDB",
+    "baseCode": "22765",
+    "color": "SMDB",
+    "image": "assets/22765SMDB.jpg"
+  },
+  {
+    "page": 59,
+    "category": "W’s Lifestyle Essentials - Tops",
+    "name": "W’s Retro Pile Jacket",
+    "code": "22795SNBE",
+    "baseCode": "22795",
+    "color": "SNBE",
+    "image": "assets/22795SNBE.jpg"
+  },
+  {
+    "page": 50,
+    "category": "M’s Lifestyle Essentials - Tops",
+    "name": "M’s Retro Pile Jacket",
+    "code": "22801BLSG",
+    "baseCode": "22801",
+    "color": "BLSG",
+    "image": "assets/22801BLSG.jpg"
+  },
+  {
+    "page": 50,
+    "category": "M’s Lifestyle Essentials - Tops",
+    "name": "M’s Retro Pile Jacket",
+    "code": "22801OLGG",
+    "baseCode": "22801",
+    "color": "OLGG",
+    "image": "assets/22801OLGG.jpg"
+  },
+  {
+    "page": 59,
+    "category": "W’s Lifestyle Essentials - Tops",
+    "name": "W’s Retro Pile Vest",
+    "code": "22826NTLE",
+    "baseCode": "22826",
+    "color": "NTLE",
+    "image": "assets/22826NTLE.jpg"
+  },
+  {
+    "page": 52,
+    "category": "M’s Lifestyle Essentials - Tops",
+    "name": "M’s Synch Jacket",
+    "code": "22991BKSO",
+    "baseCode": "22991",
+    "color": "BKSO",
+    "image": "assets/22991BKSO.jpg"
+  },
+  {
+    "page": 52,
+    "category": "M’s Lifestyle Essentials - Tops",
+    "name": "M’s Synch Jacket",
+    "code": "22991OLSB",
+    "baseCode": "22991",
+    "color": "OLSB",
+    "image": "assets/22991OLSB.jpg"
+  },
+  {
+    "page": 52,
+    "category": "M’s Lifestyle Essentials - Tops",
+    "name": "M’s Micro D Crewneck",
+    "code": "23225FEA",
+    "baseCode": "23225",
+    "color": "FEA",
+    "image": "assets/23225FEA.jpg"
+  },
+  {
+    "page": 52,
+    "category": "M’s Lifestyle Essentials - Tops",
+    "name": "M’s Micro D Crewneck",
+    "code": "23225SMDB",
+    "baseCode": "23225",
+    "color": "SMDB",
+    "image": "assets/23225SMDB.jpg"
+  },
+  {
+    "page": 52,
+    "category": "M’s Lifestyle Essentials - Tops",
+    "name": "M’s Micro D Hoody",
+    "code": "23230SHRB",
+    "baseCode": "23230",
+    "color": "SHRB",
+    "image": "assets/23230SHRB.jpg"
+  },
+  {
+    "page": 52,
+    "category": "M’s Lifestyle Essentials - Tops",
+    "name": "M’s Micro D Hoody",
+    "code": "23230SMDB",
+    "baseCode": "23230",
+    "color": "SMDB",
+    "image": "assets/23230SMDB.jpg"
+  },
+  {
+    "page": 59,
+    "category": "W’s Lifestyle Essentials - Tops",
+    "name": "W’s Micro D 1/2 Zip Fleece P/O",
+    "code": "23255LVT",
+    "baseCode": "23255",
+    "color": "LVT",
+    "image": "assets/23255LVT.jpg"
+  },
+  {
+    "page": 59,
+    "category": "W’s Lifestyle Essentials - Tops",
+    "name": "W’s Micro D 1/2 Zip Fleece P/O",
+    "code": "23255THI",
+    "baseCode": "23255",
+    "color": "THI",
+    "image": "assets/23255THI.jpg"
+  },
+  {
+    "page": 59,
+    "category": "W’s Lifestyle Essentials - Tops",
+    "name": "W’s Micro D Fleece Hoody",
+    "code": "23260BCW",
+    "baseCode": "23260",
+    "color": "BCW",
+    "image": "assets/23260BCW.jpg"
+  },
+  {
+    "page": 49,
+    "category": "M’s Lifestyle Essentials - Tops",
+    "name": "M’s Textured Fleece Hoody",
+    "code": "23315BSNG",
+    "baseCode": "23315",
+    "color": "BSNG",
+    "image": "assets/23315BSNG.jpg"
+  },
+  {
+    "page": 49,
+    "category": "M’s Lifestyle Essentials - Tops",
+    "name": "M’s Textured Fleece Hoody",
+    "code": "23315WSTO",
+    "baseCode": "23315",
+    "color": "WSTO",
+    "image": "assets/23315WSTO.jpg"
+  },
+  {
+    "page": 59,
+    "category": "W’s Lifestyle Essentials - Tops",
+    "name": "W’s Textured Fleece Hoody",
+    "code": "23320SHRB",
+    "baseCode": "23320",
+    "color": "SHRB",
+    "image": "assets/23320SHRB.jpg"
+  },
+  {
+    "page": 59,
+    "category": "W’s Lifestyle Essentials - Tops",
+    "name": "W’s Textured Fleece Hoody",
+    "code": "23320WSTO",
+    "baseCode": "23320",
+    "color": "WSTO",
+    "image": "assets/23320WSTO.jpg"
+  },
+  {
+    "page": 59,
+    "category": "W’s Lifestyle Essentials - Tops",
+    "name": "W’s Textured Fleece Crewneck",
+    "code": "23325CPRG",
+    "baseCode": "23325",
+    "color": "CPRG",
+    "image": "assets/23325CPRG.jpg"
+  },
+  {
+    "page": 59,
+    "category": "W’s Lifestyle Essentials - Tops",
+    "name": "W’s Textured Fleece Crewneck",
+    "code": "23325QVLT",
+    "baseCode": "23325",
+    "color": "QVLT",
+    "image": "assets/23325QVLT.jpg"
+  },
+  {
+    "page": 67,
+    "category": "Trail Running - Tops",
+    "name": "M’s Houdini Stash 1/2 Zip P/O",
+    "code": "23410CPRG",
+    "baseCode": "23410",
+    "color": "CPRG",
+    "image": "assets/23410CPRG.jpg"
+  },
+  {
+    "page": 67,
+    "category": "Trail Running - Tops",
+    "name": "M’s Houdini Stash 1/2 Zip P/O",
+    "code": "23410SMDB",
+    "baseCode": "23410",
+    "color": "SMDB",
+    "image": "assets/23410SMDB.jpg"
+  },
+  {
+    "page": 67,
+    "category": "Trail Running - Tops",
+    "name": "M’s Houdini Stash 1/2 Zip P/O",
+    "code": "23435MTSA",
+    "baseCode": "23435",
+    "color": "MTSA",
+    "image": "assets/23435MTSA.jpg"
+  },
+  {
+    "page": 67,
+    "category": "Trail Running - Tops",
+    "name": "M’s Houdini Stash 1/2 Zip P/O",
+    "code": "23435SMDB",
+    "baseCode": "23435",
+    "color": "SMDB",
+    "image": "assets/23435SMDB.jpg"
+  },
+  {
+    "page": 67,
+    "category": "Trail Running - Tops",
+    "name": "M’s Houdini Jacket",
+    "code": "24142AQT",
+    "baseCode": "24142",
+    "color": "AQT",
+    "image": "assets/24142AQT.jpg"
+  },
+  {
+    "page": 67,
+    "category": "Trail Running - Tops",
+    "name": "M’s Houdini Jacket",
+    "code": "24142BLSG",
+    "baseCode": "24142",
+    "color": "BLSG",
+    "image": "assets/24142BLSG.jpg"
+  },
+  {
+    "page": 67,
+    "category": "Trail Running - Tops",
+    "name": "Artículo Patagonia",
+    "code": "24142BOB",
+    "baseCode": "24142",
+    "color": "BOB",
+    "image": "assets/24142BOB.jpg"
+  },
+  {
+    "page": 67,
+    "category": "Trail Running - Tops",
+    "name": "Artículo Patagonia",
+    "code": "24142SWCA",
+    "baseCode": "24142",
+    "color": "SWCA",
+    "image": "assets/24142SWCA.jpg"
+  },
+  {
+    "page": 67,
+    "category": "Trail Running - Tops",
+    "name": "W’s Houdini Jacket",
+    "code": "24147BOB",
+    "baseCode": "24147",
+    "color": "BOB",
+    "image": "assets/24147BOB.jpg"
+  },
+  {
+    "page": 67,
+    "category": "Trail Running - Tops",
+    "name": "W’s Houdini Jacket",
+    "code": "24147KALB",
+    "baseCode": "24147",
+    "color": "KALB",
+    "image": "assets/24147KALB.jpg"
+  },
+  {
+    "page": 67,
+    "category": "Trail Running - Tops",
+    "name": "Artículo Patagonia",
+    "code": "24147LVT",
+    "baseCode": "24147",
+    "color": "LVT",
+    "image": "assets/24147LVT.jpg"
+  },
+  {
+    "page": 67,
+    "category": "Trail Running - Tops",
+    "name": "M’s Airshed Pro P/O",
+    "code": "24192BCBN",
+    "baseCode": "24192",
+    "color": "BCBN",
+    "image": "assets/24192BCBN.jpg"
+  },
+  {
+    "page": 67,
+    "category": "Trail Running - Tops",
+    "name": "M’s Airshed Pro P/O",
+    "code": "24192BLSG",
+    "baseCode": "24192",
+    "color": "BLSG",
+    "image": "assets/24192BLSG.jpg"
+  },
+  {
+    "page": 67,
+    "category": "Trail Running - Tops",
+    "name": "W’s Airshed Pro P/O",
+    "code": "24197AQT",
+    "baseCode": "24197",
+    "color": "AQT",
+    "image": "assets/24197AQT.jpg"
+  },
+  {
+    "page": 67,
+    "category": "Trail Running - Tops",
+    "name": "W’s Airshed Pro P/O",
+    "code": "24197LVT",
+    "baseCode": "24197",
+    "color": "LVT",
+    "image": "assets/24197LVT.jpg"
+  },
+  {
+    "page": 10,
+    "category": "Active Essentials - Tops",
+    "name": "M’s Cap Cool Trail Shirt",
+    "code": "24498BLSG",
+    "baseCode": "24498",
+    "color": "BLSG",
+    "image": "assets/24498BLSG.jpg"
+  },
+  {
+    "page": 10,
+    "category": "Active Essentials - Tops",
+    "name": "M’s Cap Cool Trail Shirt",
+    "code": "24498BSNG",
+    "baseCode": "24498",
+    "color": "BSNG",
+    "image": "assets/24498BSNG.jpg"
+  },
+  {
+    "page": 10,
+    "category": "Active Essentials - Tops",
+    "name": "W’s Cap Cool Trail Shirt",
+    "code": "24503BLSG",
+    "baseCode": "24503",
+    "color": "BLSG",
+    "image": "assets/24503BLSG.jpg"
+  },
+  {
+    "page": 10,
+    "category": "Active Essentials - Tops",
+    "name": "W’s Cap Cool Trail Shirt",
+    "code": "24503FDMG",
+    "baseCode": "24503",
+    "color": "FDMG",
+    "image": "assets/24503FDMG.jpg"
+  },
+  {
+    "page": 11,
+    "category": "Active Essentials - Tops",
+    "name": "M’s Cap Cool Trail Tank",
+    "code": "24509AQT",
+    "baseCode": "24509",
+    "color": "AQT",
+    "image": "assets/24509AQT.jpg"
+  },
+  {
+    "page": 11,
+    "category": "Active Essentials - Tops",
+    "name": "M’s Cap Cool Trail Tank",
+    "code": "24509BLSG",
+    "baseCode": "24509",
+    "color": "BLSG",
+    "image": "assets/24509BLSG.jpg"
+  },
+  {
+    "page": 11,
+    "category": "Active Essentials - Tops",
+    "name": "W’s Cap Cool Trail Tank",
+    "code": "24519DYWH",
+    "baseCode": "24519",
+    "color": "DYWH",
+    "image": "assets/24519DYWH.jpg"
+  },
+  {
+    "page": 11,
+    "category": "Active Essentials - Tops",
+    "name": "W’s Cap Cool Trail Tank",
+    "code": "24519INBK",
+    "baseCode": "24519",
+    "color": "INBK",
+    "image": "assets/24519INBK.jpg"
+  },
+  {
+    "page": 12,
+    "category": "Active Essentials - Bottoms",
+    "name": "M’s Terrebonne Joggers",
+    "code": "24541BLSG",
+    "baseCode": "24541",
+    "color": "BLSG",
+    "image": "assets/24541BLSG.jpg"
+  },
+  {
+    "page": 12,
+    "category": "Active Essentials - Bottoms",
+    "name": "M’s Terrebonne Joggers",
+    "code": "24541RVGN",
+    "baseCode": "24541",
+    "color": "RVGN",
+    "image": "assets/24541RVGN.jpg"
+  },
+  {
+    "page": 12,
+    "category": "Active Essentials - Bottoms",
+    "name": "W’s Terrebonne Joggers",
+    "code": "24595BLK",
+    "baseCode": "24595",
+    "color": "BLK",
+    "image": "assets/24595BLK.jpg"
+  },
+  {
+    "page": 12,
+    "category": "Active Essentials - Bottoms",
+    "name": "W’s Terrebonne Joggers",
+    "code": "24595CPRG",
+    "baseCode": "24595",
+    "color": "CPRG",
+    "image": "assets/24595CPRG.jpg"
+  },
+  {
+    "page": 68,
+    "category": "Trail Running - Bottoms",
+    "name": "Artículo Patagonia",
+    "code": "24668BCBN",
+    "baseCode": "24668",
+    "color": "BCBN",
+    "image": "assets/24668BCBN.jpg"
+  },
+  {
+    "page": 68,
+    "category": "Trail Running - Bottoms",
+    "name": "Artículo Patagonia",
+    "code": "24668BLK",
+    "baseCode": "24668",
+    "color": "BLK",
+    "image": "assets/24668BLK.jpg"
+  },
+  {
+    "page": 15,
+    "category": "Active Essentials - Bottoms",
+    "name": "M’s Terrebonne Shorts",
+    "code": "24690BLK",
+    "baseCode": "24690",
+    "color": "BLK",
+    "image": "assets/24690BLK.jpg"
+  },
+  {
+    "page": 15,
+    "category": "Active Essentials - Bottoms",
+    "name": "M’s Terrebonne Shorts",
+    "code": "24690BLSG",
+    "baseCode": "24690",
+    "color": "BLSG",
+    "image": "assets/24690BLSG.jpg"
+  },
+  {
+    "page": 15,
+    "category": "Active Essentials - Bottoms",
+    "name": "W’s Terrebonne Shorts",
+    "code": "24740BLK",
+    "baseCode": "24740",
+    "color": "BLK",
+    "image": "assets/24740BLK.jpg"
+  },
+  {
+    "page": 15,
+    "category": "Active Essentials - Bottoms",
+    "name": "W’s Terrebonne Shorts",
+    "code": "24740LVT",
+    "baseCode": "24740",
+    "color": "LVT",
+    "image": "assets/24740LVT.jpg"
+  },
+  {
+    "page": 68,
+    "category": "Trail Running - Bottoms",
+    "name": "W’s Endless Run 7/8 Tights",
+    "code": "24811BLK",
+    "baseCode": "24811",
+    "color": "BLK",
+    "image": "assets/24811BLK.jpg"
+  },
+  {
+    "page": 13,
+    "category": "Active Essentials - Bottoms",
+    "name": "W’s Maipo 7/8 Tights",
+    "code": "24845BLK",
+    "baseCode": "24845",
+    "color": "BLK",
+    "image": "assets/24845BLK.jpg"
+  },
+  {
+    "page": 13,
+    "category": "Active Essentials - Bottoms",
+    "name": "W’s Maipo 7/8 Stash Tights",
+    "code": "24885BLK",
+    "baseCode": "24885",
+    "color": "BLK",
+    "image": "assets/24885BLK.jpg"
+  },
+  {
+    "page": 13,
+    "category": "Active Essentials - Bottoms",
+    "name": "W’s Maipo 7/8 Stash Tights",
+    "code": "24885LVT",
+    "baseCode": "24885",
+    "color": "LVT",
+    "image": "assets/24885LVT.jpg"
+  },
+  {
+    "page": 51,
+    "category": "M’s Lifestyle Essentials - Tops",
+    "name": "M’s Daily Snap-T P/O",
+    "code": "25490FGE",
+    "baseCode": "25490",
+    "color": "FGE",
+    "image": "assets/25490FGE.jpg"
+  },
+  {
+    "page": 51,
+    "category": "M’s Lifestyle Essentials - Tops",
+    "name": "M’s Daily Snap-T P/O",
+    "code": "25490PLCN",
+    "baseCode": "25490",
+    "color": "PLCN",
+    "image": "assets/25490PLCN.jpg"
+  },
+  {
+    "page": 51,
+    "category": "M’s Lifestyle Essentials - Tops",
+    "name": "M’s Better Sweater 1/4 Zip",
+    "code": "25523AQT",
+    "baseCode": "25523",
+    "color": "AQT",
+    "image": "assets/25523AQT.jpg"
+  },
+  {
+    "page": 51,
+    "category": "M’s Lifestyle Essentials - Tops",
+    "name": "M’s Better Sweater 1/4 Zip",
+    "code": "25523BLK",
+    "baseCode": "25523",
+    "color": "BLK",
+    "image": "assets/25523BLK.jpg"
+  },
+  {
+    "page": 51,
+    "category": "M’s Lifestyle Essentials - Tops",
+    "name": "Artículo Patagonia",
+    "code": "25523CLOR",
+    "baseCode": "25523",
+    "color": "CLOR",
+    "image": "assets/25523CLOR.jpg"
+  },
+  {
+    "page": 51,
+    "category": "M’s Lifestyle Essentials - Tops",
+    "name": "Artículo Patagonia",
+    "code": "25523RVGN",
+    "baseCode": "25523",
+    "color": "RVGN",
+    "image": "assets/25523RVGN.jpg"
+  },
+  {
+    "page": 51,
+    "category": "M’s Lifestyle Essentials - Tops",
+    "name": "M’s Better Sweater Jacket",
+    "code": "25528AQT",
+    "baseCode": "25528",
+    "color": "AQT",
+    "image": "assets/25528AQT.jpg"
+  },
+  {
+    "page": 51,
+    "category": "M’s Lifestyle Essentials - Tops",
+    "name": "M’s Better Sweater Jacket",
+    "code": "25528BLK",
+    "baseCode": "25528",
+    "color": "BLK",
+    "image": "assets/25528BLK.jpg"
+  },
+  {
+    "page": 51,
+    "category": "M’s Lifestyle Essentials - Tops",
+    "name": "Artículo Patagonia",
+    "code": "25528GRBN",
+    "baseCode": "25528",
+    "color": "GRBN",
+    "image": "assets/25528GRBN.jpg"
+  },
+  {
+    "page": 51,
+    "category": "M’s Lifestyle Essentials - Tops",
+    "name": "Artículo Patagonia",
+    "code": "25528STH",
+    "baseCode": "25528",
+    "color": "STH",
+    "image": "assets/25528STH.jpg"
+  },
+  {
+    "page": 58,
+    "category": "W’s Lifestyle Essentials - Tops",
+    "name": "W’s Better Sweater Jacket",
+    "code": "25543BLK",
+    "baseCode": "25543",
+    "color": "BLK",
+    "image": "assets/25543BLK.jpg"
+  },
+  {
+    "page": 58,
+    "category": "W’s Lifestyle Essentials - Tops",
+    "name": "W’s Better Sweater Jacket",
+    "code": "25543RVGN",
+    "baseCode": "25543",
+    "color": "RVGN",
+    "image": "assets/25543RVGN.jpg"
+  },
+  {
+    "page": 58,
+    "category": "W’s Lifestyle Essentials - Tops",
+    "name": "W’s Better Sweater Jacket",
+    "code": "25543THI",
+    "baseCode": "25543",
+    "color": "THI",
+    "image": "assets/25543THI.jpg"
+  },
+  {
+    "page": 52,
+    "category": "M’s Lifestyle Essentials - Tops",
+    "name": "M’s LW Synch Snap-T P/O",
+    "code": "25551NAUT",
+    "baseCode": "25551",
+    "color": "NAUT",
+    "image": "assets/25551NAUT.jpg"
+  },
+  {
+    "page": 52,
+    "category": "M’s Lifestyle Essentials - Tops",
+    "name": "M’s LW Synch Snap-T P/O",
+    "code": "25551OLNA",
+    "baseCode": "25551",
+    "color": "OLNA",
+    "image": "assets/25551OLNA.jpg"
+  },
+  {
+    "page": 58,
+    "category": "W’s Lifestyle Essentials - Tops",
+    "name": "W’s Better Sweater 1/4 Zip",
+    "code": "25618LVT",
+    "baseCode": "25618",
+    "color": "LVT",
+    "image": "assets/25618LVT.jpg"
+  },
+  {
+    "page": 51,
+    "category": "M’s Lifestyle Essentials - Tops",
+    "name": "M’s Better Sweater Vest",
+    "code": "25882BLK",
+    "baseCode": "25882",
+    "color": "BLK",
+    "image": "assets/25882BLK.jpg"
+  },
+  {
+    "page": 51,
+    "category": "M’s Lifestyle Essentials - Tops",
+    "name": "M’s Better Sweater Vest",
+    "code": "25882RVGN",
+    "baseCode": "25882",
+    "color": "RVGN",
+    "image": "assets/25882RVGN.jpg"
+  },
+  {
+    "page": 51,
+    "category": "M’s Lifestyle Essentials - Tops",
+    "name": "M’s Better Sweater Vest",
+    "code": "25882STH",
+    "baseCode": "25882",
+    "color": "STH",
+    "image": "assets/25882STH.jpg"
+  },
+  {
+    "page": 58,
+    "category": "W’s Lifestyle Essentials - Tops",
+    "name": "W’s Better Sweater Vest",
+    "code": "25887THI",
+    "baseCode": "25887",
+    "color": "THI",
+    "image": "assets/25887THI.jpg"
+  },
+  {
+    "page": 52,
+    "category": "M’s Lifestyle Essentials - Tops",
+    "name": "M’s Micro D Jacket",
+    "code": "26171AQT",
+    "baseCode": "26171",
+    "color": "AQT",
+    "image": "assets/26171AQT.jpg"
+  },
+  {
+    "page": 52,
+    "category": "M’s Lifestyle Essentials - Tops",
+    "name": "M’s Micro D Jacket",
+    "code": "26171BLK",
+    "baseCode": "26171",
+    "color": "BLK",
+    "image": "assets/26171BLK.jpg"
+  },
+  {
+    "page": 52,
+    "category": "M’s Lifestyle Essentials - Tops",
+    "name": "Artículo Patagonia",
+    "code": "26176BLK",
+    "baseCode": "26176",
+    "color": "BLK",
+    "image": "assets/26176BLK.jpg"
+  },
+  {
+    "page": 52,
+    "category": "M’s Lifestyle Essentials - Tops",
+    "name": "M’s Micro D P/O",
+    "code": "26176FEA",
+    "baseCode": "26176",
+    "color": "FEA",
+    "image": "assets/26176FEA.jpg"
+  },
+  {
+    "page": 52,
+    "category": "M’s Lifestyle Essentials - Tops",
+    "name": "M’s Micro D P/O",
+    "code": "26176NENA",
+    "baseCode": "26176",
+    "color": "NENA",
+    "image": "assets/26176NENA.jpg"
+  },
+  {
+    "page": 51,
+    "category": "M’s Lifestyle Essentials - Tops",
+    "name": "M’s Better Sweater Crewneck",
+    "code": "26240RVGN",
+    "baseCode": "26240",
+    "color": "RVGN",
+    "image": "assets/26240RVGN.jpg"
+  },
+  {
+    "page": 51,
+    "category": "M’s Lifestyle Essentials - Tops",
+    "name": "M’s Better Sweater Crewneck",
+    "code": "26240STH",
+    "baseCode": "26240",
+    "color": "STH",
+    "image": "assets/26240STH.jpg"
+  },
+  {
+    "page": 59,
+    "category": "W’s Lifestyle Essentials - Tops",
+    "name": "W’s Micro D 1/4 Zip",
+    "code": "26278BLK",
+    "baseCode": "26278",
+    "color": "BLK",
+    "image": "assets/26278BLK.jpg"
+  },
+  {
+    "page": 59,
+    "category": "W’s Lifestyle Essentials - Tops",
+    "name": "W’s Micro D 1/4 Zip",
+    "code": "26278BLSG",
+    "baseCode": "26278",
+    "color": "BLSG",
+    "image": "assets/26278BLSG.jpg"
+  },
+  {
+    "page": 59,
+    "category": "W’s Lifestyle Essentials - Tops",
+    "name": "Alto Verano",
+    "code": "26278LVT",
+    "baseCode": "26278",
+    "color": "LVT",
+    "image": "assets/26278LVT.jpg"
+  },
+  {
+    "page": 50,
+    "category": "M’s Lifestyle Essentials - Tops",
+    "name": "M’s Iron Forge Hooded Jacket",
+    "code": "26775COI",
+    "baseCode": "26775",
+    "color": "COI",
+    "image": "assets/26775COI.jpg"
+  },
+  {
+    "page": 57,
+    "category": "W’s Lifestyle Essentials - Tops",
+    "name": "W’s Iron Forge Ranch Jacket",
+    "code": "26780COI",
+    "baseCode": "26780",
+    "color": "COI",
+    "image": "assets/26780COI.jpg"
+  },
+  {
+    "page": 57,
+    "category": "W’s Lifestyle Essentials - Tops",
+    "name": "W’s Iron Forge Ranch Jacket",
+    "code": "26780WSTO",
+    "baseCode": "26780",
+    "color": "WSTO",
+    "image": "assets/26780WSTO.jpg"
+  },
+  {
+    "page": 49,
+    "category": "M’s Lifestyle Essentials - Tops",
+    "name": "M’s Isthmus Deck Jacket",
+    "code": "27025BLSG",
+    "baseCode": "27025",
+    "color": "BLSG",
+    "image": "assets/27025BLSG.jpg"
+  },
+  {
+    "page": 70,
+    "category": "Pants Everyday Pants Pocket Pants - Reg Pocket Pants - Reg",
+    "name": "Atom Sling 8L Terravia Sacoche Refugio Day Pack 26L",
+    "code": "27025SBD",
+    "baseCode": "27025",
+    "color": "SBD",
+    "image": "assets/27025SBD.jpg"
+  },
+  {
+    "page": 49,
+    "category": "M’s Lifestyle Essentials - Tops",
+    "name": "M’s Isthmus Deck Jacket",
+    "code": "27025SBDY",
+    "baseCode": "27025",
+    "color": "SBDY",
+    "image": "assets/27025SBDY.jpg"
+  },
+  {
+    "page": 49,
+    "category": "M’s Lifestyle Essentials - Tops",
+    "name": "M’s Diamond Quilted Bomber Hoody",
+    "code": "27611BLSG",
+    "baseCode": "27611",
+    "color": "BLSG",
+    "image": "assets/27611BLSG.jpg"
+  },
+  {
+    "page": 49,
+    "category": "M’s Lifestyle Essentials - Tops",
+    "name": "M’s Diamond Quilted Bomber Hoody",
+    "code": "27611WSTO",
+    "baseCode": "27611",
+    "color": "WSTO",
+    "image": "assets/27611WSTO.jpg"
+  },
+  {
+    "page": 50,
+    "category": "M’s Lifestyle Essentials - Tops",
+    "name": "M’s Iron Forge Ranch Jacket",
+    "code": "27805DKAS",
+    "baseCode": "27805",
+    "color": "DKAS",
+    "image": "assets/27805DKAS.jpg"
+  },
+  {
+    "page": 50,
+    "category": "M’s Lifestyle Essentials - Tops",
+    "name": "M’s Iron Forge Ranch Jacket",
+    "code": "27805INBK",
+    "baseCode": "27805",
+    "color": "INBK",
+    "image": "assets/27805INBK.jpg"
+  },
+  {
+    "page": 4,
+    "category": "Accesories - Headwear",
+    "name": "Surf Brimmer",
+    "code": "28835BSNG",
+    "baseCode": "28835",
+    "color": "BSNG",
+    "image": "assets/28835BSNG.jpg"
+  },
+  {
+    "page": 4,
+    "category": "Accesories - Headwear",
+    "name": "Surf Brimmer",
+    "code": "28835CLOR",
+    "baseCode": "28835",
+    "color": "CLOR",
+    "image": "assets/28835CLOR.jpg"
+  },
+  {
+    "page": 4,
+    "category": "Accesories - Headwear",
+    "name": "Wavefarer Bucket Hat",
+    "code": "29157KALB",
+    "baseCode": "29157",
+    "color": "KALB",
+    "image": "assets/29157KALB.jpg"
+  },
+  {
+    "page": 4,
+    "category": "Accesories - Headwear",
+    "name": "Wavefarer Bucket Hat",
+    "code": "29157MJVK",
+    "baseCode": "29157",
+    "color": "MJVK",
+    "image": "assets/29157MJVK.jpg"
+  },
+  {
+    "page": 4,
+    "category": "Accesories - Headwear",
+    "name": "Wavefarer Bucket Hat",
+    "code": "29157WPWS",
+    "baseCode": "29157",
+    "color": "WPWS",
+    "image": "assets/29157WPWS.jpg"
+  },
+  {
+    "page": 11,
+    "category": "Active Essentials - Tops",
+    "name": "W’s Maipo Mid Impact Bra",
+    "code": "32120BLK",
+    "baseCode": "32120",
+    "color": "BLK",
+    "image": "assets/32120BLK.jpg"
+  },
+  {
+    "page": 11,
+    "category": "Active Essentials - Tops",
+    "name": "W’s Maipo Mid Impact Bra",
+    "code": "32120KALB",
+    "baseCode": "32120",
+    "color": "KALB",
+    "image": "assets/32120KALB.jpg"
+  },
+  {
+    "page": 11,
+    "category": "Active Essentials - Tops",
+    "name": "W’s Maipo Low Impact Adjustable Bra",
+    "code": "32125BLK",
+    "baseCode": "32125",
+    "color": "BLK",
+    "image": "assets/32125BLK.jpg"
+  },
+  {
+    "page": 11,
+    "category": "Active Essentials - Tops",
+    "name": "W’s Maipo Low Impact Adjustable Bra",
+    "code": "32125CPRG",
+    "baseCode": "32125",
+    "color": "CPRG",
+    "image": "assets/32125CPRG.jpg"
+  },
+  {
+    "page": 4,
+    "category": "Accesories - Headwear",
+    "name": "Terrebonne Hat",
+    "code": "33317BCBN",
+    "baseCode": "33317",
+    "color": "BCBN",
+    "image": "assets/33317BCBN.jpg"
+  },
+  {
+    "page": 4,
+    "category": "Accesories - Headwear",
+    "name": "PreSeason",
+    "code": "33317BLSG",
+    "baseCode": "33317",
+    "color": "BLSG",
+    "image": "assets/33317BLSG.jpg"
+  },
+  {
+    "page": 4,
+    "category": "Accesories - Headwear",
+    "name": "PreSeason",
+    "code": "33317RVGN",
+    "baseCode": "33317",
+    "color": "RVGN",
+    "image": "assets/33317RVGN.jpg"
+  },
+  {
+    "page": 4,
+    "category": "Accesories - Headwear",
+    "name": "Terrebonne Visor",
+    "code": "33322LVT",
+    "baseCode": "33322",
+    "color": "LVT",
+    "image": "assets/33322LVT.jpg"
+  },
+  {
+    "page": 4,
+    "category": "Accesories - Headwear",
+    "name": "Terrebonne Visor",
+    "code": "33322WSTO",
+    "baseCode": "33322",
+    "color": "WSTO",
+    "image": "assets/33322WSTO.jpg"
+  },
+  {
+    "page": 43,
+    "category": "Logo - Accesories",
+    "name": "Broadcaster Hat",
+    "code": "33395FJRI",
+    "baseCode": "33395",
+    "color": "FJRI",
+    "image": "assets/33395FJRI.jpg"
+  },
+  {
+    "page": 43,
+    "category": "Logo - Accesories",
+    "name": "Broadcaster Hat",
+    "code": "33395FJWE",
+    "baseCode": "33395",
+    "color": "FJWE",
+    "image": "assets/33395FJWE.jpg"
+  },
+  {
+    "page": 43,
+    "category": "Logo - Accesories",
+    "name": "Artículo Patagonia",
+    "code": "33395GPLZ",
+    "baseCode": "33395",
+    "color": "GPLZ",
+    "image": "assets/33395GPLZ.jpg"
+  },
+  {
+    "page": 43,
+    "category": "Logo - Accesories",
+    "name": "Artículo Patagonia",
+    "code": "33395GPSA",
+    "baseCode": "33395",
+    "color": "GPSA",
+    "image": "assets/33395GPSA.jpg"
+  },
+  {
+    "page": 4,
+    "category": "Accesories - Headwear",
+    "name": "Merganzer Hat",
+    "code": "33482MRCO",
+    "baseCode": "33482",
+    "color": "MRCO",
+    "image": "assets/33482MRCO.jpg"
+  },
+  {
+    "page": 4,
+    "category": "Accesories - Headwear",
+    "name": "Merganzer Hat",
+    "code": "33482WBSG",
+    "baseCode": "33482",
+    "color": "WBSG",
+    "image": "assets/33482WBSG.jpg"
+  },
+  {
+    "page": 4,
+    "category": "Accesories - Headwear",
+    "name": "Patagonia Brimmer",
+    "code": "33521CLNA",
+    "baseCode": "33521",
+    "color": "CLNA",
+    "image": "assets/33521CLNA.jpg"
+  },
+  {
+    "page": 4,
+    "category": "Accesories - Headwear",
+    "name": "Patagonia Brimmer",
+    "code": "33521FGE",
+    "baseCode": "33521",
+    "color": "FGE",
+    "image": "assets/33521FGE.jpg"
+  },
+  {
+    "page": 4,
+    "category": "Accesories - Headwear",
+    "name": "ULW Ridge Hat",
+    "code": "33590BLSG",
+    "baseCode": "33590",
+    "color": "BLSG",
+    "image": "assets/33590BLSG.jpg"
+  },
+  {
+    "page": 4,
+    "category": "Accesories - Headwear",
+    "name": "ULW Ridge Hat",
+    "code": "33590LVT",
+    "baseCode": "33590",
+    "color": "LVT",
+    "image": "assets/33590LVT.jpg"
+  },
+  {
+    "page": 38,
+    "category": "Logo - Tops",
+    "name": "M’s Take a Stand Responsibili-Tee",
+    "code": "37591RBSG",
+    "baseCode": "37591",
+    "color": "RBSG",
+    "image": "assets/37591RBSG.jpg"
+  },
+  {
+    "page": 38,
+    "category": "Logo - Tops",
+    "name": "M’s Boardshort Logo Pocket Responsibili-Tee",
+    "code": "37655BLSG",
+    "baseCode": "37655",
+    "color": "BLSG",
+    "image": "assets/37655BLSG.jpg"
+  },
+  {
+    "page": 38,
+    "category": "Logo - Tops",
+    "name": "M’s Boardshort Logo Pocket Responsibili-Tee",
+    "code": "37655GMTG",
+    "baseCode": "37655",
+    "color": "GMTG",
+    "image": "assets/37655GMTG.jpg"
+  },
+  {
+    "page": 39,
+    "category": "Logo - Tops",
+    "name": "M’s Chouinard Crest Pocket Responsibili-Tee",
+    "code": "37770BCW",
+    "baseCode": "37770",
+    "color": "BCW",
+    "image": "assets/37770BCW.jpg"
+  },
+  {
+    "page": 70,
+    "category": "Pants Everyday Pants Pocket Pants - Reg Pocket Pants - Reg",
+    "name": "M ´ s D a ily S n a p- T P /O",
+    "code": "37770BLS",
+    "baseCode": "37770",
+    "color": "BLS",
+    "image": "assets/37770BLS.jpg"
+  },
+  {
+    "page": 39,
+    "category": "Logo - Tops",
+    "name": "M’s Chouinard Crest Pocket Responsibili-Tee",
+    "code": "37770BLSG",
+    "baseCode": "37770",
+    "color": "BLSG",
+    "image": "assets/37770BLSG.jpg"
+  },
+  {
+    "page": 39,
+    "category": "Logo - Tops",
+    "name": "M’s Casting Logo Responsibili-Tee",
+    "code": "37811SMDB",
+    "baseCode": "37811",
+    "color": "SMDB",
+    "image": "assets/37811SMDB.jpg"
+  },
+  {
+    "page": 39,
+    "category": "Logo - Tops",
+    "name": "PreSeason",
+    "code": "37811WHI",
+    "baseCode": "37811",
+    "color": "WHI",
+    "image": "assets/37811WHI.jpg"
+  },
+  {
+    "page": 41,
+    "category": "Logo - Tops",
+    "name": "M’s Strataspire Responsibili-Tee",
+    "code": "37839LMST",
+    "baseCode": "37839",
+    "color": "LMST",
+    "image": "assets/37839LMST.jpg"
+  },
+  {
+    "page": 41,
+    "category": "Logo - Tops",
+    "name": "M’s Strataspire Responsibili-Tee",
+    "code": "37839THI",
+    "baseCode": "37839",
+    "color": "THI",
+    "image": "assets/37839THI.jpg"
+  },
+  {
+    "page": 41,
+    "category": "Logo - Tops",
+    "name": "Artículo Patagonia",
+    "code": "37839WHI",
+    "baseCode": "37839",
+    "color": "WHI",
+    "image": "assets/37839WHI.jpg"
+  },
+  {
+    "page": 39,
+    "category": "Logo - Tops",
+    "name": "M’s ‹73 Skyline T-Shirt",
+    "code": "37841BLSG",
+    "baseCode": "37841",
+    "color": "BLSG",
+    "image": "assets/37841BLSG.jpg"
+  },
+  {
+    "page": 39,
+    "category": "Logo - Tops",
+    "name": "Artículo Patagonia",
+    "code": "37841ORPL",
+    "baseCode": "37841",
+    "color": "ORPL",
+    "image": "assets/37841ORPL.jpg"
+  },
+  {
+    "page": 39,
+    "category": "Logo - Tops",
+    "name": "Artículo Patagonia",
+    "code": "37841WSTO",
+    "baseCode": "37841",
+    "color": "WSTO",
+    "image": "assets/37841WSTO.jpg"
+  },
+  {
+    "page": 71,
+    "category": "Tops - Men´s Tops - Women´s",
+    "name": "Stretch Terre Planing Hoody",
+    "code": "37842BLSG",
+    "baseCode": "37842",
+    "color": "BLSG",
+    "image": "assets/37842BLSG.jpg"
+  },
+  {
+    "page": 39,
+    "category": "Logo - Tops",
+    "name": "PreSeason",
+    "code": "37842LMZ",
+    "baseCode": "37842",
+    "color": "LMZ",
+    "image": "assets/37842LMZ.jpg"
+  },
+  {
+    "page": 40,
+    "category": "Logo - Tops",
+    "name": "M’s Repair Shop T-Shirt",
+    "code": "37844ORPL",
+    "baseCode": "37844",
+    "color": "ORPL",
+    "image": "assets/37844ORPL.jpg"
+  },
+  {
+    "page": 40,
+    "category": "Logo - Tops",
+    "name": "Artículo Patagonia",
+    "code": "37844UDNL",
+    "baseCode": "37844",
+    "color": "UDNL",
+    "image": "assets/37844UDNL.jpg"
+  },
+  {
+    "page": 40,
+    "category": "Logo - Tops",
+    "name": "M’s Mother Rays T-Shirt",
+    "code": "37845BCBN",
+    "baseCode": "37845",
+    "color": "BCBN",
+    "image": "assets/37845BCBN.jpg"
+  },
+  {
+    "page": 40,
+    "category": "Logo - Tops",
+    "name": "Holidays",
+    "code": "37845UDNL",
+    "baseCode": "37845",
+    "color": "UDNL",
+    "image": "assets/37845UDNL.jpg"
+  },
+  {
+    "page": 73,
+    "category": "Tops - Men´s Tops - Women´s",
+    "name": "M´s ‹73 Skyline T-Shirt",
+    "code": "37847BBSN",
+    "baseCode": "37847",
+    "color": "BBSN",
+    "image": "assets/37847BBSN.jpg"
+  },
+  {
+    "page": 41,
+    "category": "Logo - Tops",
+    "name": "Artículo Patagonia",
+    "code": "37847NNKO",
+    "baseCode": "37847",
+    "color": "NNKO",
+    "image": "assets/37847NNKO.jpg"
+  },
+  {
+    "page": 42,
+    "category": "Logo - Tops",
+    "name": "W’s Mother Rays Relaxed Drop Sleeve T-Shirt",
+    "code": "37850GMTG",
+    "baseCode": "37850",
+    "color": "GMTG",
+    "image": "assets/37850GMTG.jpg"
+  },
+  {
+    "page": 42,
+    "category": "Logo - Tops",
+    "name": "W’s Mother Rays Relaxed Drop Sleeve T-Shirt",
+    "code": "37850UDNL",
+    "baseCode": "37850",
+    "color": "UDNL",
+    "image": "assets/37850UDNL.jpg"
+  },
+  {
+    "page": 42,
+    "category": "Logo - Tops",
+    "name": "W’s Water People Spotter Oversized T-Shirt",
+    "code": "37866LMZ",
+    "baseCode": "37866",
+    "color": "LMZ",
+    "image": "assets/37866LMZ.jpg"
+  },
+  {
+    "page": 42,
+    "category": "Logo - Tops",
+    "name": "W’s Water People Spotter Oversized T-Shirt",
+    "code": "37866UDNL",
+    "baseCode": "37866",
+    "color": "UDNL",
+    "image": "assets/37866UDNL.jpg"
+  },
+  {
+    "page": 42,
+    "category": "Logo - Tops",
+    "name": "W’s ‹95 Oval Logo Oversized T-Shirt",
+    "code": "37870QVLT",
+    "baseCode": "37870",
+    "color": "QVLT",
+    "image": "assets/37870QVLT.jpg"
+  },
+  {
+    "page": 42,
+    "category": "Logo - Tops",
+    "name": "W’s ‹95 Oval Logo Oversized T-Shirt",
+    "code": "37870SMDB",
+    "baseCode": "37870",
+    "color": "SMDB",
+    "image": "assets/37870SMDB.jpg"
+  },
+  {
+    "page": 40,
+    "category": "Logo - Tops",
+    "name": "Holidays",
+    "code": "37872BCBN",
+    "baseCode": "37872",
+    "color": "BCBN",
+    "image": "assets/37872BCBN.jpg"
+  },
+  {
+    "page": 40,
+    "category": "Logo - Tops",
+    "name": "M’s Forge Born T-Shirt",
+    "code": "37872BLSG",
+    "baseCode": "37872",
+    "color": "BLSG",
+    "image": "assets/37872BLSG.jpg"
+  },
+  {
+    "page": 40,
+    "category": "Logo - Tops",
+    "name": "Artículo Patagonia",
+    "code": "37872FGE",
+    "baseCode": "37872",
+    "color": "FGE",
+    "image": "assets/37872FGE.jpg"
+  },
+  {
+    "page": 40,
+    "category": "Logo - Tops",
+    "name": "M’s Great Waves Responsibili-Tee",
+    "code": "37873LMZ",
+    "baseCode": "37873",
+    "color": "LMZ",
+    "image": "assets/37873LMZ.jpg"
+  },
+  {
+    "page": 40,
+    "category": "Logo - Tops",
+    "name": "Artículo Patagonia",
+    "code": "37873SHRB",
+    "baseCode": "37873",
+    "color": "SHRB",
+    "image": "assets/37873SHRB.jpg"
+  },
+  {
+    "page": 40,
+    "category": "Logo - Tops",
+    "name": "M’s Great Waves Responsibili-Tee",
+    "code": "37873WHI",
+    "baseCode": "37873",
+    "color": "WHI",
+    "image": "assets/37873WHI.jpg"
+  },
+  {
+    "page": 54,
+    "category": "M’s Lifestyle Essentials - Tops",
+    "name": "M’s Daily Tee",
+    "code": "37877BLK",
+    "baseCode": "37877",
+    "color": "BLK",
+    "image": "assets/37877BLK.jpg"
+  },
+  {
+    "page": 54,
+    "category": "M’s Lifestyle Essentials - Tops",
+    "name": "M’s Daily Tee",
+    "code": "37877BLSG",
+    "baseCode": "37877",
+    "color": "BLSG",
+    "image": "assets/37877BLSG.jpg"
+  },
+  {
+    "page": 54,
+    "category": "M’s Lifestyle Essentials - Tops",
+    "name": "Artículo Patagonia",
+    "code": "37877CLOR",
+    "baseCode": "37877",
+    "color": "CLOR",
+    "image": "assets/37877CLOR.jpg"
+  },
+  {
+    "page": 41,
+    "category": "Logo - Tops",
+    "name": "M’s MW ‹95 Oval Logo Pocket Tee",
+    "code": "37880NENA",
+    "baseCode": "37880",
+    "color": "NENA",
+    "image": "assets/37880NENA.jpg"
+  },
+  {
+    "page": 41,
+    "category": "Logo - Tops",
+    "name": "M’s MW ‹95 Oval Logo Pocket Tee",
+    "code": "37880UDNL",
+    "baseCode": "37880",
+    "color": "UDNL",
+    "image": "assets/37880UDNL.jpg"
+  },
+  {
+    "page": 41,
+    "category": "Logo - Tops",
+    "name": "Artículo Patagonia",
+    "code": "37882CLOR",
+    "baseCode": "37882",
+    "color": "CLOR",
+    "image": "assets/37882CLOR.jpg"
+  },
+  {
+    "page": 41,
+    "category": "Logo - Tops",
+    "name": "M’s P6- Logo T-Shirt",
+    "code": "37882INBK",
+    "baseCode": "37882",
+    "color": "INBK",
+    "image": "assets/37882INBK.jpg"
+  },
+  {
+    "page": 41,
+    "category": "Logo - Tops",
+    "name": "M’s P6- Logo T-Shirt",
+    "code": "37882SHRB",
+    "baseCode": "37882",
+    "color": "SHRB",
+    "image": "assets/37882SHRB.jpg"
+  },
+  {
+    "page": 41,
+    "category": "Logo - Tops",
+    "name": "Artículo Patagonia",
+    "code": "37882UDNL",
+    "baseCode": "37882",
+    "color": "UDNL",
+    "image": "assets/37882UDNL.jpg"
+  },
+  {
+    "page": 43,
+    "category": "Logo - Accesories",
+    "name": "Airfarer Cap",
+    "code": "37996CCGM",
+    "baseCode": "37996",
+    "color": "CCGM",
+    "image": "assets/37996CCGM.jpg"
+  },
+  {
+    "page": 43,
+    "category": "Logo - Accesories",
+    "name": "Airfarer Cap",
+    "code": "37996CCLM",
+    "baseCode": "37996",
+    "color": "CCLM",
+    "image": "assets/37996CCLM.jpg"
+  },
+  {
+    "page": 43,
+    "category": "Logo - Accesories",
+    "name": "Relaxed Trucker Hat",
+    "code": "37999GWST",
+    "baseCode": "37999",
+    "color": "GWST",
+    "image": "assets/37999GWST.jpg"
+  },
+  {
+    "page": 43,
+    "category": "Logo - Accesories",
+    "name": "Relaxed Trucker Hat",
+    "code": "37999RPGM",
+    "baseCode": "37999",
+    "color": "RPGM",
+    "image": "assets/37999RPGM.jpg"
+  },
+  {
+    "page": 43,
+    "category": "Logo - Accesories",
+    "name": "Relaxed Trucker Hat",
+    "code": "37999WKBC",
+    "baseCode": "37999",
+    "color": "WKBC",
+    "image": "assets/37999WKBC.jpg"
+  },
+  {
+    "page": 44,
+    "category": "Logo - Accesories",
+    "name": "P6- Logo Trucker Hat",
+    "code": "38289FGE",
+    "baseCode": "38289",
+    "color": "FGE",
+    "image": "assets/38289FGE.jpg"
+  },
+  {
+    "page": 44,
+    "category": "Logo - Accesories",
+    "name": "P6- Logo Trucker Hat",
+    "code": "38289GMTG",
+    "baseCode": "38289",
+    "color": "GMTG",
+    "image": "assets/38289GMTG.jpg"
+  },
+  {
+    "page": 44,
+    "category": "Logo - Accesories",
+    "name": "Artículo Patagonia",
+    "code": "38289SHRB",
+    "baseCode": "38289",
+    "color": "SHRB",
+    "image": "assets/38289SHRB.jpg"
+  },
+  {
+    "page": 44,
+    "category": "Logo - Accesories",
+    "name": "Artículo Patagonia",
+    "code": "38289WIQV",
+    "baseCode": "38289",
+    "color": "WIQV",
+    "image": "assets/38289WIQV.jpg"
+  },
+  {
+    "page": 44,
+    "category": "Logo - Accesories",
+    "name": "Take a Stand Trucker Hat",
+    "code": "38356CLSM",
+    "baseCode": "38356",
+    "color": "CLSM",
+    "image": "assets/38356CLSM.jpg"
+  },
+  {
+    "page": 44,
+    "category": "Logo - Accesories",
+    "name": "Take a Stand Trucker Hat",
+    "code": "38356RNBB",
+    "baseCode": "38356",
+    "color": "RNBB",
+    "image": "assets/38356RNBB.jpg"
+  },
+  {
+    "page": 44,
+    "category": "Logo - Accesories",
+    "name": "Take a Stand Trucker Hat",
+    "code": "38356SDWI",
+    "baseCode": "38356",
+    "color": "SDWI",
+    "image": "assets/38356SDWI.jpg"
+  },
+  {
+    "page": 44,
+    "category": "Logo - Accesories",
+    "name": "Flying Fish LoPro Trucker Hat",
+    "code": "38362FFBC",
+    "baseCode": "38362",
+    "color": "FFBC",
+    "image": "assets/38362FFBC.jpg"
+  },
+  {
+    "page": 44,
+    "category": "Logo - Accesories",
+    "name": "Flying Fish LoPro Trucker Hat",
+    "code": "38362FLBK",
+    "baseCode": "38362",
+    "color": "FLBK",
+    "image": "assets/38362FLBK.jpg"
+  },
+  {
+    "page": 44,
+    "category": "Logo - Accesories",
+    "name": "Fitz Roy Icon Trad Cap",
+    "code": "38364TBGM",
+    "baseCode": "38364",
+    "color": "TBGM",
+    "image": "assets/38364TBGM.jpg"
+  },
+  {
+    "page": 44,
+    "category": "Logo - Accesories",
+    "name": "Fitz Roy Icon Trad Cap",
+    "code": "38364TLQV",
+    "baseCode": "38364",
+    "color": "TLQV",
+    "image": "assets/38364TLQV.jpg"
+  },
+  {
+    "page": 37,
+    "category": "Logo - Tops",
+    "name": "M’s P6- Logo Uprisal Hoody",
+    "code": "39622BLK",
+    "baseCode": "39622",
+    "color": "BLK",
+    "image": "assets/39622BLK.jpg"
+  },
+  {
+    "page": 37,
+    "category": "Logo - Tops",
+    "name": "M’s P6- Logo Uprisal Hoody",
+    "code": "39622GLH",
+    "baseCode": "39622",
+    "color": "GLH",
+    "image": "assets/39622GLH.jpg"
+  },
+  {
+    "page": 37,
+    "category": "Logo - Tops",
+    "name": "Artículo Patagonia",
+    "code": "39622NENA",
+    "baseCode": "39622",
+    "color": "NENA",
+    "image": "assets/39622NENA.jpg"
+  },
+  {
+    "page": 37,
+    "category": "Logo - Tops",
+    "name": "M’s Home Water Trout Uprisal Hoody",
+    "code": "39661BLK",
+    "baseCode": "39661",
+    "color": "BLK",
+    "image": "assets/39661BLK.jpg"
+  },
+  {
+    "page": 37,
+    "category": "Logo - Tops",
+    "name": "Artículo Patagonia",
+    "code": "39665BLSG",
+    "baseCode": "39665",
+    "color": "BLSG",
+    "image": "assets/39665BLSG.jpg"
+  },
+  {
+    "page": 37,
+    "category": "Logo - Tops",
+    "name": "M’s Boardshort Logo Uprisal Hoody",
+    "code": "39665INBK",
+    "baseCode": "39665",
+    "color": "INBK",
+    "image": "assets/39665INBK.jpg"
+  },
+  {
+    "page": 37,
+    "category": "Logo - Tops",
+    "name": "M’s Boardshort Logo Uprisal Hoody",
+    "code": "39665LMST",
+    "baseCode": "39665",
+    "color": "LMST",
+    "image": "assets/39665LMST.jpg"
+  },
+  {
+    "page": 37,
+    "category": "Logo - Tops",
+    "name": "M’s Chouinard Crest Uprisal Hoody",
+    "code": "39700BLK",
+    "baseCode": "39700",
+    "color": "BLK",
+    "image": "assets/39700BLK.jpg"
+  },
+  {
+    "page": 37,
+    "category": "Logo - Tops",
+    "name": "M’s Chouinard Crest Uprisal Hoody",
+    "code": "39700BLSG",
+    "baseCode": "39700",
+    "color": "BLSG",
+    "image": "assets/39700BLSG.jpg"
+  },
+  {
+    "page": 70,
+    "category": "Pants Everyday Pants Pocket Pants - Reg Pocket Pants - Reg",
+    "name": "M´s Isthmus Deck Jkt M´s Isthmus Deck Jkt Y",
+    "code": "39724BBN",
+    "baseCode": "39724",
+    "color": "BBN",
+    "image": "assets/39724BBN.jpg"
+  },
+  {
+    "page": 37,
+    "category": "Logo - Tops",
+    "name": "M’s ‹95 Oval Logo Uprisal Hoody",
+    "code": "39724BBSN",
+    "baseCode": "39724",
+    "color": "BBSN",
+    "image": "assets/39724BBSN.jpg"
+  },
+  {
+    "page": 37,
+    "category": "Logo - Tops",
+    "name": "M’s ‹95 Oval Logo Uprisal Hoody",
+    "code": "39724BKLO",
+    "baseCode": "39724",
+    "color": "BKLO",
+    "image": "assets/39724BKLO.jpg"
+  },
+  {
+    "page": 37,
+    "category": "Logo - Tops",
+    "name": "Alto Verano",
+    "code": "39724NENA",
+    "baseCode": "39724",
+    "color": "NENA",
+    "image": "assets/39724NENA.jpg"
+  },
+  {
+    "page": 38,
+    "category": "Logo - Tops",
+    "name": "W’s ‹95 Oval Logo Daily Crew",
+    "code": "39729SMDB",
+    "baseCode": "39729",
+    "color": "SMDB",
+    "image": "assets/39729SMDB.jpg"
+  },
+  {
+    "page": 38,
+    "category": "Logo - Tops",
+    "name": "W’s ‹95 Oval Logo Daily Crew",
+    "code": "39729WLWT",
+    "baseCode": "39729",
+    "color": "WLWT",
+    "image": "assets/39729WLWT.jpg"
+  },
+  {
+    "page": 38,
+    "category": "Logo - Tops",
+    "name": "W’s Water People Waveside Daily Hoody",
+    "code": "39733BLSG",
+    "baseCode": "39733",
+    "color": "BLSG",
+    "image": "assets/39733BLSG.jpg"
+  },
+  {
+    "page": 38,
+    "category": "Logo - Tops",
+    "name": "W’s Water People Waveside Daily Hoody",
+    "code": "39733LMZ",
+    "baseCode": "39733",
+    "color": "LMZ",
+    "image": "assets/39733LMZ.jpg"
+  },
+  {
+    "page": 8,
+    "category": "Active Essentials - Tops",
+    "name": "M’s R1 Ultralight Hoody",
+    "code": "40035CLOR",
+    "baseCode": "40035",
+    "color": "CLOR",
+    "image": "assets/40035CLOR.jpg"
+  },
+  {
+    "page": 8,
+    "category": "Active Essentials - Tops",
+    "name": "M’s R1 Ultralight Hoody",
+    "code": "40035SMDB",
+    "baseCode": "40035",
+    "color": "SMDB",
+    "image": "assets/40035SMDB.jpg"
+  },
+  {
+    "page": 8,
+    "category": "Active Essentials - Tops",
+    "name": "W’s R1 Ultralight Hoody",
+    "code": "40040BSNG",
+    "baseCode": "40040",
+    "color": "BSNG",
+    "image": "assets/40040BSNG.jpg"
+  },
+  {
+    "page": 8,
+    "category": "Active Essentials - Tops",
+    "name": "W’s R1 Ultralight Hoody",
+    "code": "40040THI",
+    "baseCode": "40040",
+    "color": "THI",
+    "image": "assets/40040THI.jpg"
+  },
+  {
+    "page": 8,
+    "category": "Active Essentials - Tops",
+    "name": "M’s R1 P/O",
+    "code": "40101AQT",
+    "baseCode": "40101",
+    "color": "AQT",
+    "image": "assets/40101AQT.jpg"
+  },
+  {
+    "page": 8,
+    "category": "Active Essentials - Tops",
+    "name": "M’s R1 P/O",
+    "code": "40101BLK",
+    "baseCode": "40101",
+    "color": "BLK",
+    "image": "assets/40101BLK.jpg"
+  },
+  {
+    "page": 8,
+    "category": "Active Essentials - Tops",
+    "name": "W’s R1 P/O",
+    "code": "40120BLK",
+    "baseCode": "40120",
+    "color": "BLK",
+    "image": "assets/40120BLK.jpg"
+  },
+  {
+    "page": 8,
+    "category": "Active Essentials - Tops",
+    "name": "W’s R1 P/O",
+    "code": "40120WLWT",
+    "baseCode": "40120",
+    "color": "WLWT",
+    "image": "assets/40120WLWT.jpg"
+  },
+  {
+    "page": 7,
+    "category": "Active Essentials - Tops",
+    "name": "W’s R1 Jacket",
+    "code": "40139BLK",
+    "baseCode": "40139",
+    "color": "BLK",
+    "image": "assets/40139BLK.jpg"
+  },
+  {
+    "page": 7,
+    "category": "Active Essentials - Tops",
+    "name": "W’s R1 Jacket",
+    "code": "40139LVT",
+    "baseCode": "40139",
+    "color": "LVT",
+    "image": "assets/40139LVT.jpg"
+  },
+  {
+    "page": 8,
+    "category": "Active Essentials - Tops",
+    "name": "M’s R1 Air Crew",
+    "code": "40236BCBN",
+    "baseCode": "40236",
+    "color": "BCBN",
+    "image": "assets/40236BCBN.jpg"
+  },
+  {
+    "page": 8,
+    "category": "Active Essentials - Tops",
+    "name": "M’s R1 Air Crew",
+    "code": "40236BLK",
+    "baseCode": "40236",
+    "color": "BLK",
+    "image": "assets/40236BLK.jpg"
+  },
+  {
+    "page": 8,
+    "category": "Active Essentials - Tops",
+    "name": "Artículo Patagonia",
+    "code": "40236SMDB",
+    "baseCode": "40236",
+    "color": "SMDB",
+    "image": "assets/40236SMDB.jpg"
+  },
+  {
+    "page": 8,
+    "category": "Active Essentials - Tops",
+    "name": "W’s R1 Air Crew",
+    "code": "40241BLK",
+    "baseCode": "40241",
+    "color": "BLK",
+    "image": "assets/40241BLK.jpg"
+  },
+  {
+    "page": 8,
+    "category": "Active Essentials - Tops",
+    "name": "W’s R1 Air Crew",
+    "code": "40241WLWT",
+    "baseCode": "40241",
+    "color": "WLWT",
+    "image": "assets/40241WLWT.jpg"
+  },
+  {
+    "page": 8,
+    "category": "Active Essentials - Tops",
+    "name": "Artículo Patagonia",
+    "code": "40241WSTO",
+    "baseCode": "40241",
+    "color": "WSTO",
+    "image": "assets/40241WSTO.jpg"
+  },
+  {
+    "page": 7,
+    "category": "Active Essentials - Tops",
+    "name": "M’s R1 Air Full-Zip Hoody",
+    "code": "40256BLK",
+    "baseCode": "40256",
+    "color": "BLK",
+    "image": "assets/40256BLK.jpg"
+  },
+  {
+    "page": 7,
+    "category": "Active Essentials - Tops",
+    "name": "M’s R1 Air Full-Zip Hoody",
+    "code": "40256CPRG",
+    "baseCode": "40256",
+    "color": "CPRG",
+    "image": "assets/40256CPRG.jpg"
+  },
+  {
+    "page": 7,
+    "category": "Active Essentials - Tops",
+    "name": "M’s R1 Air Full-Zip Hoody",
+    "code": "40256SMDB",
+    "baseCode": "40256",
+    "color": "SMDB",
+    "image": "assets/40256SMDB.jpg"
+  },
+  {
+    "page": 7,
+    "category": "Active Essentials - Tops",
+    "name": "W’s R1 Air Full-Zip Hoody",
+    "code": "40261BLK",
+    "baseCode": "40261",
+    "color": "BLK",
+    "image": "assets/40261BLK.jpg"
+  },
+  {
+    "page": 7,
+    "category": "Active Essentials - Tops",
+    "name": "W’s R1 Air Full-Zip Hoody",
+    "code": "40261QVLT",
+    "baseCode": "40261",
+    "color": "QVLT",
+    "image": "assets/40261QVLT.jpg"
+  },
+  {
+    "page": 7,
+    "category": "Active Essentials - Tops",
+    "name": "W’s R1 Air Full-Zip Hoody",
+    "code": "40261WLWT",
+    "baseCode": "40261",
+    "color": "WLWT",
+    "image": "assets/40261WLWT.jpg"
+  },
+  {
+    "page": 7,
+    "category": "Active Essentials - Tops",
+    "name": "M’s R1 Air Jacket",
+    "code": "40275BLSG",
+    "baseCode": "40275",
+    "color": "BLSG",
+    "image": "assets/40275BLSG.jpg"
+  },
+  {
+    "page": 7,
+    "category": "Active Essentials - Tops",
+    "name": "M’s R1 Air Jacket",
+    "code": "40275CLOR",
+    "baseCode": "40275",
+    "color": "CLOR",
+    "image": "assets/40275CLOR.jpg"
+  },
+  {
+    "page": 50,
+    "category": "M’s Lifestyle Essentials - Tops",
+    "name": "M’s Full-Zip Work Hoody Sweatshirt",
+    "code": "41665PNGR",
+    "baseCode": "41665",
+    "color": "PNGR",
+    "image": "assets/41665PNGR.jpg"
+  },
+  {
+    "page": 57,
+    "category": "W’s Lifestyle Essentials - Tops",
+    "name": "W’s Full-Zip Work Hoody Sweatshirt",
+    "code": "41670BLK",
+    "baseCode": "41670",
+    "color": "BLK",
+    "image": "assets/41670BLK.jpg"
+  },
+  {
+    "page": 30,
+    "category": "M’s Sandy Cay Pants M’s Sandy Cay Shorts - 9 in.",
+    "name": "M’s River Rambler Hybrid Sun Hoody",
+    "code": "41786CRGY",
+    "baseCode": "41786",
+    "color": "CRGY",
+    "image": "assets/41786CRGY.jpg"
+  },
+  {
+    "page": 30,
+    "category": "M’s Sandy Cay Pants M’s Sandy Cay Shorts - 9 in.",
+    "name": "M’s River Rambler Hybrid Sun Hoody",
+    "code": "41786RVGN",
+    "baseCode": "41786",
+    "color": "RVGN",
+    "image": "assets/41786RVGN.jpg"
+  },
+  {
+    "page": 9,
+    "category": "Active Essentials - Tops",
+    "name": "M’s L/S Self Guided Sun Shirt",
+    "code": "41825CPRG",
+    "baseCode": "41825",
+    "color": "CPRG",
+    "image": "assets/41825CPRG.jpg"
+  },
+  {
+    "page": 9,
+    "category": "Active Essentials - Tops",
+    "name": "M’s L/S Self Guided Sun Shirt",
+    "code": "41825GMTG",
+    "baseCode": "41825",
+    "color": "GMTG",
+    "image": "assets/41825GMTG.jpg"
+  },
+  {
+    "page": 53,
+    "category": "M’s Lifestyle Essentials - Tops",
+    "name": "M’s L/S Sunrise Stream Shirt",
+    "code": "41885BLSG",
+    "baseCode": "41885",
+    "color": "BLSG",
+    "image": "assets/41885BLSG.jpg"
+  },
+  {
+    "page": 53,
+    "category": "M’s Lifestyle Essentials - Tops",
+    "name": "M’s L/S Sunrise Stream Shirt",
+    "code": "41885PLCN",
+    "baseCode": "41885",
+    "color": "PLCN",
+    "image": "assets/41885PLCN.jpg"
+  },
+  {
+    "page": 60,
+    "category": "W’s Lifestyle Essentials - Tops",
+    "name": "W’s Trail Harbor Tee",
+    "code": "42060BCW",
+    "baseCode": "42060",
+    "color": "BCW",
+    "image": "assets/42060BCW.jpg"
+  },
+  {
+    "page": 60,
+    "category": "W’s Lifestyle Essentials - Tops",
+    "name": "W’s Trail Harbor Tee",
+    "code": "42060GMTG",
+    "baseCode": "42060",
+    "color": "GMTG",
+    "image": "assets/42060GMTG.jpg"
+  },
+  {
+    "page": 58,
+    "category": "W’s Lifestyle Essentials - Tops",
+    "name": "W’s Daily Hoody",
+    "code": "42157NLHR",
+    "baseCode": "42157",
+    "color": "NLHR",
+    "image": "assets/42157NLHR.jpg"
+  },
+  {
+    "page": 58,
+    "category": "W’s Lifestyle Essentials - Tops",
+    "name": "W’s Daily Hoody",
+    "code": "42157WLWT",
+    "baseCode": "42157",
+    "color": "WLWT",
+    "image": "assets/42157WLWT.jpg"
+  },
+  {
+    "page": 58,
+    "category": "W’s Lifestyle Essentials - Tops",
+    "name": "W’s Daily Crew",
+    "code": "42172SNBE",
+    "baseCode": "42172",
+    "color": "SNBE",
+    "image": "assets/42172SNBE.jpg"
+  },
+  {
+    "page": 58,
+    "category": "W’s Lifestyle Essentials - Tops",
+    "name": "W’s Daily Crew",
+    "code": "42172THI",
+    "baseCode": "42172",
+    "color": "THI",
+    "image": "assets/42172THI.jpg"
+  },
+  {
+    "page": 58,
+    "category": "W’s Lifestyle Essentials - Tops",
+    "name": "W’s Daily Jacket",
+    "code": "42195NLHR",
+    "baseCode": "42195",
+    "color": "NLHR",
+    "image": "assets/42195NLHR.jpg"
+  },
+  {
+    "page": 58,
+    "category": "W’s Lifestyle Essentials - Tops",
+    "name": "W’s Daily Jacket",
+    "code": "42195SNBE",
+    "baseCode": "42195",
+    "color": "SNBE",
+    "image": "assets/42195SNBE.jpg"
+  },
+  {
+    "page": 54,
+    "category": "M’s Lifestyle Essentials - Tops",
+    "name": "M’s Essential Polo",
+    "code": "42215BCW",
+    "baseCode": "42215",
+    "color": "BCW",
+    "image": "assets/42215BCW.jpg"
+  },
+  {
+    "page": 54,
+    "category": "M’s Lifestyle Essentials - Tops",
+    "name": "Alto Verano",
+    "code": "42215FGE",
+    "baseCode": "42215",
+    "color": "FGE",
+    "image": "assets/42215FGE.jpg"
+  },
+  {
+    "page": 54,
+    "category": "M’s Lifestyle Essentials - Tops",
+    "name": "Alto Verano",
+    "code": "42215TIDB",
+    "baseCode": "42215",
+    "color": "TIDB",
+    "image": "assets/42215TIDB.jpg"
+  },
+  {
+    "page": 60,
+    "category": "W’s Lifestyle Essentials - Tops",
+    "name": "W’s Rib Knit Top",
+    "code": "42321BLK",
+    "baseCode": "42321",
+    "color": "BLK",
+    "image": "assets/42321BLK.jpg"
+  },
+  {
+    "page": 60,
+    "category": "W’s Lifestyle Essentials - Tops",
+    "name": "W’s Rib Knit Tank",
+    "code": "42326WHI",
+    "baseCode": "42326",
+    "color": "WHI",
+    "image": "assets/42326WHI.jpg"
+  },
+  {
+    "page": 60,
+    "category": "W’s Lifestyle Essentials - Tops",
+    "name": "W’s Garden Island Top",
+    "code": "42345AKBL",
+    "baseCode": "42345",
+    "color": "AKBL",
+    "image": "assets/42345AKBL.jpg"
+  },
+  {
+    "page": 60,
+    "category": "W’s Lifestyle Essentials - Tops",
+    "name": "W’s Garden Island Top",
+    "code": "42345BLK",
+    "baseCode": "42345",
+    "color": "BLK",
+    "image": "assets/42345BLK.jpg"
+  },
+  {
+    "page": 53,
+    "category": "M’s Lifestyle Essentials - Tops",
+    "name": "M’s L/S LW Fjord Flannel Shirt",
+    "code": "42410BWST",
+    "baseCode": "42410",
+    "color": "BWST",
+    "image": "assets/42410BWST.jpg"
+  },
+  {
+    "page": 53,
+    "category": "M’s Lifestyle Essentials - Tops",
+    "name": "M’s L/S LW Fjord Flannel Shirt",
+    "code": "42410HMNL",
+    "baseCode": "42410",
+    "color": "HMNL",
+    "image": "assets/42410HMNL.jpg"
+  },
+  {
+    "page": 9,
+    "category": "Active Essentials - Tops",
+    "name": "M’s Cap MW Crew",
+    "code": "44427BLK",
+    "baseCode": "44427",
+    "color": "BLK",
+    "image": "assets/44427BLK.jpg"
+  },
+  {
+    "page": 9,
+    "category": "Active Essentials - Tops",
+    "name": "M’s Cap MW Crew",
+    "code": "44427SBDY",
+    "baseCode": "44427",
+    "color": "SBDY",
+    "image": "assets/44427SBDY.jpg"
+  },
+  {
+    "page": 12,
+    "category": "Active Essentials - Bottoms",
+    "name": "Artículo Patagonia",
+    "code": "44487BLK",
+    "baseCode": "44487",
+    "color": "BLK",
+    "image": "assets/44487BLK.jpg"
+  },
+  {
+    "page": 12,
+    "category": "Active Essentials - Bottoms",
+    "name": "Artículo Patagonia",
+    "code": "44487SMDB",
+    "baseCode": "44487",
+    "color": "SMDB",
+    "image": "assets/44487SMDB.jpg"
+  },
+  {
+    "page": 9,
+    "category": "Active Essentials - Tops",
+    "name": "M’s Cap Cool Ultra Hoody",
+    "code": "44695BSLX",
+    "baseCode": "44695",
+    "color": "BSLX",
+    "image": "assets/44695BSLX.jpg"
+  },
+  {
+    "page": 9,
+    "category": "Active Essentials - Tops",
+    "name": "M’s Cap Cool Ultra Hoody",
+    "code": "44695PDYX",
+    "baseCode": "44695",
+    "color": "PDYX",
+    "image": "assets/44695PDYX.jpg"
+  },
+  {
+    "page": 9,
+    "category": "Active Essentials - Tops",
+    "name": "W’s Cap Cool Ultra Hoody",
+    "code": "44700LQVX",
+    "baseCode": "44700",
+    "color": "LQVX",
+    "image": "assets/44700LQVX.jpg"
+  },
+  {
+    "page": 9,
+    "category": "Active Essentials - Tops",
+    "name": "W’s Cap Cool Ultra Hoody",
+    "code": "44700PDYX",
+    "baseCode": "44700",
+    "color": "PDYX",
+    "image": "assets/44700PDYX.jpg"
+  },
+  {
+    "page": 10,
+    "category": "Active Essentials - Tops",
+    "name": "M’s Cap Cool Ultra Shirt",
+    "code": "44710AQSX",
+    "baseCode": "44710",
+    "color": "AQSX",
+    "image": "assets/44710AQSX.jpg"
+  },
+  {
+    "page": 10,
+    "category": "Active Essentials - Tops",
+    "name": "M’s Cap Cool Ultra Shirt",
+    "code": "44710BLFX",
+    "baseCode": "44710",
+    "color": "BLFX",
+    "image": "assets/44710BLFX.jpg"
+  },
+  {
+    "page": 10,
+    "category": "Active Essentials - Tops",
+    "name": "W’s Cap Cool Ultra Shirt",
+    "code": "44720LQVX",
+    "baseCode": "44720",
+    "color": "LQVX",
+    "image": "assets/44720LQVX.jpg"
+  },
+  {
+    "page": 10,
+    "category": "Active Essentials - Tops",
+    "name": "W’s Cap Cool Ultra Shirt",
+    "code": "44720SBLX",
+    "baseCode": "44720",
+    "color": "SBLX",
+    "image": "assets/44720SBLX.jpg"
+  },
+  {
+    "page": 11,
+    "category": "Active Essentials - Tops",
+    "name": "M’s Cap Cool Ultra Tank",
+    "code": "44730AQSX",
+    "baseCode": "44730",
+    "color": "AQSX",
+    "image": "assets/44730AQSX.jpg"
+  },
+  {
+    "page": 11,
+    "category": "Active Essentials - Tops",
+    "name": "M’s Cap Cool Ultra Tank",
+    "code": "44730BSLX",
+    "baseCode": "44730",
+    "color": "BSLX",
+    "image": "assets/44730BSLX.jpg"
+  },
+  {
+    "page": 11,
+    "category": "Active Essentials - Tops",
+    "name": "W’s Cap Cool Ultra Tank",
+    "code": "44740LQVX",
+    "baseCode": "44740",
+    "color": "LQVX",
+    "image": "assets/44740LQVX.jpg"
+  },
+  {
+    "page": 11,
+    "category": "Active Essentials - Tops",
+    "name": "W’s Cap Cool Ultra Tank",
+    "code": "44740PDYX",
+    "baseCode": "44740",
+    "color": "PDYX",
+    "image": "assets/44740PDYX.jpg"
+  },
+  {
+    "page": 9,
+    "category": "Active Essentials - Tops",
+    "name": "M’s L/S Cap Cool Sun Shirt",
+    "code": "44790CGBX",
+    "baseCode": "44790",
+    "color": "CGBX",
+    "image": "assets/44790CGBX.jpg"
+  },
+  {
+    "page": 9,
+    "category": "Active Essentials - Tops",
+    "name": "M’s L/S Cap Cool Sun Shirt",
+    "code": "44790SDLX",
+    "baseCode": "44790",
+    "color": "SDLX",
+    "image": "assets/44790SDLX.jpg"
+  },
+  {
+    "page": 9,
+    "category": "Active Essentials - Tops",
+    "name": "M’s Cap Cool Sun Hoody",
+    "code": "44800FGNX",
+    "baseCode": "44800",
+    "color": "FGNX",
+    "image": "assets/44800FGNX.jpg"
+  },
+  {
+    "page": 9,
+    "category": "Active Essentials - Tops",
+    "name": "M’s Cap Cool Sun Hoody",
+    "code": "44800GGNX",
+    "baseCode": "44800",
+    "color": "GGNX",
+    "image": "assets/44800GGNX.jpg"
+  },
+  {
+    "page": 9,
+    "category": "Active Essentials - Tops",
+    "name": "W’s Cap Cool Sun Hoody",
+    "code": "44805MLPX",
+    "baseCode": "44805",
+    "color": "MLPX",
+    "image": "assets/44805MLPX.jpg"
+  },
+  {
+    "page": 9,
+    "category": "Active Essentials - Tops",
+    "name": "W’s Cap Cool Sun Hoody",
+    "code": "44805TBIX",
+    "baseCode": "44805",
+    "color": "TBIX",
+    "image": "assets/44805TBIX.jpg"
+  },
+  {
+    "page": 17,
+    "category": "Active Graphics - Tops",
+    "name": "Artículo Patagonia",
+    "code": "44934FGNX",
+    "baseCode": "44934",
+    "color": "FGNX",
+    "image": "assets/44934FGNX.jpg"
+  },
+  {
+    "page": 17,
+    "category": "Active Graphics - Tops",
+    "name": "Artículo Patagonia",
+    "code": "44934TBIX",
+    "baseCode": "44934",
+    "color": "TBIX",
+    "image": "assets/44934TBIX.jpg"
+  },
+  {
+    "page": 18,
+    "category": "Active Graphics - Tops",
+    "name": "Artículo Patagonia",
+    "code": "44935GGNX",
+    "baseCode": "44935",
+    "color": "GGNX",
+    "image": "assets/44935GGNX.jpg"
+  },
+  {
+    "page": 18,
+    "category": "Active Graphics - Tops",
+    "name": "Artículo Patagonia",
+    "code": "44935TBIX",
+    "baseCode": "44935",
+    "color": "TBIX",
+    "image": "assets/44935TBIX.jpg"
+  },
+  {
+    "page": 17,
+    "category": "Active Graphics - Tops",
+    "name": "Artículo Patagonia",
+    "code": "44937CGBX",
+    "baseCode": "44937",
+    "color": "CGBX",
+    "image": "assets/44937CGBX.jpg"
+  },
+  {
+    "page": 17,
+    "category": "Active Graphics - Tops",
+    "name": "Artículo Patagonia",
+    "code": "44937CGSX",
+    "baseCode": "44937",
+    "color": "CGSX",
+    "image": "assets/44937CGSX.jpg"
+  },
+  {
+    "page": 10,
+    "category": "Active Essentials - Tops",
+    "name": "M’s Cap Cool Daily Shirt",
+    "code": "45216FEA",
+    "baseCode": "45216",
+    "color": "FEA",
+    "image": "assets/45216FEA.jpg"
+  },
+  {
+    "page": 10,
+    "category": "Active Essentials - Tops",
+    "name": "M’s Cap Cool Daily Shirt",
+    "code": "45216GMLX",
+    "baseCode": "45216",
+    "color": "GMLX",
+    "image": "assets/45216GMLX.jpg"
+  },
+  {
+    "page": 10,
+    "category": "Active Essentials - Tops",
+    "name": "M’s Cap Cool Daily Shirt",
+    "code": "45216SHRX",
+    "baseCode": "45216",
+    "color": "SHRX",
+    "image": "assets/45216SHRX.jpg"
+  },
+  {
+    "page": 10,
+    "category": "Active Essentials - Tops",
+    "name": "W’s Cap Cool Daily Shirt",
+    "code": "45226DYWH",
+    "baseCode": "45226",
+    "color": "DYWH",
+    "image": "assets/45226DYWH.jpg"
+  },
+  {
+    "page": 10,
+    "category": "Active Essentials - Tops",
+    "name": "W’s Cap Cool Daily Shirt",
+    "code": "45226GGNX",
+    "baseCode": "45226",
+    "color": "GGNX",
+    "image": "assets/45226GGNX.jpg"
+  },
+  {
+    "page": 11,
+    "category": "Active Essentials - Tops",
+    "name": "W’s Cap Cool Daily Tank",
+    "code": "45296FEA",
+    "baseCode": "45296",
+    "color": "FEA",
+    "image": "assets/45296FEA.jpg"
+  },
+  {
+    "page": 11,
+    "category": "Active Essentials - Tops",
+    "name": "W’s Cap Cool Daily Tank",
+    "code": "45296PCHS",
+    "baseCode": "45296",
+    "color": "PCHS",
+    "image": "assets/45296PCHS.jpg"
+  },
+  {
+    "page": 17,
+    "category": "Active Graphics - Tops",
+    "name": "Artículo Patagonia",
+    "code": "45453BSLX",
+    "baseCode": "45453",
+    "color": "BSLX",
+    "image": "assets/45453BSLX.jpg"
+  },
+  {
+    "page": 17,
+    "category": "Active Graphics - Tops",
+    "name": "Artículo Patagonia",
+    "code": "45453GMLX",
+    "baseCode": "45453",
+    "color": "GMLX",
+    "image": "assets/45453GMLX.jpg"
+  },
+  {
+    "page": 17,
+    "category": "Active Graphics - Tops",
+    "name": "Artículo Patagonia",
+    "code": "45467GGNX",
+    "baseCode": "45467",
+    "color": "GGNX",
+    "image": "assets/45467GGNX.jpg"
+  },
+  {
+    "page": 17,
+    "category": "Active Graphics - Tops",
+    "name": "Artículo Patagonia",
+    "code": "45467SHRX",
+    "baseCode": "45467",
+    "color": "SHRX",
+    "image": "assets/45467SHRX.jpg"
+  },
+  {
+    "page": 18,
+    "category": "Active Graphics - Tops",
+    "name": "Artículo Patagonia",
+    "code": "45479CMBX",
+    "baseCode": "45479",
+    "color": "CMBX",
+    "image": "assets/45479CMBX.jpg"
+  },
+  {
+    "page": 18,
+    "category": "Active Graphics - Tops",
+    "name": "Artículo Patagonia",
+    "code": "45479LMYX",
+    "baseCode": "45479",
+    "color": "LMYX",
+    "image": "assets/45479LMYX.jpg"
+  },
+  {
+    "page": 18,
+    "category": "Active Graphics - Tops",
+    "name": "Artículo Patagonia",
+    "code": "45490BSLX",
+    "baseCode": "45490",
+    "color": "BSLX",
+    "image": "assets/45490BSLX.jpg"
+  },
+  {
+    "page": 18,
+    "category": "Active Graphics - Tops",
+    "name": "Artículo Patagonia",
+    "code": "45490GGNX",
+    "baseCode": "45490",
+    "color": "GGNX",
+    "image": "assets/45490GGNX.jpg"
+  },
+  {
+    "page": 23,
+    "category": "Equipment - Bags",
+    "name": "Refugio Day Pack 32L",
+    "code": "47885BLK",
+    "baseCode": "47885",
+    "color": "BLK",
+    "image": "assets/47885BLK.jpg"
+  },
+  {
+    "page": 23,
+    "category": "Equipment - Bags",
+    "name": "Refugio Day Pack 32L",
+    "code": "47885BLSG",
+    "baseCode": "47885",
+    "color": "BLSG",
+    "image": "assets/47885BLSG.jpg"
+  },
+  {
+    "page": 23,
+    "category": "Equipment - Bags",
+    "name": "Refugio Day Pack 32L",
+    "code": "47885CYNB",
+    "baseCode": "47885",
+    "color": "CYNB",
+    "image": "assets/47885CYNB.jpg"
+  },
+  {
+    "page": 23,
+    "category": "Equipment - Bags",
+    "name": "K’s Refugito Day Pack 12L",
+    "code": "47890PCHS",
+    "baseCode": "47890",
+    "color": "PCHS",
+    "image": "assets/47890PCHS.jpg"
+  },
+  {
+    "page": 23,
+    "category": "Equipment - Bags",
+    "name": "K’s Refugito Day Pack 12L",
+    "code": "47890TCLE",
+    "baseCode": "47890",
+    "color": "TCLE",
+    "image": "assets/47890TCLE.jpg"
+  },
+  {
+    "page": 23,
+    "category": "Equipment - Bags",
+    "name": "K’s Refugito Day Pack 18L",
+    "code": "47895ELYT",
+    "baseCode": "47895",
+    "color": "ELYT",
+    "image": "assets/47895ELYT.jpg"
+  },
+  {
+    "page": 23,
+    "category": "Equipment - Bags",
+    "name": "K’s Refugito Day Pack 18L",
+    "code": "47895QVLT",
+    "baseCode": "47895",
+    "color": "QVLT",
+    "image": "assets/47895QVLT.jpg"
+  },
+  {
+    "page": 23,
+    "category": "Equipment - Bags",
+    "name": "Refugio Day Pack 26L",
+    "code": "47914BLK",
+    "baseCode": "47914",
+    "color": "BLK",
+    "image": "assets/47914BLK.jpg"
+  },
+  {
+    "page": 23,
+    "category": "Equipment - Bags",
+    "name": "Refugio Day Pack 26L",
+    "code": "47914BLSG",
+    "baseCode": "47914",
+    "color": "BLSG",
+    "image": "assets/47914BLSG.jpg"
+  },
+  {
+    "page": 23,
+    "category": "Equipment - Bags",
+    "name": "Holidays",
+    "code": "47914SMDB",
+    "baseCode": "47914",
+    "color": "SMDB",
+    "image": "assets/47914SMDB.jpg"
+  },
+  {
+    "page": 23,
+    "category": "Equipment - Bags",
+    "name": "Refugio Day Pack 30L",
+    "code": "47914WSTO",
+    "baseCode": "47914",
+    "color": "WSTO",
+    "image": "assets/47914WSTO.jpg"
+  },
+  {
+    "page": 23,
+    "category": "Equipment - Bags",
+    "name": "Refugio Day Pack 30L",
+    "code": "47929BLK",
+    "baseCode": "47929",
+    "color": "BLK",
+    "image": "assets/47929BLK.jpg"
+  },
+  {
+    "page": 23,
+    "category": "Equipment - Bags",
+    "name": "Refugio Day Pack 30L",
+    "code": "47929BLSG",
+    "baseCode": "47929",
+    "color": "BLSG",
+    "image": "assets/47929BLSG.jpg"
+  },
+  {
+    "page": 23,
+    "category": "Equipment - Bags",
+    "name": "Alto Verano",
+    "code": "47929SMDB",
+    "baseCode": "47929",
+    "color": "SMDB",
+    "image": "assets/47929SMDB.jpg"
+  },
+  {
+    "page": 24,
+    "category": "Equipment - Bags",
+    "name": "Cragsmith 32L",
+    "code": "48057BLK",
+    "baseCode": "48057",
+    "color": "BLK",
+    "image": "assets/48057BLK.jpg"
+  },
+  {
+    "page": 24,
+    "category": "Equipment - Bags",
+    "name": "Cragsmith 45L",
+    "code": "48066BLK",
+    "baseCode": "48066",
+    "color": "BLK",
+    "image": "assets/48066BLK.jpg"
+  },
+  {
+    "page": 24,
+    "category": "Equipment - Bags",
+    "name": "Atom Tote Pack 20L",
+    "code": "48125CYNB",
+    "baseCode": "48125",
+    "color": "CYNB",
+    "image": "assets/48125CYNB.jpg"
+  },
+  {
+    "page": 24,
+    "category": "Equipment - Bags",
+    "name": "Atom Tote Pack 20L",
+    "code": "48125KALB",
+    "baseCode": "48125",
+    "color": "KALB",
+    "image": "assets/48125KALB.jpg"
+  },
+  {
+    "page": 27,
+    "category": "Equipment - Bags",
+    "name": "Atom Sling 8L",
+    "code": "48262BLK",
+    "baseCode": "48262",
+    "color": "BLK",
+    "image": "assets/48262BLK.jpg"
+  },
+  {
+    "page": 27,
+    "category": "Equipment - Bags",
+    "name": "Atom Sling 8L",
+    "code": "48262WSTO",
+    "baseCode": "48262",
+    "color": "WSTO",
+    "image": "assets/48262WSTO.jpg"
+  },
+  {
+    "page": 24,
+    "category": "Equipment - Bags",
+    "name": "Fieldsmith Lid Pack",
+    "code": "48548BLK",
+    "baseCode": "48548",
+    "color": "BLK",
+    "image": "assets/48548BLK.jpg"
+  },
+  {
+    "page": 24,
+    "category": "Equipment - Bags",
+    "name": "Fieldsmith Lid Pack",
+    "code": "48548CSC",
+    "baseCode": "48548",
+    "color": "CSC",
+    "image": "assets/48548CSC.jpg"
+  },
+  {
+    "page": 27,
+    "category": "Equipment - Bags",
+    "name": "Fieldsmith Hip Pack",
+    "code": "48580BLK",
+    "baseCode": "48580",
+    "color": "BLK",
+    "image": "assets/48580BLK.jpg"
+  },
+  {
+    "page": 27,
+    "category": "Equipment - Bags",
+    "name": "Fieldsmith Hip Pack",
+    "code": "48580CSC",
+    "baseCode": "48580",
+    "color": "CSC",
+    "image": "assets/48580CSC.jpg"
+  },
+  {
+    "page": 24,
+    "category": "Equipment - Bags",
+    "name": "Free Wall Pack",
+    "code": "48745WSTO",
+    "baseCode": "48745",
+    "color": "WSTO",
+    "image": "assets/48745WSTO.jpg"
+  },
+  {
+    "page": 24,
+    "category": "Equipment - Bags",
+    "name": "Terravia Tote Pack",
+    "code": "48814BLK",
+    "baseCode": "48814",
+    "color": "BLK",
+    "image": "assets/48814BLK.jpg"
+  },
+  {
+    "page": 24,
+    "category": "Equipment - Bags",
+    "name": "Terravia Tote Pack",
+    "code": "48814QVLT",
+    "baseCode": "48814",
+    "color": "QVLT",
+    "image": "assets/48814QVLT.jpg"
+  },
+  {
+    "page": 24,
+    "category": "Equipment - Bags",
+    "name": "Terravia Tote Pack",
+    "code": "48814SMDB",
+    "baseCode": "48814",
+    "color": "SMDB",
+    "image": "assets/48814SMDB.jpg"
+  },
+  {
+    "page": 27,
+    "category": "Equipment - Bags",
+    "name": "Terravia Sacoche",
+    "code": "48835BLK",
+    "baseCode": "48835",
+    "color": "BLK",
+    "image": "assets/48835BLK.jpg"
+  },
+  {
+    "page": 27,
+    "category": "Equipment - Bags",
+    "name": "Terravia Sacoche",
+    "code": "48835FDMG",
+    "baseCode": "48835",
+    "color": "FDMG",
+    "image": "assets/48835FDMG.jpg"
+  },
+  {
+    "page": 27,
+    "category": "Equipment - Bags",
+    "name": "Artículo Patagonia",
+    "code": "48835GMTG",
+    "baseCode": "48835",
+    "color": "GMTG",
+    "image": "assets/48835GMTG.jpg"
+  },
+  {
+    "page": 24,
+    "category": "Equipment - Bags",
+    "name": "Terravia Pack 28L",
+    "code": "48911BLK",
+    "baseCode": "48911",
+    "color": "BLK",
+    "image": "assets/48911BLK.jpg"
+  },
+  {
+    "page": 24,
+    "category": "Equipment - Bags",
+    "name": "Terravia Pack 28L",
+    "code": "48911CLOR",
+    "baseCode": "48911",
+    "color": "CLOR",
+    "image": "assets/48911CLOR.jpg"
+  },
+  {
+    "page": 24,
+    "category": "Equipment - Bags",
+    "name": "Terravia Pack 28L",
+    "code": "48916BLSG",
+    "baseCode": "48916",
+    "color": "BLSG",
+    "image": "assets/48916BLSG.jpg"
+  },
+  {
+    "page": 24,
+    "category": "Equipment - Bags",
+    "name": "Terravia Pack 28L",
+    "code": "48916WSTO",
+    "baseCode": "48916",
+    "color": "WSTO",
+    "image": "assets/48916WSTO.jpg"
+  },
+  {
+    "page": 27,
+    "category": "Equipment - Bags",
+    "name": "Terravia Hip Pack",
+    "code": "49021BLK",
+    "baseCode": "49021",
+    "color": "BLK",
+    "image": "assets/49021BLK.jpg"
+  },
+  {
+    "page": 27,
+    "category": "Equipment - Bags",
+    "name": "Terravia Hip Pack",
+    "code": "49021FDMG",
+    "baseCode": "49021",
+    "color": "FDMG",
+    "image": "assets/49021FDMG.jpg"
+  },
+  {
+    "page": 25,
+    "category": "Equipment - Bags",
+    "name": "Black Hole Tote 25L",
+    "code": "49032AQST",
+    "baseCode": "49032",
+    "color": "AQST",
+    "image": "assets/49032AQST.jpg"
+  },
+  {
+    "page": 25,
+    "category": "Equipment - Bags",
+    "name": "Black Hole Tote 25L",
+    "code": "49032KALB",
+    "baseCode": "49032",
+    "color": "KALB",
+    "image": "assets/49032KALB.jpg"
+  },
+  {
+    "page": 28,
+    "category": "Equipment - Bags",
+    "name": "Black Hole MLC Wheelie",
+    "code": "49105BLK",
+    "baseCode": "49105",
+    "color": "BLK",
+    "image": "assets/49105BLK.jpg"
+  },
+  {
+    "page": 28,
+    "category": "Equipment - Bags",
+    "name": "Black Hole MLC Wheelie",
+    "code": "49105NGRY",
+    "baseCode": "49105",
+    "color": "NGRY",
+    "image": "assets/49105NGRY.jpg"
+  },
+  {
+    "page": 25,
+    "category": "Equipment - Bags",
+    "name": "Black Hole Gear Tote",
+    "code": "49276BOB",
+    "baseCode": "49276",
+    "color": "BOB",
+    "image": "assets/49276BOB.jpg"
+  },
+  {
+    "page": 25,
+    "category": "Equipment - Bags",
+    "name": "Black Hole Gear Tote",
+    "code": "49276WBST",
+    "baseCode": "49276",
+    "color": "WBST",
+    "image": "assets/49276WBST.jpg"
+  },
+  {
+    "page": 23,
+    "category": "Equipment - Bags",
+    "name": "Black Hole Pack 25L",
+    "code": "49298BOB",
+    "baseCode": "49298",
+    "color": "BOB",
+    "image": "assets/49298BOB.jpg"
+  },
+  {
+    "page": 23,
+    "category": "Equipment - Bags",
+    "name": "Black Hole Pack 25L",
+    "code": "49298KALB",
+    "baseCode": "49298",
+    "color": "KALB",
+    "image": "assets/49298KALB.jpg"
+  },
+  {
+    "page": 23,
+    "category": "Equipment - Bags",
+    "name": "Black Hole Pack 25L",
+    "code": "49298NGRY",
+    "baseCode": "49298",
+    "color": "NGRY",
+    "image": "assets/49298NGRY.jpg"
+  },
+  {
+    "page": 23,
+    "category": "Equipment - Bags",
+    "name": "Black Hole Pack 32L",
+    "code": "49302BCW",
+    "baseCode": "49302",
+    "color": "BCW",
+    "image": "assets/49302BCW.jpg"
+  },
+  {
+    "page": 23,
+    "category": "Equipment - Bags",
+    "name": "Black Hole Pack 32L",
+    "code": "49302BOB",
+    "baseCode": "49302",
+    "color": "BOB",
+    "image": "assets/49302BOB.jpg"
+  },
+  {
+    "page": 23,
+    "category": "Equipment - Bags",
+    "name": "Black Hole MLC",
+    "code": "49307BOB",
+    "baseCode": "49307",
+    "color": "BOB",
+    "image": "assets/49307BOB.jpg"
+  },
+  {
+    "page": 23,
+    "category": "Equipment - Bags",
+    "name": "Black Hole MLC",
+    "code": "49307NGRY",
+    "baseCode": "49307",
+    "color": "NGRY",
+    "image": "assets/49307NGRY.jpg"
+  },
+  {
+    "page": 26,
+    "category": "Equipment - Bags",
+    "name": "Black Hole Duffel 40L",
+    "code": "49339AQST",
+    "baseCode": "49339",
+    "color": "AQST",
+    "image": "assets/49339AQST.jpg"
+  },
+  {
+    "page": 26,
+    "category": "Equipment - Bags",
+    "name": "Black Hole Duffel 40L",
+    "code": "49339BOB",
+    "baseCode": "49339",
+    "color": "BOB",
+    "image": "assets/49339BOB.jpg"
+  },
+  {
+    "page": 26,
+    "category": "Equipment - Bags",
+    "name": "Artículo Patagonia",
+    "code": "49339NGRY",
+    "baseCode": "49339",
+    "color": "NGRY",
+    "image": "assets/49339NGRY.jpg"
+  },
+  {
+    "page": 26,
+    "category": "Equipment - Bags",
+    "name": "Artículo Patagonia",
+    "code": "49339PCHS",
+    "baseCode": "49339",
+    "color": "PCHS",
+    "image": "assets/49339PCHS.jpg"
+  },
+  {
+    "page": 26,
+    "category": "Equipment - Bags",
+    "name": "Black Hole Duffel 55L",
+    "code": "49343BOB",
+    "baseCode": "49343",
+    "color": "BOB",
+    "image": "assets/49343BOB.jpg"
+  },
+  {
+    "page": 26,
+    "category": "Equipment - Bags",
+    "name": "Black Hole Duffel 55L",
+    "code": "49343NGRY",
+    "baseCode": "49343",
+    "color": "NGRY",
+    "image": "assets/49343NGRY.jpg"
+  },
+  {
+    "page": 26,
+    "category": "Equipment - Bags",
+    "name": "Artículo Patagonia",
+    "code": "49343PCHS",
+    "baseCode": "49343",
+    "color": "PCHS",
+    "image": "assets/49343PCHS.jpg"
+  },
+  {
+    "page": 26,
+    "category": "Equipment - Bags",
+    "name": "Artículo Patagonia",
+    "code": "49343WSTO",
+    "baseCode": "49343",
+    "color": "WSTO",
+    "image": "assets/49343WSTO.jpg"
+  },
+  {
+    "page": 26,
+    "category": "Equipment - Bags",
+    "name": "Black Hole Duffel 70L",
+    "code": "49348AQST",
+    "baseCode": "49348",
+    "color": "AQST",
+    "image": "assets/49348AQST.jpg"
+  },
+  {
+    "page": 26,
+    "category": "Equipment - Bags",
+    "name": "Black Hole Duffel 70L",
+    "code": "49348BCW",
+    "baseCode": "49348",
+    "color": "BCW",
+    "image": "assets/49348BCW.jpg"
+  },
+  {
+    "page": 26,
+    "category": "Equipment - Bags",
+    "name": "Artículo Patagonia",
+    "code": "49348BOB",
+    "baseCode": "49348",
+    "color": "BOB",
+    "image": "assets/49348BOB.jpg"
+  },
+  {
+    "page": 26,
+    "category": "Equipment - Bags",
+    "name": "Black Hole Duffel 100L",
+    "code": "49353BOB",
+    "baseCode": "49353",
+    "color": "BOB",
+    "image": "assets/49353BOB.jpg"
+  },
+  {
+    "page": 26,
+    "category": "Equipment - Bags",
+    "name": "Black Hole Duffel 100L",
+    "code": "49353NGRY",
+    "baseCode": "49353",
+    "color": "NGRY",
+    "image": "assets/49353NGRY.jpg"
+  },
+  {
+    "page": 25,
+    "category": "Equipment - Bags",
+    "name": "Black Hole Cube 3L",
+    "code": "49362AQST",
+    "baseCode": "49362",
+    "color": "AQST",
+    "image": "assets/49362AQST.jpg"
+  },
+  {
+    "page": 25,
+    "category": "Equipment - Bags",
+    "name": "Black Hole Cube 3L",
+    "code": "49362BCW",
+    "baseCode": "49362",
+    "color": "BCW",
+    "image": "assets/49362BCW.jpg"
+  },
+  {
+    "page": 25,
+    "category": "Equipment - Bags",
+    "name": "Holidays",
+    "code": "49362KALB",
+    "baseCode": "49362",
+    "color": "KALB",
+    "image": "assets/49362KALB.jpg"
+  },
+  {
+    "page": 25,
+    "category": "Equipment - Bags",
+    "name": "Black Hole Cube 6L",
+    "code": "49362NGRY",
+    "baseCode": "49362",
+    "color": "NGRY",
+    "image": "assets/49362NGRY.jpg"
+  },
+  {
+    "page": 25,
+    "category": "Equipment - Bags",
+    "name": "Black Hole Cube 6L",
+    "code": "49367BOB",
+    "baseCode": "49367",
+    "color": "BOB",
+    "image": "assets/49367BOB.jpg"
+  },
+  {
+    "page": 25,
+    "category": "Equipment - Bags",
+    "name": "Black Hole Cube 6L",
+    "code": "49367NGRY",
+    "baseCode": "49367",
+    "color": "NGRY",
+    "image": "assets/49367NGRY.jpg"
+  },
+  {
+    "page": 25,
+    "category": "Equipment - Bags",
+    "name": "Black Hole Cube 6L",
+    "code": "49367PCHS",
+    "baseCode": "49367",
+    "color": "PCHS",
+    "image": "assets/49367PCHS.jpg"
+  },
+  {
+    "page": 25,
+    "category": "Equipment - Bags",
+    "name": "Artículo Patagonia",
+    "code": "49367WSTO",
+    "baseCode": "49367",
+    "color": "WSTO",
+    "image": "assets/49367WSTO.jpg"
+  },
+  {
+    "page": 25,
+    "category": "Equipment - Bags",
+    "name": "Black Hole Cube 14L",
+    "code": "49372AQST",
+    "baseCode": "49372",
+    "color": "AQST",
+    "image": "assets/49372AQST.jpg"
+  },
+  {
+    "page": 25,
+    "category": "Equipment - Bags",
+    "name": "Black Hole Cube 14L",
+    "code": "49372KALB",
+    "baseCode": "49372",
+    "color": "KALB",
+    "image": "assets/49372KALB.jpg"
+  },
+  {
+    "page": 28,
+    "category": "Equipment - Bags",
+    "name": "Black Hole Wheeled Duffel 40L",
+    "code": "49379BOB",
+    "baseCode": "49379",
+    "color": "BOB",
+    "image": "assets/49379BOB.jpg"
+  },
+  {
+    "page": 28,
+    "category": "Equipment - Bags",
+    "name": "Black Hole Wheeled Duffel 40L",
+    "code": "49379NGRY",
+    "baseCode": "49379",
+    "color": "NGRY",
+    "image": "assets/49379NGRY.jpg"
+  },
+  {
+    "page": 28,
+    "category": "Equipment - Bags",
+    "name": "Black Hole Wheeled Duffel 70L",
+    "code": "49382AQST",
+    "baseCode": "49382",
+    "color": "AQST",
+    "image": "assets/49382AQST.jpg"
+  },
+  {
+    "page": 28,
+    "category": "Equipment - Bags",
+    "name": "Black Hole Wheeled Duffel 70L",
+    "code": "49382BOB",
+    "baseCode": "49382",
+    "color": "BOB",
+    "image": "assets/49382BOB.jpg"
+  },
+  {
+    "page": 28,
+    "category": "Equipment - Bags",
+    "name": "Black Hole Wheeled Duffel 100L",
+    "code": "49388BOB",
+    "baseCode": "49388",
+    "color": "BOB",
+    "image": "assets/49388BOB.jpg"
+  },
+  {
+    "page": 28,
+    "category": "Equipment - Bags",
+    "name": "Black Hole Wheeled Duffel 100L",
+    "code": "49388NGRY",
+    "baseCode": "49388",
+    "color": "NGRY",
+    "image": "assets/49388NGRY.jpg"
+  },
+  {
+    "page": 27,
+    "category": "Equipment - Bags",
+    "name": "Terravia Mini Hip Pack",
+    "code": "49448BLK",
+    "baseCode": "49448",
+    "color": "BLK",
+    "image": "assets/49448BLK.jpg"
+  },
+  {
+    "page": 27,
+    "category": "Equipment - Bags",
+    "name": "Terravia Mini Hip Pack",
+    "code": "49448CLOR",
+    "baseCode": "49448",
+    "color": "CLOR",
+    "image": "assets/49448CLOR.jpg"
+  },
+  {
+    "page": 27,
+    "category": "Equipment - Bags",
+    "name": "Artículo Patagonia",
+    "code": "49448PWGT",
+    "baseCode": "49448",
+    "color": "PWGT",
+    "image": "assets/49448PWGT.jpg"
+  },
+  {
+    "page": 27,
+    "category": "Equipment - Bags",
+    "name": "Artículo Patagonia",
+    "code": "49448QVLT",
+    "baseCode": "49448",
+    "color": "QVLT",
+    "image": "assets/49448QVLT.jpg"
+  },
+  {
+    "page": 25,
+    "category": "Equipment - Bags",
+    "name": "Slope Runner Vest",
+    "code": "49521BLK",
+    "baseCode": "49521",
+    "color": "BLK",
+    "image": "assets/49521BLK.jpg"
+  },
+  {
+    "page": 25,
+    "category": "Equipment - Bags",
+    "name": "Slope Runner Vest",
+    "code": "49521WSTO",
+    "baseCode": "49521",
+    "color": "WSTO",
+    "image": "assets/49521WSTO.jpg"
+  },
+  {
+    "page": 30,
+    "category": "M’s Sandy Cay Pants M’s Sandy Cay Shorts - 9 in.",
+    "name": "Merino Wool Blend Crew Socks",
+    "code": "50151MTBA",
+    "baseCode": "50151",
+    "color": "MTBA",
+    "image": "assets/50151MTBA.jpg"
+  },
+  {
+    "page": 30,
+    "category": "M’s Sandy Cay Pants M’s Sandy Cay Shorts - 9 in.",
+    "name": "Merino Wool Blend Crew Socks",
+    "code": "50151PSFO",
+    "baseCode": "50151",
+    "color": "PSFO",
+    "image": "assets/50151PSFO.jpg"
+  },
+  {
+    "page": 30,
+    "category": "M’s Sandy Cay Pants M’s Sandy Cay Shorts - 9 in.",
+    "name": "HW Merino Wool Blend Knee Socks",
+    "code": "50160BSNG",
+    "baseCode": "50160",
+    "color": "BSNG",
+    "image": "assets/50160BSNG.jpg"
+  },
+  {
+    "page": 30,
+    "category": "M’s Sandy Cay Pants M’s Sandy Cay Shorts - 9 in.",
+    "name": "HW Merino Wool Blend Knee Socks",
+    "code": "50160FEGY",
+    "baseCode": "50160",
+    "color": "FEGY",
+    "image": "assets/50160FEGY.jpg"
+  },
+  {
+    "page": 60,
+    "category": "W’s Lifestyle Essentials - Tops",
+    "name": "W’s Tidal Threads Shirt",
+    "code": "52545TCLE",
+    "baseCode": "52545",
+    "color": "TCLE",
+    "image": "assets/52545TCLE.jpg"
+  },
+  {
+    "page": 53,
+    "category": "M’s Lifestyle Essentials - Tops",
+    "name": "M’s Tidal Threads Shirt",
+    "code": "52553TCLN",
+    "baseCode": "52553",
+    "color": "TCLN",
+    "image": "assets/52553TCLN.jpg"
+  },
+  {
+    "page": 53,
+    "category": "M’s Lifestyle Essentials - Tops",
+    "name": "M’s Sunrise Stream Shirt",
+    "code": "52562BLSG",
+    "baseCode": "52562",
+    "color": "BLSG",
+    "image": "assets/52562BLSG.jpg"
+  },
+  {
+    "page": 53,
+    "category": "M’s Lifestyle Essentials - Tops",
+    "name": "M’s Sunrise Stream Shirt",
+    "code": "52562PLCN",
+    "baseCode": "52562",
+    "color": "PLCN",
+    "image": "assets/52562PLCN.jpg"
+  },
+  {
+    "page": 60,
+    "category": "W’s Lifestyle Essentials - Tops",
+    "name": "W’s Trail Harbor Tank",
+    "code": "52882BCW",
+    "baseCode": "52882",
+    "color": "BCW",
+    "image": "assets/52882BCW.jpg"
+  },
+  {
+    "page": 60,
+    "category": "W’s Lifestyle Essentials - Tops",
+    "name": "W’s Trail Harbor Tank",
+    "code": "52882SNBE",
+    "baseCode": "52882",
+    "color": "SNBE",
+    "image": "assets/52882SNBE.jpg"
+  },
+  {
+    "page": 53,
+    "category": "M’s Lifestyle Essentials - Tops",
+    "name": "M’s Back Step Shirt",
+    "code": "53142BQDO",
+    "baseCode": "53142",
+    "color": "BQDO",
+    "image": "assets/53142BQDO.jpg"
+  },
+  {
+    "page": 53,
+    "category": "M’s Lifestyle Essentials - Tops",
+    "name": "M’s Back Step Shirt",
+    "code": "53142RPWE",
+    "baseCode": "53142",
+    "color": "RPWE",
+    "image": "assets/53142RPWE.jpg"
+  },
+  {
+    "page": 53,
+    "category": "M’s Lifestyle Essentials - Tops",
+    "name": "Alto Verano",
+    "code": "53142SDCO",
+    "baseCode": "53142",
+    "color": "SDCO",
+    "image": "assets/53142SDCO.jpg"
+  },
+  {
+    "page": 54,
+    "category": "M’s Lifestyle Essentials - Tops",
+    "name": "M’s Daily Polo",
+    "code": "53251TRNY",
+    "baseCode": "53251",
+    "color": "TRNY",
+    "image": "assets/53251TRNY.jpg"
+  },
+  {
+    "page": 54,
+    "category": "M’s Lifestyle Essentials - Tops",
+    "name": "M’s Daily Polo",
+    "code": "53251TRPM",
+    "baseCode": "53251",
+    "color": "TRPM",
+    "image": "assets/53251TRPM.jpg"
+  },
+  {
+    "page": 53,
+    "category": "M’s Lifestyle Essentials - Tops",
+    "name": "M’s Farrier›s Shirt",
+    "code": "53320MRLB",
+    "baseCode": "53320",
+    "color": "MRLB",
+    "image": "assets/53320MRLB.jpg"
+  },
+  {
+    "page": 53,
+    "category": "M’s Lifestyle Essentials - Tops",
+    "name": "Alto Verano",
+    "code": "53320RDVA",
+    "baseCode": "53320",
+    "color": "RDVA",
+    "image": "assets/53320RDVA.jpg"
+  },
+  {
+    "page": 60,
+    "category": "W’s Lifestyle Essentials - Tops",
+    "name": "W’s Farrier›s Shirt",
+    "code": "53326CUBL",
+    "baseCode": "53326",
+    "color": "CUBL",
+    "image": "assets/53326CUBL.jpg"
+  },
+  {
+    "page": 60,
+    "category": "W’s Lifestyle Essentials - Tops",
+    "name": "W’s Farrier›s Shirt",
+    "code": "53326RDVA",
+    "baseCode": "53326",
+    "color": "RDVA",
+    "image": "assets/53326RDVA.jpg"
+  },
+  {
+    "page": 12,
+    "category": "Active Essentials - Bottoms",
+    "name": "Artículo Patagonia",
+    "code": "55183BSNG",
+    "baseCode": "55183",
+    "color": "BSNG",
+    "image": "assets/55183BSNG.jpg"
+  },
+  {
+    "page": 12,
+    "category": "Active Essentials - Bottoms",
+    "name": "Artículo Patagonia",
+    "code": "55183CSC",
+    "baseCode": "55183",
+    "color": "CSC",
+    "image": "assets/55183CSC.jpg"
+  },
+  {
+    "page": 12,
+    "category": "Active Essentials - Bottoms",
+    "name": "Artículo Patagonia",
+    "code": "55183FGE",
+    "baseCode": "55183",
+    "color": "FGE",
+    "image": "assets/55183FGE.jpg"
+  },
+  {
+    "page": 12,
+    "category": "Active Essentials - Bottoms",
+    "name": "Artículo Patagonia",
+    "code": "55257CSC",
+    "baseCode": "55257",
+    "color": "CSC",
+    "image": "assets/55257CSC.jpg"
+  },
+  {
+    "page": 12,
+    "category": "Active Essentials - Bottoms",
+    "name": "Artículo Patagonia",
+    "code": "55257FGE",
+    "baseCode": "55257",
+    "color": "FGE",
+    "image": "assets/55257FGE.jpg"
+  },
+  {
+    "page": 61,
+    "category": "W’s Lifestyle Essentials - Bottoms",
+    "name": "Alto Verano",
+    "code": "55365COI",
+    "baseCode": "55365",
+    "color": "COI",
+    "image": "assets/55365COI.jpg"
+  },
+  {
+    "page": 61,
+    "category": "W’s Lifestyle Essentials - Bottoms",
+    "name": "Alto Verano",
+    "code": "55365INBK",
+    "baseCode": "55365",
+    "color": "INBK",
+    "image": "assets/55365INBK.jpg"
+  },
+  {
+    "page": 12,
+    "category": "Active Essentials - Bottoms",
+    "name": "Artículo Patagonia",
+    "code": "55417CSC",
+    "baseCode": "55417",
+    "color": "CSC",
+    "image": "assets/55417CSC.jpg"
+  },
+  {
+    "page": 12,
+    "category": "Active Essentials - Bottoms",
+    "name": "Artículo Patagonia",
+    "code": "55417FGE",
+    "baseCode": "55417",
+    "color": "FGE",
+    "image": "assets/55417FGE.jpg"
+  },
+  {
+    "page": 12,
+    "category": "Active Essentials - Bottoms",
+    "name": "M’s Quandary Joggers",
+    "code": "55796FGE",
+    "baseCode": "55796",
+    "color": "FGE",
+    "image": "assets/55796FGE.jpg"
+  },
+  {
+    "page": 12,
+    "category": "Active Essentials - Bottoms",
+    "name": "M’s Quandary Joggers",
+    "code": "55796GMTG",
+    "baseCode": "55796",
+    "color": "GMTG",
+    "image": "assets/55796GMTG.jpg"
+  },
+  {
+    "page": 12,
+    "category": "Active Essentials - Bottoms",
+    "name": "W’s Quandary Joggers",
+    "code": "56146CPRG",
+    "baseCode": "56146",
+    "color": "CPRG",
+    "image": "assets/56146CPRG.jpg"
+  },
+  {
+    "page": 12,
+    "category": "Active Essentials - Bottoms",
+    "name": "W’s Quandary Joggers",
+    "code": "56146FGE",
+    "baseCode": "56146",
+    "color": "FGE",
+    "image": "assets/56146FGE.jpg"
+  },
+  {
+    "page": 61,
+    "category": "W’s Lifestyle Essentials - Bottoms",
+    "name": "W’s Garden Island Pants",
+    "code": "56568BLK",
+    "baseCode": "56568",
+    "color": "BLK",
+    "image": "assets/56568BLK.jpg"
+  },
+  {
+    "page": 14,
+    "category": "Active Essentials - Bottoms",
+    "name": "Artículo Patagonia",
+    "code": "57022BOB",
+    "baseCode": "57022",
+    "color": "BOB",
+    "image": "assets/57022BOB.jpg"
+  },
+  {
+    "page": 14,
+    "category": "Active Essentials - Bottoms",
+    "name": "Artículo Patagonia",
+    "code": "57022OLFM",
+    "baseCode": "57022",
+    "color": "OLFM",
+    "image": "assets/57022OLFM.jpg"
+  },
+  {
+    "page": 14,
+    "category": "Active Essentials - Bottoms",
+    "name": "Artículo Patagonia",
+    "code": "57022ORPL",
+    "baseCode": "57022",
+    "color": "ORPL",
+    "image": "assets/57022ORPL.jpg"
+  },
+  {
+    "page": 14,
+    "category": "Active Essentials - Bottoms",
+    "name": "Artículo Patagonia",
+    "code": "57022SHML",
+    "baseCode": "57022",
+    "color": "SHML",
+    "image": "assets/57022SHML.jpg"
+  },
+  {
+    "page": 14,
+    "category": "Active Essentials - Bottoms",
+    "name": "Artículo Patagonia",
+    "code": "57022TCLN",
+    "baseCode": "57022",
+    "color": "TCLN",
+    "image": "assets/57022TCLN.jpg"
+  },
+  {
+    "page": 62,
+    "category": "W’s Lifestyle Essentials - Bottoms",
+    "name": "W’s All Seasons Shorts",
+    "code": "57096TDT",
+    "baseCode": "57096",
+    "color": "TDT",
+    "image": "assets/57096TDT.jpg"
+  },
+  {
+    "page": 62,
+    "category": "W’s Lifestyle Essentials - Bottoms",
+    "name": "W’s All Seasons Shorts",
+    "code": "57096WNGY",
+    "baseCode": "57096",
+    "color": "WNGY",
+    "image": "assets/57096WNGY.jpg"
+  },
+  {
+    "page": 14,
+    "category": "Active Essentials - Bottoms",
+    "name": "Artículo Patagonia",
+    "code": "57186SKA",
+    "baseCode": "57186",
+    "color": "SKA",
+    "image": "assets/57186SKA.jpg"
+  },
+  {
+    "page": 14,
+    "category": "Active Essentials - Bottoms",
+    "name": "Artículo Patagonia",
+    "code": "57186SMDB",
+    "baseCode": "57186",
+    "color": "SMDB",
+    "image": "assets/57186SMDB.jpg"
+  },
+  {
+    "page": 14,
+    "category": "Active Essentials - Bottoms",
+    "name": "Artículo Patagonia",
+    "code": "57450BLK",
+    "baseCode": "57450",
+    "color": "BLK",
+    "image": "assets/57450BLK.jpg"
+  },
+  {
+    "page": 14,
+    "category": "Active Essentials - Bottoms",
+    "name": "Artículo Patagonia",
+    "code": "57450BSNG",
+    "baseCode": "57450",
+    "color": "BSNG",
+    "image": "assets/57450BSNG.jpg"
+  },
+  {
+    "page": 14,
+    "category": "Active Essentials - Bottoms",
+    "name": "Artículo Patagonia",
+    "code": "57505BLK",
+    "baseCode": "57505",
+    "color": "BLK",
+    "image": "assets/57505BLK.jpg"
+  },
+  {
+    "page": 14,
+    "category": "Active Essentials - Bottoms",
+    "name": "Artículo Patagonia",
+    "code": "57505MTSA",
+    "baseCode": "57505",
+    "color": "MTSA",
+    "image": "assets/57505MTSA.jpg"
+  },
+  {
+    "page": 15,
+    "category": "Active Essentials - Bottoms",
+    "name": "Artículo Patagonia",
+    "code": "57595SMDB",
+    "baseCode": "57595",
+    "color": "SMDB",
+    "image": "assets/57595SMDB.jpg"
+  },
+  {
+    "page": 15,
+    "category": "Active Essentials - Bottoms",
+    "name": "Artículo Patagonia",
+    "code": "57595SWCA",
+    "baseCode": "57595",
+    "color": "SWCA",
+    "image": "assets/57595SWCA.jpg"
+  },
+  {
+    "page": 15,
+    "category": "Active Essentials - Bottoms",
+    "name": "Alto Verano",
+    "code": "57631BLK",
+    "baseCode": "57631",
+    "color": "BLK",
+    "image": "assets/57631BLK.jpg"
+  },
+  {
+    "page": 15,
+    "category": "Active Essentials - Bottoms",
+    "name": "Alto Verano",
+    "code": "57631BLSG",
+    "baseCode": "57631",
+    "color": "BLSG",
+    "image": "assets/57631BLSG.jpg"
+  },
+  {
+    "page": 14,
+    "category": "Active Essentials - Bottoms",
+    "name": "Artículo Patagonia",
+    "code": "57813BSNG",
+    "baseCode": "57813",
+    "color": "BSNG",
+    "image": "assets/57813BSNG.jpg"
+  },
+  {
+    "page": 14,
+    "category": "Active Essentials - Bottoms",
+    "name": "Artículo Patagonia",
+    "code": "57813FGE",
+    "baseCode": "57813",
+    "color": "FGE",
+    "image": "assets/57813FGE.jpg"
+  },
+  {
+    "page": 15,
+    "category": "Active Essentials - Bottoms",
+    "name": "Artículo Patagonia",
+    "code": "58049BOB",
+    "baseCode": "58049",
+    "color": "BOB",
+    "image": "assets/58049BOB.jpg"
+  },
+  {
+    "page": 15,
+    "category": "Active Essentials - Bottoms",
+    "name": "Artículo Patagonia",
+    "code": "58049BSNG",
+    "baseCode": "58049",
+    "color": "BSNG",
+    "image": "assets/58049BSNG.jpg"
+  },
+  {
+    "page": 15,
+    "category": "Active Essentials - Bottoms",
+    "name": "Artículo Patagonia",
+    "code": "58049CLOR",
+    "baseCode": "58049",
+    "color": "CLOR",
+    "image": "assets/58049CLOR.jpg"
+  },
+  {
+    "page": 55,
+    "category": "M’s Lifestyle Essentials - Bottoms",
+    "name": "M’s Baggies Naturals",
+    "code": "58056CHFG",
+    "baseCode": "58056",
+    "color": "CHFG",
+    "image": "assets/58056CHFG.jpg"
+  },
+  {
+    "page": 55,
+    "category": "M’s Lifestyle Essentials - Bottoms",
+    "name": "M’s Baggies Naturals",
+    "code": "58056CHNN",
+    "baseCode": "58056",
+    "color": "CHNN",
+    "image": "assets/58056CHNN.jpg"
+  },
+  {
+    "page": 55,
+    "category": "M’s Lifestyle Essentials - Bottoms",
+    "name": "Artículo Patagonia",
+    "code": "58056CYMK",
+    "baseCode": "58056",
+    "color": "CYMK",
+    "image": "assets/58056CYMK.jpg"
+  },
+  {
+    "page": 14,
+    "category": "Active Essentials - Bottoms",
+    "name": "Artículo Patagonia",
+    "code": "58092CPRG",
+    "baseCode": "58092",
+    "color": "CPRG",
+    "image": "assets/58092CPRG.jpg"
+  },
+  {
+    "page": 14,
+    "category": "Active Essentials - Bottoms",
+    "name": "Artículo Patagonia",
+    "code": "58092FGE",
+    "baseCode": "58092",
+    "color": "FGE",
+    "image": "assets/58092FGE.jpg"
+  },
+  {
+    "page": 62,
+    "category": "W’s Lifestyle Essentials - Bottoms",
+    "name": "W’s Stand Up Shorts",
+    "code": "58162SMDB",
+    "baseCode": "58162",
+    "color": "SMDB",
+    "image": "assets/58162SMDB.jpg"
+  },
+  {
+    "page": 62,
+    "category": "W’s Lifestyle Essentials - Bottoms",
+    "name": "W’s Stand Up Shorts",
+    "code": "58162VLKH",
+    "baseCode": "58162",
+    "color": "VLKH",
+    "image": "assets/58162VLKH.jpg"
+  },
+  {
+    "page": 62,
+    "category": "W’s Lifestyle Essentials - Bottoms",
+    "name": "W’s Garden Island Shorts",
+    "code": "58176BLK",
+    "baseCode": "58176",
+    "color": "BLK",
+    "image": "assets/58176BLK.jpg"
+  },
+  {
+    "page": 62,
+    "category": "W’s Lifestyle Essentials - Bottoms",
+    "name": "W’s Garden Island Shorts",
+    "code": "58176WWSN",
+    "baseCode": "58176",
+    "color": "WWSN",
+    "image": "assets/58176WWSN.jpg"
+  },
+  {
+    "page": 5,
+    "category": "Accesories - Misc Accessories",
+    "name": "Friction Belt",
+    "code": "59179AQST",
+    "baseCode": "59179",
+    "color": "AQST",
+    "image": "assets/59179AQST.jpg"
+  },
+  {
+    "page": 5,
+    "category": "Accesories - Misc Accessories",
+    "name": "Friction Belt",
+    "code": "59179BLK",
+    "baseCode": "59179",
+    "color": "BLK",
+    "image": "assets/59179BLK.jpg"
+  },
+  {
+    "page": 5,
+    "category": "Accesories - Misc Accessories",
+    "name": "Tech Web Belt",
+    "code": "59194CPRG",
+    "baseCode": "59194",
+    "color": "CPRG",
+    "image": "assets/59194CPRG.jpg"
+  },
+  {
+    "page": 5,
+    "category": "Accesories - Misc Accessories",
+    "name": "Holidays",
+    "code": "59194FGE",
+    "baseCode": "59194",
+    "color": "FGE",
+    "image": "assets/59194FGE.jpg"
+  },
+  {
+    "page": 43,
+    "category": "Logo - Accesories",
+    "name": "Recycled Market Tote",
+    "code": "59250DGCL",
+    "baseCode": "59250",
+    "color": "DGCL",
+    "image": "assets/59250DGCL.jpg"
+  },
+  {
+    "page": 43,
+    "category": "Logo - Accesories",
+    "name": "Recycled Market Tote",
+    "code": "59250GWCL",
+    "baseCode": "59250",
+    "color": "GWCL",
+    "image": "assets/59250GWCL.jpg"
+  },
+  {
+    "page": 43,
+    "category": "Logo - Accesories",
+    "name": "Recycled Market Tote",
+    "code": "59250RPCC",
+    "baseCode": "59250",
+    "color": "RPCC",
+    "image": "assets/59250RPCC.jpg"
+  },
+  {
+    "page": 43,
+    "category": "Logo - Accesories",
+    "name": "Recycled Oversized Tote",
+    "code": "59255OLCC",
+    "baseCode": "59255",
+    "color": "OLCC",
+    "image": "assets/59255OLCC.jpg"
+  },
+  {
+    "page": 32,
+    "category": "Kids - Tops",
+    "name": "Baby Micro D Snap-T Jacket",
+    "code": "60155AQT",
+    "baseCode": "60155",
+    "color": "AQT",
+    "image": "assets/60155AQT.jpg"
+  },
+  {
+    "page": 32,
+    "category": "Kids - Tops",
+    "name": "Baby Micro D Snap-T Jacket",
+    "code": "60155WPLT",
+    "baseCode": "60155",
+    "color": "WPLT",
+    "image": "assets/60155WPLT.jpg"
+  },
+  {
+    "page": 34,
+    "category": "Kids - Bottoms",
+    "name": "Baby Baggies Shorts",
+    "code": "60279SHRB",
+    "baseCode": "60279",
+    "color": "SHRB",
+    "image": "assets/60279SHRB.jpg"
+  },
+  {
+    "page": 34,
+    "category": "Kids - Bottoms",
+    "name": "Baby Baggies Shorts",
+    "code": "60279TTCE",
+    "baseCode": "60279",
+    "color": "TTCE",
+    "image": "assets/60279TTCE.jpg"
+  },
+  {
+    "page": 33,
+    "category": "Kids - Tops",
+    "name": "Baby Fitz Roy Flurries T-Shirt",
+    "code": "60382PCKP",
+    "baseCode": "60382",
+    "color": "PCKP",
+    "image": "assets/60382PCKP.jpg"
+  },
+  {
+    "page": 33,
+    "category": "Kids - Tops",
+    "name": "Baby Fitz Roy Flurries T-Shirt",
+    "code": "60382UDNL",
+    "baseCode": "60382",
+    "color": "UDNL",
+    "image": "assets/60382UDNL.jpg"
+  },
+  {
+    "page": 33,
+    "category": "Kids - Tops",
+    "name": "Baby Graphic T-Shirt",
+    "code": "60389ITLS",
+    "baseCode": "60389",
+    "color": "ITLS",
+    "image": "assets/60389ITLS.jpg"
+  },
+  {
+    "page": 33,
+    "category": "Kids - Tops",
+    "name": "Baby Graphic T-Shirt",
+    "code": "60389PDTI",
+    "baseCode": "60389",
+    "color": "PDTI",
+    "image": "assets/60389PDTI.jpg"
+  },
+  {
+    "page": 33,
+    "category": "Kids - Tops",
+    "name": "Baby Graphic T-Shirt",
+    "code": "60389SFPE",
+    "baseCode": "60389",
+    "color": "SFPE",
+    "image": "assets/60389SFPE.jpg"
+  },
+  {
+    "page": 34,
+    "category": "Kids - Bottoms",
+    "name": "Baby Sweatshorts",
+    "code": "60931WFQV",
+    "baseCode": "60931",
+    "color": "WFQV",
+    "image": "assets/60931WFQV.jpg"
+  },
+  {
+    "page": 34,
+    "category": "Kids - Bottoms",
+    "name": "Baby Sweatshorts",
+    "code": "60931WFSB",
+    "baseCode": "60931",
+    "color": "WFSB",
+    "image": "assets/60931WFSB.jpg"
+  },
+  {
+    "page": 32,
+    "category": "Kids - Tops",
+    "name": "Baby Crew Sweatshirt",
+    "code": "60941ITLS",
+    "baseCode": "60941",
+    "color": "ITLS",
+    "image": "assets/60941ITLS.jpg"
+  },
+  {
+    "page": 32,
+    "category": "Kids - Tops",
+    "name": "Baby Full-Zip Hoody Sweatshirt",
+    "code": "60951OLQV",
+    "baseCode": "60951",
+    "color": "OLQV",
+    "image": "assets/60951OLQV.jpg"
+  },
+  {
+    "page": 34,
+    "category": "Kids - Bottoms",
+    "name": "Baby Sweatpants",
+    "code": "60956FIQV",
+    "baseCode": "60956",
+    "color": "FIQV",
+    "image": "assets/60956FIQV.jpg"
+  },
+  {
+    "page": 34,
+    "category": "Kids - Bottoms",
+    "name": "Baby Sweatpants",
+    "code": "60956WFTI",
+    "baseCode": "60956",
+    "color": "WFTI",
+    "image": "assets/60956WFTI.jpg"
+  },
+  {
+    "page": 32,
+    "category": "Kids - Tops",
+    "name": "Baby Cap SW Hoody",
+    "code": "61257RBLN",
+    "baseCode": "61257",
+    "color": "RBLN",
+    "image": "assets/61257RBLN.jpg"
+  },
+  {
+    "page": 32,
+    "category": "Kids - Tops",
+    "name": "Baby Cap SW Hoody",
+    "code": "61257RVCG",
+    "baseCode": "61257",
+    "color": "RVCG",
+    "image": "assets/61257RVCG.jpg"
+  },
+  {
+    "page": 33,
+    "category": "Kids - Tops",
+    "name": "K’s Graphic T-Shirt",
+    "code": "62146EBLS",
+    "baseCode": "62146",
+    "color": "EBLS",
+    "image": "assets/62146EBLS.jpg"
+  },
+  {
+    "page": 33,
+    "category": "Kids - Tops",
+    "name": "K’s Graphic T-Shirt",
+    "code": "62146PRQV",
+    "baseCode": "62146",
+    "color": "PRQV",
+    "image": "assets/62146PRQV.jpg"
+  },
+  {
+    "page": 33,
+    "category": "Kids - Tops",
+    "name": "Artículo Patagonia",
+    "code": "62146RVCE",
+    "baseCode": "62146",
+    "color": "RVCE",
+    "image": "assets/62146RVCE.jpg"
+  },
+  {
+    "page": 33,
+    "category": "Kids - Tops",
+    "name": "K’s L/S Cap SW T-Shirt",
+    "code": "62386BLNE",
+    "baseCode": "62386",
+    "color": "BLNE",
+    "image": "assets/62386BLNE.jpg"
+  },
+  {
+    "page": 33,
+    "category": "Kids - Tops",
+    "name": "K’s L/S Cap SW T-Shirt",
+    "code": "62386RMSB",
+    "baseCode": "62386",
+    "color": "RMSB",
+    "image": "assets/62386RMSB.jpg"
+  },
+  {
+    "page": 32,
+    "category": "Kids - Tops",
+    "name": "K’s R1 Air Full-Zip Hoody",
+    "code": "64810CPRG",
+    "baseCode": "64810",
+    "color": "CPRG",
+    "image": "assets/64810CPRG.jpg"
+  },
+  {
+    "page": 32,
+    "category": "Kids - Tops",
+    "name": "K’s R1 Air Full-Zip Hoody",
+    "code": "64810QVLT",
+    "baseCode": "64810",
+    "color": "QVLT",
+    "image": "assets/64810QVLT.jpg"
+  },
+  {
+    "page": 32,
+    "category": "Kids - Tops",
+    "name": "K’s Micro D Snap-T Jacket",
+    "code": "65465PCHS",
+    "baseCode": "65465",
+    "color": "PCHS",
+    "image": "assets/65465PCHS.jpg"
+  },
+  {
+    "page": 35,
+    "category": "Kids - Accesories",
+    "name": "K’s Reversible Bucket Hat",
+    "code": "65940ITTL",
+    "baseCode": "65940",
+    "color": "ITTL",
+    "image": "assets/65940ITTL.jpg"
+  },
+  {
+    "page": 35,
+    "category": "Kids - Accesories",
+    "name": "K’s Reversible Bucket Hat",
+    "code": "65940SHRB",
+    "baseCode": "65940",
+    "color": "SHRB",
+    "image": "assets/65940SHRB.jpg"
+  },
+  {
+    "page": 35,
+    "category": "Kids - Accesories",
+    "name": "K’s Trucker Hat",
+    "code": "66032BLGL",
+    "baseCode": "66032",
+    "color": "BLGL",
+    "image": "assets/66032BLGL.jpg"
+  },
+  {
+    "page": 35,
+    "category": "Kids - Accesories",
+    "name": "K’s Trucker Hat",
+    "code": "66032FLWH",
+    "baseCode": "66032",
+    "color": "FLWH",
+    "image": "assets/66032FLWH.jpg"
+  },
+  {
+    "page": 35,
+    "category": "Kids - Accesories",
+    "name": "Artículo Patagonia",
+    "code": "66032TCWI",
+    "baseCode": "66032",
+    "color": "TCWI",
+    "image": "assets/66032TCWI.jpg"
+  },
+  {
+    "page": 35,
+    "category": "Kids - Accesories",
+    "name": "Baby Sun Bucket Hat",
+    "code": "66077ITLZ",
+    "baseCode": "66077",
+    "color": "ITLZ",
+    "image": "assets/66077ITLZ.jpg"
+  },
+  {
+    "page": 35,
+    "category": "Kids - Accesories",
+    "name": "Baby Sun Bucket Hat",
+    "code": "66077SHML",
+    "baseCode": "66077",
+    "color": "SHML",
+    "image": "assets/66077SHML.jpg"
+  },
+  {
+    "page": 35,
+    "category": "Kids - Accesories",
+    "name": "Baby Baggies Cap",
+    "code": "66086AMBL",
+    "baseCode": "66086",
+    "color": "AMBL",
+    "image": "assets/66086AMBL.jpg"
+  },
+  {
+    "page": 35,
+    "category": "Kids - Accesories",
+    "name": "Baby Baggies Cap",
+    "code": "66086FTQV",
+    "baseCode": "66086",
+    "color": "FTQV",
+    "image": "assets/66086FTQV.jpg"
+  },
+  {
+    "page": 35,
+    "category": "Kids - Accesories",
+    "name": "Baby Block-the-Sun Hat",
+    "code": "66090DLPI",
+    "baseCode": "66090",
+    "color": "DLPI",
+    "image": "assets/66090DLPI.jpg"
+  },
+  {
+    "page": 35,
+    "category": "Kids - Accesories",
+    "name": "Baby Block-the-Sun Hat",
+    "code": "66090SHRB",
+    "baseCode": "66090",
+    "color": "SHRB",
+    "image": "assets/66090SHRB.jpg"
+  },
+  {
+    "page": 33,
+    "category": "Kids - Tops",
+    "name": "K’s L/S SW Rashguard",
+    "code": "66317BLTL",
+    "baseCode": "66317",
+    "color": "BLTL",
+    "image": "assets/66317BLTL.jpg"
+  },
+  {
+    "page": 33,
+    "category": "Kids - Tops",
+    "name": "K’s L/S SW Rashguard",
+    "code": "66317BTWI",
+    "baseCode": "66317",
+    "color": "BTWI",
+    "image": "assets/66317BTWI.jpg"
+  },
+  {
+    "page": 34,
+    "category": "Kids - Bottoms",
+    "name": "K’s Outdoor Everyday Pants",
+    "code": "66542BUGR",
+    "baseCode": "66542",
+    "color": "BUGR",
+    "image": "assets/66542BUGR.jpg"
+  },
+  {
+    "page": 34,
+    "category": "Kids - Bottoms",
+    "name": "K’s Outdoor Everyday Pants",
+    "code": "66542TIDB",
+    "baseCode": "66542",
+    "color": "TIDB",
+    "image": "assets/66542TIDB.jpg"
+  },
+  {
+    "page": 34,
+    "category": "Kids - Bottoms",
+    "name": "K’s Sweatpants",
+    "code": "66706WFLI",
+    "baseCode": "66706",
+    "color": "WFLI",
+    "image": "assets/66706WFLI.jpg"
+  },
+  {
+    "page": 34,
+    "category": "Kids - Bottoms",
+    "name": "K’s Sweatpants",
+    "code": "66706WFNA",
+    "baseCode": "66706",
+    "color": "WFNA",
+    "image": "assets/66706WFNA.jpg"
+  },
+  {
+    "page": 34,
+    "category": "Kids - Bottoms",
+    "name": "Holidays",
+    "code": "67036KALB",
+    "baseCode": "67036",
+    "color": "KALB",
+    "image": "assets/67036KALB.jpg"
+  },
+  {
+    "page": 34,
+    "category": "Kids - Bottoms",
+    "name": "Holidays",
+    "code": "67036TTGE",
+    "baseCode": "67036",
+    "color": "TTGE",
+    "image": "assets/67036TTGE.jpg"
+  },
+  {
+    "page": 34,
+    "category": "Kids - Bottoms",
+    "name": "Artículo Patagonia",
+    "code": "67330BLSG",
+    "baseCode": "67330",
+    "color": "BLSG",
+    "image": "assets/67330BLSG.jpg"
+  },
+  {
+    "page": 34,
+    "category": "Kids - Bottoms",
+    "name": "Artículo Patagonia",
+    "code": "67330FGE",
+    "baseCode": "67330",
+    "color": "FGE",
+    "image": "assets/67330FGE.jpg"
+  },
+  {
+    "page": 32,
+    "category": "Kids - Tops",
+    "name": "K’s Outdoor Everyday Jacket",
+    "code": "68165BUGR",
+    "baseCode": "68165",
+    "color": "BUGR",
+    "image": "assets/68165BUGR.jpg"
+  },
+  {
+    "page": 32,
+    "category": "Kids - Tops",
+    "name": "K’s Outdoor Everyday Jacket",
+    "code": "68165TIDB",
+    "baseCode": "68165",
+    "color": "TIDB",
+    "image": "assets/68165TIDB.jpg"
+  },
+  {
+    "page": 61,
+    "category": "W’s Lifestyle Essentials - Bottoms",
+    "name": "W’s Outdoor Everyday Overalls",
+    "code": "75115BCBN",
+    "baseCode": "75115",
+    "color": "BCBN",
+    "image": "assets/75115BCBN.jpg"
+  },
+  {
+    "page": 61,
+    "category": "W’s Lifestyle Essentials - Bottoms",
+    "name": "W’s Outdoor Everyday Overalls",
+    "code": "75115WSTO",
+    "baseCode": "75115",
+    "color": "WSTO",
+    "image": "assets/75115WSTO.jpg"
+  },
+  {
+    "page": 61,
+    "category": "W’s Lifestyle Essentials - Bottoms",
+    "name": "W’s Tidal Threads Romper",
+    "code": "75125SANL",
+    "baseCode": "75125",
+    "color": "SANL",
+    "image": "assets/75125SANL.jpg"
+  },
+  {
+    "page": 61,
+    "category": "W’s Lifestyle Essentials - Bottoms",
+    "name": "W’s Tidal Threads Romper",
+    "code": "75125TCLE",
+    "baseCode": "75125",
+    "color": "TCLE",
+    "image": "assets/75125TCLE.jpg"
+  },
+  {
+    "page": 5,
+    "category": "Accesories - Misc Accessories",
+    "name": "Sun Gloves",
+    "code": "81738FEGY",
+    "baseCode": "81738",
+    "color": "FEGY",
+    "image": "assets/81738FEGY.jpg"
+  },
+  {
+    "page": 30,
+    "category": "M’s Sandy Cay Pants M’s Sandy Cay Shorts - 9 in.",
+    "name": "Artículo Patagonia",
+    "code": "82093SBDY",
+    "baseCode": "82093",
+    "color": "SBDY",
+    "image": "assets/82093SBDY.jpg"
+  },
+  {
+    "page": 30,
+    "category": "M’s Sandy Cay Pants M’s Sandy Cay Shorts - 9 in.",
+    "name": "Artículo Patagonia",
+    "code": "82093SKA",
+    "baseCode": "82093",
+    "color": "SKA",
+    "image": "assets/82093SKA.jpg"
+  },
+  {
+    "page": 30,
+    "category": "M’s Sandy Cay Pants M’s Sandy Cay Shorts - 9 in.",
+    "name": "Artículo Patagonia",
+    "code": "82128SBDY",
+    "baseCode": "82128",
+    "color": "SBDY",
+    "image": "assets/82128SBDY.jpg"
+  },
+  {
+    "page": 30,
+    "category": "M’s Sandy Cay Pants M’s Sandy Cay Shorts - 9 in.",
+    "name": "Artículo Patagonia",
+    "code": "82128SKA",
+    "baseCode": "82128",
+    "color": "SKA",
+    "image": "assets/82128SKA.jpg"
+  },
+  {
+    "page": 21,
+    "category": "Alpine/Climb - Bottoms",
+    "name": "Artículo Patagonia",
+    "code": "82910BLK",
+    "baseCode": "82910",
+    "color": "BLK",
+    "image": "assets/82910BLK.jpg"
+  },
+  {
+    "page": 21,
+    "category": "Alpine/Climb - Bottoms",
+    "name": "Artículo Patagonia",
+    "code": "82910GMTG",
+    "baseCode": "82910",
+    "color": "GMTG",
+    "image": "assets/82910GMTG.jpg"
+  },
+  {
+    "page": 21,
+    "category": "Alpine/Climb - Bottoms",
+    "name": "Artículo Patagonia",
+    "code": "82936BLK",
+    "baseCode": "82936",
+    "color": "BLK",
+    "image": "assets/82936BLK.jpg"
+  },
+  {
+    "page": 13,
+    "category": "Active Essentials - Bottoms",
+    "name": "Artículo Patagonia",
+    "code": "82961SMDB",
+    "baseCode": "82961",
+    "color": "SMDB",
+    "image": "assets/82961SMDB.jpg"
+  },
+  {
+    "page": 21,
+    "category": "Alpine/Climb - Bottoms",
+    "name": "Artículo Patagonia",
+    "code": "83072BLK",
+    "baseCode": "83072",
+    "color": "BLK",
+    "image": "assets/83072BLK.jpg"
+  },
+  {
+    "page": 21,
+    "category": "Alpine/Climb - Bottoms",
+    "name": "Artículo Patagonia",
+    "code": "83072BSNG",
+    "baseCode": "83072",
+    "color": "BSNG",
+    "image": "assets/83072BSNG.jpg"
+  },
+  {
+    "page": 21,
+    "category": "Alpine/Climb - Bottoms",
+    "name": "Artículo Patagonia",
+    "code": "83083BCBN",
+    "baseCode": "83083",
+    "color": "BCBN",
+    "image": "assets/83083BCBN.jpg"
+  },
+  {
+    "page": 21,
+    "category": "Alpine/Climb - Bottoms",
+    "name": "Artículo Patagonia",
+    "code": "83083SMDB",
+    "baseCode": "83083",
+    "color": "SMDB",
+    "image": "assets/83083SMDB.jpg"
+  },
+  {
+    "page": 21,
+    "category": "Alpine/Climb - Bottoms",
+    "name": "M’s Venga Rock Shorts",
+    "code": "83102BCBN",
+    "baseCode": "83102",
+    "color": "BCBN",
+    "image": "assets/83102BCBN.jpg"
+  },
+  {
+    "page": 21,
+    "category": "Alpine/Climb - Bottoms",
+    "name": "M’s Venga Rock Shorts",
+    "code": "83102SMDB",
+    "baseCode": "83102",
+    "color": "SMDB",
+    "image": "assets/83102SMDB.jpg"
+  },
+  {
+    "page": 46,
+    "category": "Mountain Essentials - Tops",
+    "name": "M’s R1 TechFace Hoody",
+    "code": "83579AQT",
+    "baseCode": "83579",
+    "color": "AQT",
+    "image": "assets/83579AQT.jpg"
+  },
+  {
+    "page": 46,
+    "category": "Mountain Essentials - Tops",
+    "name": "M’s R1 TechFace Hoody",
+    "code": "83579BLK",
+    "baseCode": "83579",
+    "color": "BLK",
+    "image": "assets/83579BLK.jpg"
+  },
+  {
+    "page": 47,
+    "category": "Mountain Essentials - Tops",
+    "name": "M’s Nano Puff Vest",
+    "code": "84243BLK",
+    "baseCode": "84243",
+    "color": "BLK",
+    "image": "assets/84243BLK.jpg"
+  },
+  {
+    "page": 47,
+    "category": "Mountain Essentials - Tops",
+    "name": "M’s Nano Puff Vest",
+    "code": "84243BLSG",
+    "baseCode": "84243",
+    "color": "BLSG",
+    "image": "assets/84243BLSG.jpg"
+  },
+  {
+    "page": 47,
+    "category": "Mountain Essentials - Tops",
+    "name": "M’s Nano Puff Vest",
+    "code": "84243FGE",
+    "baseCode": "84243",
+    "color": "FGE",
+    "image": "assets/84243FGE.jpg"
+  },
+  {
+    "page": 47,
+    "category": "Mountain Essentials - Tops",
+    "name": "W’s Nano Puff Vest",
+    "code": "84248BLK",
+    "baseCode": "84248",
+    "color": "BLK",
+    "image": "assets/84248BLK.jpg"
+  },
+  {
+    "page": 47,
+    "category": "Mountain Essentials - Tops",
+    "name": "M’s Down Sweater Vest",
+    "code": "84623BLK",
+    "baseCode": "84623",
+    "color": "BLK",
+    "image": "assets/84623BLK.jpg"
+  },
+  {
+    "page": 47,
+    "category": "Mountain Essentials - Tops",
+    "name": "M’s Down Sweater Vest",
+    "code": "84623BLSG",
+    "baseCode": "84623",
+    "color": "BLSG",
+    "image": "assets/84623BLSG.jpg"
+  },
+  {
+    "page": 47,
+    "category": "Mountain Essentials - Tops",
+    "name": "W’s Down Sweater Vest",
+    "code": "84629BLK",
+    "baseCode": "84629",
+    "color": "BLK",
+    "image": "assets/84629BLK.jpg"
+  },
+  {
+    "page": 46,
+    "category": "Mountain Essentials - Tops",
+    "name": "M’s Down Sweater",
+    "code": "84675BLK",
+    "baseCode": "84675",
+    "color": "BLK",
+    "image": "assets/84675BLK.jpg"
+  },
+  {
+    "page": 46,
+    "category": "Mountain Essentials - Tops",
+    "name": "M’s Down Sweater",
+    "code": "84675CLOR",
+    "baseCode": "84675",
+    "color": "CLOR",
+    "image": "assets/84675CLOR.jpg"
+  },
+  {
+    "page": 46,
+    "category": "Mountain Essentials - Tops",
+    "name": "M’s Down Sweater Hoody",
+    "code": "84702CLOR",
+    "baseCode": "84702",
+    "color": "CLOR",
+    "image": "assets/84702CLOR.jpg"
+  },
+  {
+    "page": 46,
+    "category": "Mountain Essentials - Tops",
+    "name": "M’s Boulder Fork Rain Jacket",
+    "code": "85140BCBN",
+    "baseCode": "85140",
+    "color": "BCBN",
+    "image": "assets/85140BCBN.jpg"
+  },
+  {
+    "page": 46,
+    "category": "Mountain Essentials - Tops",
+    "name": "M’s Boulder Fork Rain Jacket",
+    "code": "85140SMDB",
+    "baseCode": "85140",
+    "color": "SMDB",
+    "image": "assets/85140SMDB.jpg"
+  },
+  {
+    "page": 46,
+    "category": "Mountain Essentials - Tops",
+    "name": "M’s Torrentshell 3L Rain Jacket",
+    "code": "85241BLK",
+    "baseCode": "85241",
+    "color": "BLK",
+    "image": "assets/85241BLK.jpg"
+  },
+  {
+    "page": 46,
+    "category": "Mountain Essentials - Tops",
+    "name": "M’s Torrentshell 3L Rain Jacket",
+    "code": "85241BLSG",
+    "baseCode": "85241",
+    "color": "BLSG",
+    "image": "assets/85241BLSG.jpg"
+  },
+  {
+    "page": 46,
+    "category": "Mountain Essentials - Tops",
+    "name": "M’s Torrentshell 3L Rain Jacket",
+    "code": "85241CPRG",
+    "baseCode": "85241",
+    "color": "CPRG",
+    "image": "assets/85241CPRG.jpg"
+  },
+  {
+    "page": 46,
+    "category": "Mountain Essentials - Tops",
+    "name": "W’s Torrentshell 3L Rain Jacket",
+    "code": "85246BLK",
+    "baseCode": "85246",
+    "color": "BLK",
+    "image": "assets/85246BLK.jpg"
+  },
+  {
+    "page": 46,
+    "category": "Mountain Essentials - Tops",
+    "name": "W’s Torrentshell 3L Rain Jacket",
+    "code": "85246QVLT",
+    "baseCode": "85246",
+    "color": "QVLT",
+    "image": "assets/85246QVLT.jpg"
+  },
+  {
+    "page": 46,
+    "category": "Mountain Essentials - Tops",
+    "name": "W’s Torrentshell 3L Rain Jacket",
+    "code": "85246THI",
+    "baseCode": "85246",
+    "color": "THI",
+    "image": "assets/85246THI.jpg"
+  },
+  {
+    "page": 20,
+    "category": "Alpine/Climb - Outerwear",
+    "name": "M’s Nano-Air Ultralight P/O",
+    "code": "85345BLSG",
+    "baseCode": "85345",
+    "color": "BLSG",
+    "image": "assets/85345BLSG.jpg"
+  },
+  {
+    "page": 20,
+    "category": "Alpine/Climb - Outerwear",
+    "name": "M’s Nano-Air Ultralight P/O",
+    "code": "85345BSNG",
+    "baseCode": "85345",
+    "color": "BSNG",
+    "image": "assets/85345BSNG.jpg"
+  },
+  {
+    "page": 20,
+    "category": "Alpine/Climb - Outerwear",
+    "name": "W’s Nano-Air Ultralight",
+    "code": "85370BLK",
+    "baseCode": "85370",
+    "color": "BLK",
+    "image": "assets/85370BLK.jpg"
+  },
+  {
+    "page": 20,
+    "category": "Alpine/Climb - Outerwear",
+    "name": "W’s Nano-Air Ultralight",
+    "code": "85370BLSG",
+    "baseCode": "85370",
+    "color": "BLSG",
+    "image": "assets/85370BLSG.jpg"
+  },
+  {
+    "page": 46,
+    "category": "Mountain Essentials - Tops",
+    "name": "M’s Durable Down Parka",
+    "code": "85520BSNG",
+    "baseCode": "85520",
+    "color": "BSNG",
+    "image": "assets/85520BSNG.jpg"
+  },
+  {
+    "page": 46,
+    "category": "Mountain Essentials - Tops",
+    "name": "M’s Durable Down Parka",
+    "code": "85520CLOR",
+    "baseCode": "85520",
+    "color": "CLOR",
+    "image": "assets/85520CLOR.jpg"
+  },
+  {
+    "page": 46,
+    "category": "Mountain Essentials - Tops",
+    "name": "W’s Durable Down Parka",
+    "code": "85525BLSG",
+    "baseCode": "85525",
+    "color": "BLSG",
+    "image": "assets/85525BLSG.jpg"
+  },
+  {
+    "page": 20,
+    "category": "Alpine/Climb - Outerwear",
+    "name": "M’s Houdini Rock Jacket",
+    "code": "85670BSNG",
+    "baseCode": "85670",
+    "color": "BSNG",
+    "image": "assets/85670BSNG.jpg"
+  },
+  {
+    "page": 20,
+    "category": "Alpine/Climb - Outerwear",
+    "name": "M’s Houdini Rock Jacket",
+    "code": "85670ORPL",
+    "baseCode": "85670",
+    "color": "ORPL",
+    "image": "assets/85670ORPL.jpg"
+  },
+  {
+    "page": 20,
+    "category": "Alpine/Climb - Outerwear",
+    "name": "W’s Houdini Rock Jacket",
+    "code": "85675BSNG",
+    "baseCode": "85675",
+    "color": "BSNG",
+    "image": "assets/85675BSNG.jpg"
+  },
+  {
+    "page": 20,
+    "category": "Alpine/Climb - Outerwear",
+    "name": "W’s Houdini Rock Jacket",
+    "code": "85675ORPL",
+    "baseCode": "85675",
+    "color": "ORPL",
+    "image": "assets/85675ORPL.jpg"
+  },
+  {
+    "page": 20,
+    "category": "Alpine/Climb - Outerwear",
+    "name": "Houdini Rock Pants",
+    "code": "85680BSNG",
+    "baseCode": "85680",
+    "color": "BSNG",
+    "image": "assets/85680BSNG.jpg"
+  },
+  {
+    "page": 20,
+    "category": "Alpine/Climb - Outerwear",
+    "name": "Houdini Rock Pants",
+    "code": "85680ORPL",
+    "baseCode": "85680",
+    "color": "ORPL",
+    "image": "assets/85680ORPL.jpg"
+  },
+  {
+    "page": 21,
+    "category": "Alpine/Climb - Bottoms",
+    "name": "M’s Free Wall Pants",
+    "code": "85695BLSG",
+    "baseCode": "85695",
+    "color": "BLSG",
+    "image": "assets/85695BLSG.jpg"
+  },
+  {
+    "page": 21,
+    "category": "Alpine/Climb - Bottoms",
+    "name": "M’s Free Wall Pants",
+    "code": "85695CLOR",
+    "baseCode": "85695",
+    "color": "CLOR",
+    "image": "assets/85695CLOR.jpg"
+  },
+  {
+    "page": 21,
+    "category": "Alpine/Climb - Bottoms",
+    "name": "W’s Free Wall Pants",
+    "code": "85700BSNG",
+    "baseCode": "85700",
+    "color": "BSNG",
+    "image": "assets/85700BSNG.jpg"
+  },
+  {
+    "page": 21,
+    "category": "Alpine/Climb - Bottoms",
+    "name": "W’s Free Wall Pants",
+    "code": "85700FDMG",
+    "baseCode": "85700",
+    "color": "FDMG",
+    "image": "assets/85700FDMG.jpg"
+  },
+  {
+    "page": 65,
+    "category": "M’s Wavefarer Boardshorts - 19 in.",
+    "name": "M’s Stretch Terre Planing Hoody",
+    "code": "86187BLSG",
+    "baseCode": "86187",
+    "color": "BLSG",
+    "image": "assets/86187BLSG.jpg"
+  },
+  {
+    "page": 65,
+    "category": "M’s Wavefarer Boardshorts - 19 in.",
+    "name": "Artículo Patagonia",
+    "code": "86623BLSG",
+    "baseCode": "86623",
+    "color": "BLSG",
+    "image": "assets/86623BLSG.jpg"
+  },
+  {
+    "page": 65,
+    "category": "M’s Wavefarer Boardshorts - 19 in.",
+    "name": "Artículo Patagonia",
+    "code": "86623TCLE",
+    "baseCode": "86623",
+    "color": "TCLE",
+    "image": "assets/86623TCLE.jpg"
+  },
+  {
+    "page": 64,
+    "category": "Surf - Wetsuits",
+    "name": "Artículo Patagonia",
+    "code": "88567BLK",
+    "baseCode": "88567",
+    "color": "BLK",
+    "image": "assets/88567BLK.jpg"
+  },
+  {
+    "page": 64,
+    "category": "Surf - Wetsuits",
+    "name": "Artículo Patagonia",
+    "code": "88568BLK",
+    "baseCode": "88568",
+    "color": "BLK",
+    "image": "assets/88568BLK.jpg"
+  },
+  {
+    "page": 64,
+    "category": "Surf - Wetsuits",
+    "name": "R2 Yulex Regulator Gloves",
+    "code": "89443BLK",
+    "baseCode": "89443",
+    "color": "BLK",
+    "image": "assets/89443BLK.jpg"
+  },
+  {
+    "page": 64,
+    "category": "Surf - Wetsuits",
+    "name": "R3 Yulex Regulator Gloves",
+    "code": "89445BLK",
+    "baseCode": "89445",
+    "color": "BLK",
+    "image": "assets/89445BLK.jpg"
+  },
+  {
+    "page": 64,
+    "category": "Surf - Wetsuits",
+    "name": "R3 Yulex Regulator Split Toe Booties",
+    "code": "89446BLK",
+    "baseCode": "89446",
+    "color": "BLK",
+    "image": "assets/89446BLK.jpg"
+  },
+  {
+    "page": 64,
+    "category": "Surf - Wetsuits",
+    "name": "Yulex Regulator Cap",
+    "code": "89451BLK",
+    "baseCode": "89451",
+    "color": "BLK",
+    "image": "assets/89451BLK.jpg"
+  }
+]

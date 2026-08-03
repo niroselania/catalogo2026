@@ -4,4 +4,4 @@ services:
     container_name: catalogo-patagonia
     restart: unless-stopped
     ports:
-      - "7071:80"
+      - "7000:80"

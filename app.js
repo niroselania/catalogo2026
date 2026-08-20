@@ -7,6 +7,14 @@ const template = document.querySelector("#productCard");
 const clear = document.querySelector("#clearSearch");
 let products = [];
 let activeCategory = "Todos";
+const preseasonCodes = new Set([
+  "20345CLOR", "20850BSNG", "21582DRBN", "21582WSTO", "22136BSNG", "22136SBDY",
+  "22765CLOR", "22801BLSG", "22801OLGG", "23315BSNG", "23315WSTO", "25490PLCN",
+  "25551OLNA", "26240RVGN", "27025BLSG", "27025SBDY", "27611BLSG", "27611WSTO",
+  "28835CLOR", "33317RVGN", "37770BCW", "37770BLSG", "37841BLSG", "37841ORPL",
+  "39724BBSN", "42410HMNL", "47914BLSG", "48262WSTO", "48835GMTG", "49448CLOR",
+  "50151MTBA", "57450BSNG"
+]);
 
 const normalize = (value) => String(value).normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase().trim();
 
@@ -35,14 +43,17 @@ function filter() {
   const query = normalize(search.value);
   const items = products.filter((p) => {
     const searchable = `${p.code} ${p.baseCode} ${p.color} ${p.name} ${p.category}`;
-    return (!query || normalize(searchable).includes(query)) && (activeCategory === "Todos" || p.category === activeCategory);
+    const matchesCategory = activeCategory === "Todos"
+      || (activeCategory === "PreSeason" && preseasonCodes.has(p.code))
+      || p.category === activeCategory;
+    return (!query || normalize(searchable).includes(query)) && matchesCategory;
   });
   clear.hidden = !query;
   render(items);
 }
 
 function buildCategories() {
-  const names = ["Todos", ...new Set(products.map((p) => p.category).sort((a, b) => a.localeCompare(b)))];
+  const names = ["Todos", "PreSeason", ...new Set(products.map((p) => p.category).sort((a, b) => a.localeCompare(b)))];
   names.forEach((name) => {
     const button = document.createElement("button");
     button.type = "button";

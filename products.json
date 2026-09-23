@@ -19,7 +19,10 @@
       "withoutVat": 99900,
       "vatPercent": 21.0,
       "withVat": 120879
-    }
+    },
+    "tags": [
+      "Alto Verano"
+    ]
   },
   {
     "page": 49,
@@ -70,7 +73,8 @@
       "withoutVat": 299900,
       "vatPercent": 21.0,
       "withVat": 362879
-    }
+    },
+    "tags": []
   },
   {
     "page": 57,
@@ -128,7 +132,8 @@
       "withoutVat": 299900,
       "vatPercent": 21.0,
       "withVat": 362879
-    }
+    },
+    "tags": []
   },
   {
     "page": 49,
@@ -186,7 +191,8 @@
       "withoutVat": 339900,
       "vatPercent": 21.0,
       "withVat": 411279
-    }
+    },
+    "tags": []
   },
   {
     "page": 49,
@@ -244,7 +250,8 @@
       "withoutVat": 339900,
       "vatPercent": 21.0,
       "withVat": 411279
-    }
+    },
+    "tags": []
   },
   {
     "page": 50,
@@ -302,7 +309,8 @@
       "withoutVat": 299900,
       "vatPercent": 21.0,
       "withVat": 362879
-    }
+    },
+    "tags": []
   },
   {
     "page": 50,
@@ -360,7 +368,8 @@
       "withoutVat": 299900,
       "vatPercent": 21.0,
       "withVat": 362879
-    }
+    },
+    "tags": []
   },
   {
     "page": 57,
@@ -418,7 +427,8 @@
       "withoutVat": 399900,
       "vatPercent": 21.0,
       "withVat": 483879
-    }
+    },
+    "tags": []
   },
   {
     "page": 57,
@@ -476,7 +486,8 @@
       "withoutVat": 399900,
       "vatPercent": 21.0,
       "withVat": 483879
-    }
+    },
+    "tags": []
   },
   {
     "page": 49,
@@ -498,7 +509,10 @@
       "withoutVat": 259900,
       "vatPercent": 21.0,
       "withVat": 314479
-    }
+    },
+    "tags": [
+      "Alto Verano"
+    ]
   },
   {
     "page": 49,
@@ -520,7 +534,10 @@
       "withoutVat": 259900,
       "vatPercent": 21.0,
       "withVat": 314479
-    }
+    },
+    "tags": [
+      "Alto Verano"
+    ]
   },
   {
     "page": 57,
@@ -578,7 +595,8 @@
       "withoutVat": 419900,
       "vatPercent": 21.0,
       "withVat": 508079
-    }
+    },
+    "tags": []
   },
   {
     "page": 57,
@@ -636,7 +654,8 @@
       "withoutVat": 419900,
       "vatPercent": 21.0,
       "withVat": 508079
-    }
+    },
+    "tags": []
   },
   {
     "page": 57,
@@ -694,7 +713,8 @@
       "withoutVat": 449900,
       "vatPercent": 21.0,
       "withVat": 544379
-    }
+    },
+    "tags": []
   },
   {
     "page": 57,
@@ -716,7 +736,10 @@
       "withoutVat": 449900,
       "vatPercent": 21.0,
       "withVat": 544379
-    }
+    },
+    "tags": [
+      "Alto Verano"
+    ]
   },
   {
     "page": 50,
@@ -774,7 +797,8 @@
       "withoutVat": 499900,
       "vatPercent": 21.0,
       "withVat": 604879
-    }
+    },
+    "tags": []
   },
   {
     "page": 50,
@@ -832,7 +856,8 @@
       "withoutVat": 499900,
       "vatPercent": 21.0,
       "withVat": 604879
-    }
+    },
+    "tags": []
   },
   {
     "page": 13,
@@ -897,7 +922,8 @@
       "withoutVat": 319900,
       "vatPercent": 21.0,
       "withVat": 387079
-    }
+    },
+    "tags": []
   },
   {
     "page": 13,
@@ -962,7 +988,8 @@
       "withoutVat": 319900,
       "vatPercent": 21.0,
       "withVat": 387079
-    }
+    },
+    "tags": []
   },
   {
     "page": 13,
@@ -1020,7 +1047,8 @@
       "withoutVat": 269900,
       "vatPercent": 21.0,
       "withVat": 326579
-    }
+    },
+    "tags": []
   },
   {
     "page": 55,
@@ -1078,7 +1106,8 @@
       "withoutVat": 269900,
       "vatPercent": 21.0,
       "withVat": 326579
-    }
+    },
+    "tags": []
   },
   {
     "page": 13,
@@ -1136,7 +1165,8 @@
       "withoutVat": 239900,
       "vatPercent": 21.0,
       "withVat": 290279
-    }
+    },
+    "tags": []
   },
   {
     "page": 13,
@@ -1194,7 +1224,8 @@
       "withoutVat": 239900,
       "vatPercent": 21.0,
       "withVat": 290279
-    }
+    },
+    "tags": []
   },
   {
     "page": 55,
@@ -1252,7 +1283,8 @@
       "withoutVat": 249900,
       "vatPercent": 21.0,
       "withVat": 302379
-    }
+    },
+    "tags": []
   },
   {
     "page": 55,
@@ -1310,7 +1342,8 @@
       "withoutVat": 249900,
       "vatPercent": 21.0,
       "withVat": 302379
-    }
+    },
+    "tags": []
   },
   {
     "page": 55,
@@ -1368,7 +1401,8 @@
       "withoutVat": 269900,
       "vatPercent": 21.0,
       "withVat": 326579
-    }
+    },
+    "tags": []
   },
   {
     "page": 55,
@@ -1426,7 +1460,8 @@
       "withoutVat": 269900,
       "vatPercent": 21.0,
       "withVat": 326579
-    }
+    },
+    "tags": []
   },
   {
     "page": 61,
@@ -1477,7 +1512,8 @@
       "withoutVat": 219900,
       "vatPercent": 21.0,
       "withVat": 266079
-    }
+    },
+    "tags": []
   },
   {
     "page": 61,
@@ -1528,7 +1564,8 @@
       "withoutVat": 219900,
       "vatPercent": 21.0,
       "withVat": 266079
-    }
+    },
+    "tags": []
   },
   {
     "page": 61,
@@ -1586,7 +1623,8 @@
       "withoutVat": 219900,
       "vatPercent": 21.0,
       "withVat": 266079
-    }
+    },
+    "tags": []
   },
   {
     "page": 61,
@@ -1644,7 +1682,8 @@
       "withoutVat": 219900,
       "vatPercent": 21.0,
       "withVat": 266079
-    }
+    },
+    "tags": []
   },
   {
     "page": 55,
@@ -1709,7 +1748,8 @@
       "withoutVat": 249900,
       "vatPercent": 21.0,
       "withVat": 302379
-    }
+    },
+    "tags": []
   },
   {
     "page": 55,
@@ -1774,7 +1814,8 @@
       "withoutVat": 249900,
       "vatPercent": 21.0,
       "withVat": 302379
-    }
+    },
+    "tags": []
   },
   {
     "page": 55,
@@ -1839,7 +1880,8 @@
       "withoutVat": 249900,
       "vatPercent": 21.0,
       "withVat": 302379
-    }
+    },
+    "tags": []
   },
   {
     "page": 61,
@@ -1890,7 +1932,8 @@
       "withoutVat": 199900,
       "vatPercent": 21.0,
       "withVat": 241879
-    }
+    },
+    "tags": []
   },
   {
     "page": 61,
@@ -1941,7 +1984,8 @@
       "withoutVat": 199900,
       "vatPercent": 21.0,
       "withVat": 241879
-    }
+    },
+    "tags": []
   },
   {
     "page": 61,
@@ -1992,7 +2036,8 @@
       "withoutVat": 229900,
       "vatPercent": 21.0,
       "withVat": 278179
-    }
+    },
+    "tags": []
   },
   {
     "page": 61,
@@ -2050,7 +2095,8 @@
       "withoutVat": 229900,
       "vatPercent": 21.0,
       "withVat": 278179
-    }
+    },
+    "tags": []
   },
   {
     "page": 5,
@@ -2080,7 +2126,8 @@
       "withoutVat": 79900,
       "vatPercent": 21.0,
       "withVat": 96679
-    }
+    },
+    "tags": []
   },
   {
     "page": 5,
@@ -2102,7 +2149,10 @@
       "withoutVat": 79900,
       "vatPercent": 21.0,
       "withVat": 96679
-    }
+    },
+    "tags": [
+      "Holidays"
+    ]
   },
   {
     "page": 5,
@@ -2132,7 +2182,8 @@
       "withoutVat": 79900,
       "vatPercent": 21.0,
       "withVat": 96679
-    }
+    },
+    "tags": []
   },
   {
     "page": 5,
@@ -2162,7 +2213,8 @@
       "withoutVat": 79900,
       "vatPercent": 21.0,
       "withVat": 96679
-    }
+    },
+    "tags": []
   },
   {
     "page": 43,
@@ -2192,7 +2244,8 @@
       "withoutVat": 79900,
       "vatPercent": 21.0,
       "withVat": 96679
-    }
+    },
+    "tags": []
   },
   {
     "page": 43,
@@ -2222,7 +2275,8 @@
       "withoutVat": 79900,
       "vatPercent": 21.0,
       "withVat": 96679
-    }
+    },
+    "tags": []
   },
   {
     "page": 51,
@@ -2280,7 +2334,8 @@
       "withoutVat": 219900,
       "vatPercent": 21.0,
       "withVat": 266079
-    }
+    },
+    "tags": []
   },
   {
     "page": 51,
@@ -2331,7 +2386,8 @@
       "withoutVat": 219900,
       "vatPercent": 21.0,
       "withVat": 266079
-    }
+    },
+    "tags": []
   },
   {
     "page": 51,
@@ -2382,7 +2438,8 @@
       "withoutVat": 219900,
       "vatPercent": 21.0,
       "withVat": 266079
-    }
+    },
+    "tags": []
   },
   {
     "page": 59,
@@ -2440,7 +2497,8 @@
       "withoutVat": 369900,
       "vatPercent": 21.0,
       "withVat": 447579
-    }
+    },
+    "tags": []
   },
   {
     "page": 50,
@@ -2498,7 +2556,8 @@
       "withoutVat": 369900,
       "vatPercent": 21.0,
       "withVat": 447579
-    }
+    },
+    "tags": []
   },
   {
     "page": 50,
@@ -2556,7 +2615,8 @@
       "withoutVat": 369900,
       "vatPercent": 21.0,
       "withVat": 447579
-    }
+    },
+    "tags": []
   },
   {
     "page": 59,
@@ -2614,7 +2674,8 @@
       "withoutVat": 269900,
       "vatPercent": 21.0,
       "withVat": 326579
-    }
+    },
+    "tags": []
   },
   {
     "page": 52,
@@ -2665,7 +2726,8 @@
       "withoutVat": 299900,
       "vatPercent": 21.0,
       "withVat": 362879
-    }
+    },
+    "tags": []
   },
   {
     "page": 52,
@@ -2716,7 +2778,8 @@
       "withoutVat": 299900,
       "vatPercent": 21.0,
       "withVat": 362879
-    }
+    },
+    "tags": []
   },
   {
     "page": 52,
@@ -2774,7 +2837,8 @@
       "withoutVat": 199900,
       "vatPercent": 21.0,
       "withVat": 241879
-    }
+    },
+    "tags": []
   },
   {
     "page": 52,
@@ -2832,7 +2896,8 @@
       "withoutVat": 199900,
       "vatPercent": 21.0,
       "withVat": 241879
-    }
+    },
+    "tags": []
   },
   {
     "page": 52,
@@ -2890,7 +2955,8 @@
       "withoutVat": 219900,
       "vatPercent": 21.0,
       "withVat": 266079
-    }
+    },
+    "tags": []
   },
   {
     "page": 52,
@@ -2948,7 +3014,8 @@
       "withoutVat": 219900,
       "vatPercent": 21.0,
       "withVat": 266079
-    }
+    },
+    "tags": []
   },
   {
     "page": 59,
@@ -2970,7 +3037,10 @@
       "withoutVat": 199900,
       "vatPercent": 21.0,
       "withVat": 241879
-    }
+    },
+    "tags": [
+      "Alto Verano"
+    ]
   },
   {
     "page": 59,
@@ -3028,7 +3098,8 @@
       "withoutVat": 199900,
       "vatPercent": 21.0,
       "withVat": 241879
-    }
+    },
+    "tags": []
   },
   {
     "page": 59,
@@ -3086,7 +3157,8 @@
       "withoutVat": 219900,
       "vatPercent": 21.0,
       "withVat": 266079
-    }
+    },
+    "tags": []
   },
   {
     "page": 49,
@@ -3144,7 +3216,8 @@
       "withoutVat": 319900,
       "vatPercent": 21.0,
       "withVat": 387079
-    }
+    },
+    "tags": []
   },
   {
     "page": 49,
@@ -3202,7 +3275,8 @@
       "withoutVat": 319900,
       "vatPercent": 21.0,
       "withVat": 387079
-    }
+    },
+    "tags": []
   },
   {
     "page": 59,
@@ -3260,7 +3334,8 @@
       "withoutVat": 299900,
       "vatPercent": 21.0,
       "withVat": 362879
-    }
+    },
+    "tags": []
   },
   {
     "page": 59,
@@ -3318,7 +3393,8 @@
       "withoutVat": 299900,
       "vatPercent": 21.0,
       "withVat": 362879
-    }
+    },
+    "tags": []
   },
   {
     "page": 59,
@@ -3376,7 +3452,8 @@
       "withoutVat": 249900,
       "vatPercent": 21.0,
       "withVat": 302379
-    }
+    },
+    "tags": []
   },
   {
     "page": 59,
@@ -3398,7 +3475,10 @@
       "withoutVat": 249900,
       "vatPercent": 21.0,
       "withVat": 302379
-    }
+    },
+    "tags": [
+      "Alto Verano"
+    ]
   },
   {
     "page": 67,
@@ -3449,7 +3529,8 @@
       "withoutVat": 249900,
       "vatPercent": 21.0,
       "withVat": 302379
-    }
+    },
+    "tags": []
   },
   {
     "page": 67,
@@ -3500,7 +3581,8 @@
       "withoutVat": 249900,
       "vatPercent": 21.0,
       "withVat": 302379
-    }
+    },
+    "tags": []
   },
   {
     "page": 67,
@@ -3558,7 +3640,8 @@
       "withoutVat": 249900,
       "vatPercent": 21.0,
       "withVat": 302379
-    }
+    },
+    "tags": []
   },
   {
     "page": 67,
@@ -3616,7 +3699,8 @@
       "withoutVat": 249900,
       "vatPercent": 21.0,
       "withVat": 302379
-    }
+    },
+    "tags": []
   },
   {
     "page": 67,
@@ -3667,7 +3751,8 @@
       "withoutVat": 249900,
       "vatPercent": 21.0,
       "withVat": 302379
-    }
+    },
+    "tags": []
   },
   {
     "page": 67,
@@ -3718,7 +3803,8 @@
       "withoutVat": 249900,
       "vatPercent": 21.0,
       "withVat": 302379
-    }
+    },
+    "tags": []
   },
   {
     "page": 67,
@@ -3769,7 +3855,8 @@
       "withoutVat": 249900,
       "vatPercent": 21.0,
       "withVat": 302379
-    }
+    },
+    "tags": []
   },
   {
     "page": 67,
@@ -3820,7 +3907,8 @@
       "withoutVat": 249900,
       "vatPercent": 21.0,
       "withVat": 302379
-    }
+    },
+    "tags": []
   },
   {
     "page": 67,
@@ -3878,7 +3966,8 @@
       "withoutVat": 249900,
       "vatPercent": 21.0,
       "withVat": 302379
-    }
+    },
+    "tags": []
   },
   {
     "page": 67,
@@ -3900,7 +3989,10 @@
       "withoutVat": 249900,
       "vatPercent": 21.0,
       "withVat": 302379
-    }
+    },
+    "tags": [
+      "Holidays"
+    ]
   },
   {
     "page": 67,
@@ -3922,7 +4014,10 @@
       "withoutVat": 249900,
       "vatPercent": 21.0,
       "withVat": 302379
-    }
+    },
+    "tags": [
+      "Alto Verano"
+    ]
   },
   {
     "page": 67,
@@ -3973,7 +4068,8 @@
       "withoutVat": 299900,
       "vatPercent": 21.0,
       "withVat": 362879
-    }
+    },
+    "tags": []
   },
   {
     "page": 67,
@@ -4024,7 +4120,8 @@
       "withoutVat": 299900,
       "vatPercent": 21.0,
       "withVat": 362879
-    }
+    },
+    "tags": []
   },
   {
     "page": 67,
@@ -4082,7 +4179,8 @@
       "withoutVat": 299900,
       "vatPercent": 21.0,
       "withVat": 362879
-    }
+    },
+    "tags": []
   },
   {
     "page": 67,
@@ -4104,7 +4202,10 @@
       "withoutVat": 299900,
       "vatPercent": 21.0,
       "withVat": 362879
-    }
+    },
+    "tags": [
+      "Alto Verano"
+    ]
   },
   {
     "page": 10,
@@ -4155,7 +4256,10 @@
       "withoutVat": 99900,
       "vatPercent": 21.0,
       "withVat": 120879
-    }
+    },
+    "tags": [
+      "Tech Tees"
+    ]
   },
   {
     "page": 10,
@@ -4206,7 +4310,10 @@
       "withoutVat": 99900,
       "vatPercent": 21.0,
       "withVat": 120879
-    }
+    },
+    "tags": [
+      "Tech Tees"
+    ]
   },
   {
     "page": 10,
@@ -4264,7 +4371,10 @@
       "withoutVat": 99900,
       "vatPercent": 21.0,
       "withVat": 120879
-    }
+    },
+    "tags": [
+      "Tech Tees"
+    ]
   },
   {
     "page": 10,
@@ -4322,7 +4432,10 @@
       "withoutVat": 99900,
       "vatPercent": 21.0,
       "withVat": 120879
-    }
+    },
+    "tags": [
+      "Tech Tees"
+    ]
   },
   {
     "page": 11,
@@ -4373,7 +4486,10 @@
       "withoutVat": 79900,
       "vatPercent": 21.0,
       "withVat": 96679
-    }
+    },
+    "tags": [
+      "Tech Tees"
+    ]
   },
   {
     "page": 11,
@@ -4424,7 +4540,10 @@
       "withoutVat": 79900,
       "vatPercent": 21.0,
       "withVat": 96679
-    }
+    },
+    "tags": [
+      "Tech Tees"
+    ]
   },
   {
     "page": 11,
@@ -4482,7 +4601,10 @@
       "withoutVat": 79900,
       "vatPercent": 21.0,
       "withVat": 96679
-    }
+    },
+    "tags": [
+      "Tech Tees"
+    ]
   },
   {
     "page": 11,
@@ -4540,7 +4662,10 @@
       "withoutVat": 79900,
       "vatPercent": 21.0,
       "withVat": 96679
-    }
+    },
+    "tags": [
+      "Tech Tees"
+    ]
   },
   {
     "page": 12,
@@ -4591,7 +4716,8 @@
       "withoutVat": 209900,
       "vatPercent": 21.0,
       "withVat": 253979
-    }
+    },
+    "tags": []
   },
   {
     "page": 12,
@@ -4642,7 +4768,8 @@
       "withoutVat": 209900,
       "vatPercent": 21.0,
       "withVat": 253979
-    }
+    },
+    "tags": []
   },
   {
     "page": 12,
@@ -4700,7 +4827,8 @@
       "withoutVat": 209900,
       "vatPercent": 21.0,
       "withVat": 253979
-    }
+    },
+    "tags": []
   },
   {
     "page": 12,
@@ -4758,7 +4886,8 @@
       "withoutVat": 209900,
       "vatPercent": 21.0,
       "withVat": 253979
-    }
+    },
+    "tags": []
   },
   {
     "page": 68,
@@ -4809,7 +4938,8 @@
       "withoutVat": 169900,
       "vatPercent": 21.0,
       "withVat": 205579
-    }
+    },
+    "tags": []
   },
   {
     "page": 68,
@@ -4867,7 +4997,8 @@
       "withoutVat": 169900,
       "vatPercent": 21.0,
       "withVat": 205579
-    }
+    },
+    "tags": []
   },
   {
     "page": 15,
@@ -4918,7 +5049,8 @@
       "withoutVat": 179900,
       "vatPercent": 21.0,
       "withVat": 217679
-    }
+    },
+    "tags": []
   },
   {
     "page": 15,
@@ -4969,7 +5101,8 @@
       "withoutVat": 179900,
       "vatPercent": 21.0,
       "withVat": 217679
-    }
+    },
+    "tags": []
   },
   {
     "page": 15,
@@ -5027,7 +5160,8 @@
       "withoutVat": 179900,
       "vatPercent": 21.0,
       "withVat": 217679
-    }
+    },
+    "tags": []
   },
   {
     "page": 15,
@@ -5049,7 +5183,10 @@
       "withoutVat": 179900,
       "vatPercent": 21.0,
       "withVat": 217679
-    }
+    },
+    "tags": [
+      "Alto Verano"
+    ]
   },
   {
     "page": 68,
@@ -5107,7 +5244,8 @@
       "withoutVat": 229900,
       "vatPercent": 21.0,
       "withVat": 278179
-    }
+    },
+    "tags": []
   },
   {
     "page": 13,
@@ -5165,7 +5303,8 @@
       "withoutVat": 219900,
       "vatPercent": 21.0,
       "withVat": 266079
-    }
+    },
+    "tags": []
   },
   {
     "page": 13,
@@ -5223,7 +5362,8 @@
       "withoutVat": 299900,
       "vatPercent": 21.0,
       "withVat": 362879
-    }
+    },
+    "tags": []
   },
   {
     "page": 13,
@@ -5245,7 +5385,10 @@
       "withoutVat": 299900,
       "vatPercent": 21.0,
       "withVat": 362879
-    }
+    },
+    "tags": [
+      "Alto Verano"
+    ]
   },
   {
     "page": 51,
@@ -5303,7 +5446,8 @@
       "withoutVat": 319900,
       "vatPercent": 21.0,
       "withVat": 387079
-    }
+    },
+    "tags": []
   },
   {
     "page": 51,
@@ -5361,7 +5505,8 @@
       "withoutVat": 319900,
       "vatPercent": 21.0,
       "withVat": 387079
-    }
+    },
+    "tags": []
   },
   {
     "page": 51,
@@ -5419,7 +5564,8 @@
       "withoutVat": 299900,
       "vatPercent": 21.0,
       "withVat": 362879
-    }
+    },
+    "tags": []
   },
   {
     "page": 51,
@@ -5477,7 +5623,8 @@
       "withoutVat": 299900,
       "vatPercent": 21.0,
       "withVat": 362879
-    }
+    },
+    "tags": []
   },
   {
     "page": 51,
@@ -5535,7 +5682,8 @@
       "withoutVat": 299900,
       "vatPercent": 21.0,
       "withVat": 362879
-    }
+    },
+    "tags": []
   },
   {
     "page": 51,
@@ -5593,7 +5741,8 @@
       "withoutVat": 299900,
       "vatPercent": 21.0,
       "withVat": 362879
-    }
+    },
+    "tags": []
   },
   {
     "page": 51,
@@ -5651,7 +5800,8 @@
       "withoutVat": 329900,
       "vatPercent": 21.0,
       "withVat": 399179
-    }
+    },
+    "tags": []
   },
   {
     "page": 51,
@@ -5709,7 +5859,8 @@
       "withoutVat": 329900,
       "vatPercent": 21.0,
       "withVat": 399179
-    }
+    },
+    "tags": []
   },
   {
     "page": 51,
@@ -5767,7 +5918,8 @@
       "withoutVat": 329900,
       "vatPercent": 21.0,
       "withVat": 399179
-    }
+    },
+    "tags": []
   },
   {
     "page": 51,
@@ -5825,7 +5977,8 @@
       "withoutVat": 329900,
       "vatPercent": 21.0,
       "withVat": 399179
-    }
+    },
+    "tags": []
   },
   {
     "page": 58,
@@ -5883,7 +6036,8 @@
       "withoutVat": 329900,
       "vatPercent": 21.0,
       "withVat": 399179
-    }
+    },
+    "tags": []
   },
   {
     "page": 58,
@@ -5941,7 +6095,8 @@
       "withoutVat": 329900,
       "vatPercent": 21.0,
       "withVat": 399179
-    }
+    },
+    "tags": []
   },
   {
     "page": 58,
@@ -5999,7 +6154,8 @@
       "withoutVat": 329900,
       "vatPercent": 21.0,
       "withVat": 399179
-    }
+    },
+    "tags": []
   },
   {
     "page": 52,
@@ -6057,7 +6213,8 @@
       "withoutVat": 299900,
       "vatPercent": 21.0,
       "withVat": 362879
-    }
+    },
+    "tags": []
   },
   {
     "page": 52,
@@ -6115,7 +6272,8 @@
       "withoutVat": 299900,
       "vatPercent": 21.0,
       "withVat": 362879
-    }
+    },
+    "tags": []
   },
   {
     "page": 58,
@@ -6137,7 +6295,10 @@
       "withoutVat": 299900,
       "vatPercent": 21.0,
       "withVat": 362879
-    }
+    },
+    "tags": [
+      "Alto Verano"
+    ]
   },
   {
     "page": 51,
@@ -6188,7 +6349,8 @@
       "withoutVat": 239900,
       "vatPercent": 21.0,
       "withVat": 290279
-    }
+    },
+    "tags": []
   },
   {
     "page": 51,
@@ -6246,7 +6408,8 @@
       "withoutVat": 239900,
       "vatPercent": 21.0,
       "withVat": 290279
-    }
+    },
+    "tags": []
   },
   {
     "page": 51,
@@ -6297,7 +6460,8 @@
       "withoutVat": 239900,
       "vatPercent": 21.0,
       "withVat": 290279
-    }
+    },
+    "tags": []
   },
   {
     "page": 58,
@@ -6355,7 +6519,8 @@
       "withoutVat": 239900,
       "vatPercent": 21.0,
       "withVat": 290279
-    }
+    },
+    "tags": []
   },
   {
     "page": 52,
@@ -6413,7 +6578,8 @@
       "withoutVat": 219900,
       "vatPercent": 21.0,
       "withVat": 266079
-    }
+    },
+    "tags": []
   },
   {
     "page": 52,
@@ -6471,7 +6637,8 @@
       "withoutVat": 219900,
       "vatPercent": 21.0,
       "withVat": 266079
-    }
+    },
+    "tags": []
   },
   {
     "page": 52,
@@ -6529,7 +6696,8 @@
       "withoutVat": 169900,
       "vatPercent": 21.0,
       "withVat": 205579
-    }
+    },
+    "tags": []
   },
   {
     "page": 52,
@@ -6587,7 +6755,8 @@
       "withoutVat": 169900,
       "vatPercent": 21.0,
       "withVat": 205579
-    }
+    },
+    "tags": []
   },
   {
     "page": 52,
@@ -6645,7 +6814,8 @@
       "withoutVat": 169900,
       "vatPercent": 21.0,
       "withVat": 205579
-    }
+    },
+    "tags": []
   },
   {
     "page": 51,
@@ -6703,7 +6873,8 @@
       "withoutVat": 289900,
       "vatPercent": 21.0,
       "withVat": 350779
-    }
+    },
+    "tags": []
   },
   {
     "page": 51,
@@ -6761,7 +6932,8 @@
       "withoutVat": 289900,
       "vatPercent": 21.0,
       "withVat": 350779
-    }
+    },
+    "tags": []
   },
   {
     "page": 59,
@@ -6819,7 +6991,8 @@
       "withoutVat": 169900,
       "vatPercent": 21.0,
       "withVat": 205579
-    }
+    },
+    "tags": []
   },
   {
     "page": 59,
@@ -6877,7 +7050,8 @@
       "withoutVat": 169900,
       "vatPercent": 21.0,
       "withVat": 205579
-    }
+    },
+    "tags": []
   },
   {
     "page": 59,
@@ -6899,7 +7073,10 @@
       "withoutVat": 169900,
       "vatPercent": 21.0,
       "withVat": 205579
-    }
+    },
+    "tags": [
+      "Alto Verano"
+    ]
   },
   {
     "page": 50,
@@ -6950,7 +7127,8 @@
       "withoutVat": 519900,
       "vatPercent": 21.0,
       "withVat": 629079
-    }
+    },
+    "tags": []
   },
   {
     "page": 57,
@@ -7008,7 +7186,8 @@
       "withoutVat": 299900,
       "vatPercent": 21.0,
       "withVat": 362879
-    }
+    },
+    "tags": []
   },
   {
     "page": 57,
@@ -7066,7 +7245,8 @@
       "withoutVat": 299900,
       "vatPercent": 21.0,
       "withVat": 362879
-    }
+    },
+    "tags": []
   },
   {
     "page": 49,
@@ -7124,7 +7304,8 @@
       "withoutVat": 399900,
       "vatPercent": 21.0,
       "withVat": 483879
-    }
+    },
+    "tags": []
   },
   {
     "page": 70,
@@ -7146,7 +7327,8 @@
       "withoutVat": 0,
       "vatPercent": 0,
       "withVat": 0
-    }
+    },
+    "tags": []
   },
   {
     "page": 49,
@@ -7204,7 +7386,8 @@
       "withoutVat": 399900,
       "vatPercent": 21.0,
       "withVat": 483879
-    }
+    },
+    "tags": []
   },
   {
     "page": 49,
@@ -7262,7 +7445,8 @@
       "withoutVat": 409900,
       "vatPercent": 21.0,
       "withVat": 495979
-    }
+    },
+    "tags": []
   },
   {
     "page": 49,
@@ -7320,7 +7504,8 @@
       "withoutVat": 409900,
       "vatPercent": 21.0,
       "withVat": 495979
-    }
+    },
+    "tags": []
   },
   {
     "page": 50,
@@ -7371,7 +7556,8 @@
       "withoutVat": 499900,
       "vatPercent": 21.0,
       "withVat": 604879
-    }
+    },
+    "tags": []
   },
   {
     "page": 50,
@@ -7429,7 +7615,8 @@
       "withoutVat": 499900,
       "vatPercent": 21.0,
       "withVat": 604879
-    }
+    },
+    "tags": []
   },
   {
     "page": 4,
@@ -7466,7 +7653,8 @@
       "withoutVat": 119900,
       "vatPercent": 21.0,
       "withVat": 145079
-    }
+    },
+    "tags": []
   },
   {
     "page": 4,
@@ -7503,7 +7691,8 @@
       "withoutVat": 119900,
       "vatPercent": 21.0,
       "withVat": 145079
-    }
+    },
+    "tags": []
   },
   {
     "page": 4,
@@ -7525,7 +7714,10 @@
       "withoutVat": 109900,
       "vatPercent": 21.0,
       "withVat": 132979
-    }
+    },
+    "tags": [
+      "Holidays"
+    ]
   },
   {
     "page": 4,
@@ -7562,7 +7754,8 @@
       "withoutVat": 109900,
       "vatPercent": 21.0,
       "withVat": 132979
-    }
+    },
+    "tags": []
   },
   {
     "page": 4,
@@ -7599,7 +7792,8 @@
       "withoutVat": 109900,
       "vatPercent": 21.0,
       "withVat": 132979
-    }
+    },
+    "tags": []
   },
   {
     "page": 11,
@@ -7657,7 +7851,8 @@
       "withoutVat": 139900,
       "vatPercent": 21.0,
       "withVat": 169279
-    }
+    },
+    "tags": []
   },
   {
     "page": 11,
@@ -7679,7 +7874,10 @@
       "withoutVat": 139900,
       "vatPercent": 21.0,
       "withVat": 169279
-    }
+    },
+    "tags": [
+      "Holidays"
+    ]
   },
   {
     "page": 11,
@@ -7737,7 +7935,8 @@
       "withoutVat": 129900,
       "vatPercent": 21.0,
       "withVat": 157179
-    }
+    },
+    "tags": []
   },
   {
     "page": 11,
@@ -7795,7 +7994,8 @@
       "withoutVat": 129900,
       "vatPercent": 21.0,
       "withVat": 157179
-    }
+    },
+    "tags": []
   },
   {
     "page": 4,
@@ -7825,7 +8025,8 @@
       "withoutVat": 89900,
       "vatPercent": 21.0,
       "withVat": 108779
-    }
+    },
+    "tags": []
   },
   {
     "page": 4,
@@ -7855,7 +8056,8 @@
       "withoutVat": 89900,
       "vatPercent": 21.0,
       "withVat": 108779
-    }
+    },
+    "tags": []
   },
   {
     "page": 4,
@@ -7885,7 +8087,8 @@
       "withoutVat": 89900,
       "vatPercent": 21.0,
       "withVat": 108779
-    }
+    },
+    "tags": []
   },
   {
     "page": 4,
@@ -7907,7 +8110,10 @@
       "withoutVat": 79900,
       "vatPercent": 21.0,
       "withVat": 96679
-    }
+    },
+    "tags": [
+      "Alto Verano"
+    ]
   },
   {
     "page": 4,
@@ -7929,7 +8135,10 @@
       "withoutVat": 79900,
       "vatPercent": 21.0,
       "withVat": 96679
-    }
+    },
+    "tags": [
+      "Alto Verano"
+    ]
   },
   {
     "page": 43,
@@ -7959,7 +8168,8 @@
       "withoutVat": 79900,
       "vatPercent": 21.0,
       "withVat": 96679
-    }
+    },
+    "tags": []
   },
   {
     "page": 43,
@@ -7989,7 +8199,8 @@
       "withoutVat": 79900,
       "vatPercent": 21.0,
       "withVat": 96679
-    }
+    },
+    "tags": []
   },
   {
     "page": 43,
@@ -8019,7 +8230,8 @@
       "withoutVat": 79900,
       "vatPercent": 21.0,
       "withVat": 96679
-    }
+    },
+    "tags": []
   },
   {
     "page": 43,
@@ -8049,7 +8261,8 @@
       "withoutVat": 79900,
       "vatPercent": 21.0,
       "withVat": 96679
-    }
+    },
+    "tags": []
   },
   {
     "page": 4,
@@ -8079,7 +8292,8 @@
       "withoutVat": 89900,
       "vatPercent": 21.0,
       "withVat": 108779
-    }
+    },
+    "tags": []
   },
   {
     "page": 4,
@@ -8109,7 +8323,8 @@
       "withoutVat": 89900,
       "vatPercent": 21.0,
       "withVat": 108779
-    }
+    },
+    "tags": []
   },
   {
     "page": 4,
@@ -8146,7 +8361,8 @@
       "withoutVat": 109900,
       "vatPercent": 21.0,
       "withVat": 132979
-    }
+    },
+    "tags": []
   },
   {
     "page": 4,
@@ -8183,7 +8399,8 @@
       "withoutVat": 109900,
       "vatPercent": 21.0,
       "withVat": 132979
-    }
+    },
+    "tags": []
   },
   {
     "page": 4,
@@ -8205,7 +8422,10 @@
       "withoutVat": 109900,
       "vatPercent": 21.0,
       "withVat": 132979
-    }
+    },
+    "tags": [
+      "Alto Verano"
+    ]
   },
   {
     "page": 4,
@@ -8227,7 +8447,10 @@
       "withoutVat": 109900,
       "vatPercent": 21.0,
       "withVat": 132979
-    }
+    },
+    "tags": [
+      "Alto Verano"
+    ]
   },
   {
     "page": 38,
@@ -8285,7 +8508,8 @@
       "withoutVat": 99900,
       "vatPercent": 21.0,
       "withVat": 120879
-    }
+    },
+    "tags": []
   },
   {
     "page": 38,
@@ -8307,7 +8531,10 @@
       "withoutVat": 99900,
       "vatPercent": 21.0,
       "withVat": 120879
-    }
+    },
+    "tags": [
+      "Alto Verano"
+    ]
   },
   {
     "page": 38,
@@ -8329,7 +8556,10 @@
       "withoutVat": 99900,
       "vatPercent": 21.0,
       "withVat": 120879
-    }
+    },
+    "tags": [
+      "Alto Verano"
+    ]
   },
   {
     "page": 39,
@@ -8387,7 +8617,8 @@
       "withoutVat": 99900,
       "vatPercent": 21.0,
       "withVat": 120879
-    }
+    },
+    "tags": []
   },
   {
     "page": 70,
@@ -8409,7 +8640,8 @@
       "withoutVat": 0,
       "vatPercent": 0,
       "withVat": 0
-    }
+    },
+    "tags": []
   },
   {
     "page": 39,
@@ -8467,7 +8699,8 @@
       "withoutVat": 99900,
       "vatPercent": 21.0,
       "withVat": 120879
-    }
+    },
+    "tags": []
   },
   {
     "page": 39,
@@ -8525,7 +8758,8 @@
       "withoutVat": 99900,
       "vatPercent": 21.0,
       "withVat": 120879
-    }
+    },
+    "tags": []
   },
   {
     "page": 39,
@@ -8583,7 +8817,8 @@
       "withoutVat": 99900,
       "vatPercent": 21.0,
       "withVat": 120879
-    }
+    },
+    "tags": []
   },
   {
     "page": 41,
@@ -8634,7 +8869,8 @@
       "withoutVat": 99900,
       "vatPercent": 21.0,
       "withVat": 120879
-    }
+    },
+    "tags": []
   },
   {
     "page": 41,
@@ -8685,7 +8921,8 @@
       "withoutVat": 99900,
       "vatPercent": 21.0,
       "withVat": 120879
-    }
+    },
+    "tags": []
   },
   {
     "page": 41,
@@ -8707,7 +8944,10 @@
       "withoutVat": 99900,
       "vatPercent": 21.0,
       "withVat": 120879
-    }
+    },
+    "tags": [
+      "Alto Verano"
+    ]
   },
   {
     "page": 39,
@@ -8765,7 +9005,8 @@
       "withoutVat": 99900,
       "vatPercent": 21.0,
       "withVat": 120879
-    }
+    },
+    "tags": []
   },
   {
     "page": 39,
@@ -8823,7 +9064,8 @@
       "withoutVat": 99900,
       "vatPercent": 21.0,
       "withVat": 120879
-    }
+    },
+    "tags": []
   },
   {
     "page": 39,
@@ -8845,7 +9087,10 @@
       "withoutVat": 99900,
       "vatPercent": 21.0,
       "withVat": 120879
-    }
+    },
+    "tags": [
+      "Alto Verano"
+    ]
   },
   {
     "page": 71,
@@ -8867,7 +9112,10 @@
       "withoutVat": 99900,
       "vatPercent": 21.0,
       "withVat": 120879
-    }
+    },
+    "tags": [
+      "Holidays"
+    ]
   },
   {
     "page": 39,
@@ -8889,7 +9137,10 @@
       "withoutVat": 99900,
       "vatPercent": 21.0,
       "withVat": 120879
-    }
+    },
+    "tags": [
+      "Holidays"
+    ]
   },
   {
     "page": 40,
@@ -8911,7 +9162,10 @@
       "withoutVat": 99900,
       "vatPercent": 21.0,
       "withVat": 120879
-    }
+    },
+    "tags": [
+      "Holidays"
+    ]
   },
   {
     "page": 40,
@@ -8933,7 +9187,10 @@
       "withoutVat": 99900,
       "vatPercent": 21.0,
       "withVat": 120879
-    }
+    },
+    "tags": [
+      "Holidays"
+    ]
   },
   {
     "page": 40,
@@ -8955,7 +9212,10 @@
       "withoutVat": 99900,
       "vatPercent": 21.0,
       "withVat": 120879
-    }
+    },
+    "tags": [
+      "Holidays"
+    ]
   },
   {
     "page": 40,
@@ -8977,7 +9237,10 @@
       "withoutVat": 99900,
       "vatPercent": 21.0,
       "withVat": 120879
-    }
+    },
+    "tags": [
+      "Holidays"
+    ]
   },
   {
     "page": 73,
@@ -8999,7 +9262,10 @@
       "withoutVat": 99900,
       "vatPercent": 21.0,
       "withVat": 120879
-    }
+    },
+    "tags": [
+      "Alto Verano"
+    ]
   },
   {
     "page": 41,
@@ -9021,7 +9287,10 @@
       "withoutVat": 99900,
       "vatPercent": 21.0,
       "withVat": 120879
-    }
+    },
+    "tags": [
+      "Alto Verano"
+    ]
   },
   {
     "page": 42,
@@ -9043,7 +9312,10 @@
       "withoutVat": 99900,
       "vatPercent": 21.0,
       "withVat": 120879
-    }
+    },
+    "tags": [
+      "Holidays"
+    ]
   },
   {
     "page": 42,
@@ -9065,7 +9337,10 @@
       "withoutVat": 99900,
       "vatPercent": 21.0,
       "withVat": 120879
-    }
+    },
+    "tags": [
+      "Holidays"
+    ]
   },
   {
     "page": 42,
@@ -9123,7 +9398,8 @@
       "withoutVat": 99900,
       "vatPercent": 21.0,
       "withVat": 120879
-    }
+    },
+    "tags": []
   },
   {
     "page": 42,
@@ -9181,7 +9457,8 @@
       "withoutVat": 99900,
       "vatPercent": 21.0,
       "withVat": 120879
-    }
+    },
+    "tags": []
   },
   {
     "page": 42,
@@ -9203,7 +9480,10 @@
       "withoutVat": 99900,
       "vatPercent": 21.0,
       "withVat": 120879
-    }
+    },
+    "tags": [
+      "Alto Verano"
+    ]
   },
   {
     "page": 42,
@@ -9225,7 +9505,10 @@
       "withoutVat": 99900,
       "vatPercent": 21.0,
       "withVat": 120879
-    }
+    },
+    "tags": [
+      "Alto Verano"
+    ]
   },
   {
     "page": 40,
@@ -9276,7 +9559,8 @@
       "withoutVat": 99900,
       "vatPercent": 21.0,
       "withVat": 120879
-    }
+    },
+    "tags": []
   },
   {
     "page": 40,
@@ -9334,7 +9618,8 @@
       "withoutVat": 99900,
       "vatPercent": 21.0,
       "withVat": 120879
-    }
+    },
+    "tags": []
   },
   {
     "page": 40,
@@ -9385,7 +9670,8 @@
       "withoutVat": 99900,
       "vatPercent": 21.0,
       "withVat": 120879
-    }
+    },
+    "tags": []
   },
   {
     "page": 40,
@@ -9443,7 +9729,8 @@
       "withoutVat": 99900,
       "vatPercent": 21.0,
       "withVat": 120879
-    }
+    },
+    "tags": []
   },
   {
     "page": 40,
@@ -9494,7 +9781,8 @@
       "withoutVat": 99900,
       "vatPercent": 21.0,
       "withVat": 120879
-    }
+    },
+    "tags": []
   },
   {
     "page": 40,
@@ -9545,7 +9833,8 @@
       "withoutVat": 99900,
       "vatPercent": 21.0,
       "withVat": 120879
-    }
+    },
+    "tags": []
   },
   {
     "page": 54,
@@ -9603,7 +9892,8 @@
       "withoutVat": 109900,
       "vatPercent": 21.0,
       "withVat": 132979
-    }
+    },
+    "tags": []
   },
   {
     "page": 54,
@@ -9661,7 +9951,8 @@
       "withoutVat": 109900,
       "vatPercent": 21.0,
       "withVat": 132979
-    }
+    },
+    "tags": []
   },
   {
     "page": 54,
@@ -9719,7 +10010,8 @@
       "withoutVat": 109900,
       "vatPercent": 21.0,
       "withVat": 132979
-    }
+    },
+    "tags": []
   },
   {
     "page": 41,
@@ -9741,7 +10033,10 @@
       "withoutVat": 129900,
       "vatPercent": 21.0,
       "withVat": 157179
-    }
+    },
+    "tags": [
+      "Alto Verano"
+    ]
   },
   {
     "page": 41,
@@ -9763,7 +10058,10 @@
       "withoutVat": 129900,
       "vatPercent": 21.0,
       "withVat": 157179
-    }
+    },
+    "tags": [
+      "Alto Verano"
+    ]
   },
   {
     "page": 41,
@@ -9814,7 +10112,8 @@
       "withoutVat": 99900,
       "vatPercent": 21.0,
       "withVat": 120879
-    }
+    },
+    "tags": []
   },
   {
     "page": 41,
@@ -9872,7 +10171,8 @@
       "withoutVat": 99900,
       "vatPercent": 21.0,
       "withVat": 120879
-    }
+    },
+    "tags": []
   },
   {
     "page": 41,
@@ -9923,7 +10223,8 @@
       "withoutVat": 99900,
       "vatPercent": 21.0,
       "withVat": 120879
-    }
+    },
+    "tags": []
   },
   {
     "page": 41,
@@ -9945,7 +10246,10 @@
       "withoutVat": 99900,
       "vatPercent": 21.0,
       "withVat": 120879
-    }
+    },
+    "tags": [
+      "Holidays"
+    ]
   },
   {
     "page": 43,
@@ -9975,7 +10279,8 @@
       "withoutVat": 79900,
       "vatPercent": 21.0,
       "withVat": 96679
-    }
+    },
+    "tags": []
   },
   {
     "page": 43,
@@ -10005,7 +10310,8 @@
       "withoutVat": 79900,
       "vatPercent": 21.0,
       "withVat": 96679
-    }
+    },
+    "tags": []
   },
   {
     "page": 43,
@@ -10035,7 +10341,8 @@
       "withoutVat": 79900,
       "vatPercent": 21.0,
       "withVat": 96679
-    }
+    },
+    "tags": []
   },
   {
     "page": 43,
@@ -10057,7 +10364,10 @@
       "withoutVat": 79900,
       "vatPercent": 21.0,
       "withVat": 96679
-    }
+    },
+    "tags": [
+      "Alto Verano"
+    ]
   },
   {
     "page": 43,
@@ -10087,7 +10397,8 @@
       "withoutVat": 79900,
       "vatPercent": 21.0,
       "withVat": 96679
-    }
+    },
+    "tags": []
   },
   {
     "page": 44,
@@ -10117,7 +10428,8 @@
       "withoutVat": 79900,
       "vatPercent": 21.0,
       "withVat": 96679
-    }
+    },
+    "tags": []
   },
   {
     "page": 44,
@@ -10147,7 +10459,8 @@
       "withoutVat": 79900,
       "vatPercent": 21.0,
       "withVat": 96679
-    }
+    },
+    "tags": []
   },
   {
     "page": 44,
@@ -10177,7 +10490,8 @@
       "withoutVat": 79900,
       "vatPercent": 21.0,
       "withVat": 96679
-    }
+    },
+    "tags": []
   },
   {
     "page": 44,
@@ -10207,7 +10521,8 @@
       "withoutVat": 79900,
       "vatPercent": 21.0,
       "withVat": 96679
-    }
+    },
+    "tags": []
   },
   {
     "page": 44,
@@ -10237,7 +10552,8 @@
       "withoutVat": 79900,
       "vatPercent": 21.0,
       "withVat": 96679
-    }
+    },
+    "tags": []
   },
   {
     "page": 44,
@@ -10267,7 +10583,8 @@
       "withoutVat": 79900,
       "vatPercent": 21.0,
       "withVat": 96679
-    }
+    },
+    "tags": []
   },
   {
     "page": 44,
@@ -10297,7 +10614,8 @@
       "withoutVat": 79900,
       "vatPercent": 21.0,
       "withVat": 96679
-    }
+    },
+    "tags": []
   },
   {
     "page": 44,
@@ -10327,7 +10645,8 @@
       "withoutVat": 79900,
       "vatPercent": 21.0,
       "withVat": 96679
-    }
+    },
+    "tags": []
   },
   {
     "page": 44,
@@ -10357,7 +10676,8 @@
       "withoutVat": 79900,
       "vatPercent": 21.0,
       "withVat": 96679
-    }
+    },
+    "tags": []
   },
   {
     "page": 44,
@@ -10387,7 +10707,8 @@
       "withoutVat": 79900,
       "vatPercent": 21.0,
       "withVat": 96679
-    }
+    },
+    "tags": []
   },
   {
     "page": 44,
@@ -10417,7 +10738,8 @@
       "withoutVat": 79900,
       "vatPercent": 21.0,
       "withVat": 96679
-    }
+    },
+    "tags": []
   },
   {
     "page": 37,
@@ -10475,7 +10797,8 @@
       "withoutVat": 189900,
       "vatPercent": 21.0,
       "withVat": 229779
-    }
+    },
+    "tags": []
   },
   {
     "page": 37,
@@ -10540,7 +10863,8 @@
       "withoutVat": 189900,
       "vatPercent": 21.0,
       "withVat": 229779
-    }
+    },
+    "tags": []
   },
   {
     "page": 37,
@@ -10598,7 +10922,8 @@
       "withoutVat": 189900,
       "vatPercent": 21.0,
       "withVat": 229779
-    }
+    },
+    "tags": []
   },
   {
     "page": 37,
@@ -10663,7 +10988,8 @@
       "withoutVat": 189900,
       "vatPercent": 21.0,
       "withVat": 229779
-    }
+    },
+    "tags": []
   },
   {
     "page": 37,
@@ -10714,7 +11040,8 @@
       "withoutVat": 219900,
       "vatPercent": 21.0,
       "withVat": 266079
-    }
+    },
+    "tags": []
   },
   {
     "page": 37,
@@ -10772,7 +11099,8 @@
       "withoutVat": 219900,
       "vatPercent": 21.0,
       "withVat": 266079
-    }
+    },
+    "tags": []
   },
   {
     "page": 37,
@@ -10794,7 +11122,10 @@
       "withoutVat": 219900,
       "vatPercent": 21.0,
       "withVat": 266079
-    }
+    },
+    "tags": [
+      "Alto Verano"
+    ]
   },
   {
     "page": 37,
@@ -10845,7 +11176,8 @@
       "withoutVat": 219900,
       "vatPercent": 21.0,
       "withVat": 266079
-    }
+    },
+    "tags": []
   },
   {
     "page": 37,
@@ -10896,7 +11228,8 @@
       "withoutVat": 219900,
       "vatPercent": 21.0,
       "withVat": 266079
-    }
+    },
+    "tags": []
   },
   {
     "page": 70,
@@ -10918,7 +11251,8 @@
       "withoutVat": 0,
       "vatPercent": 0,
       "withVat": 0
-    }
+    },
+    "tags": []
   },
   {
     "page": 37,
@@ -10976,7 +11310,8 @@
       "withoutVat": 219900,
       "vatPercent": 21.0,
       "withVat": 266079
-    }
+    },
+    "tags": []
   },
   {
     "page": 37,
@@ -11027,7 +11362,8 @@
       "withoutVat": 219900,
       "vatPercent": 21.0,
       "withVat": 266079
-    }
+    },
+    "tags": []
   },
   {
     "page": 37,
@@ -11078,7 +11414,8 @@
       "withoutVat": 219900,
       "vatPercent": 21.0,
       "withVat": 266079
-    }
+    },
+    "tags": []
   },
   {
     "page": 38,
@@ -11136,7 +11473,8 @@
       "withoutVat": 159900,
       "vatPercent": 21.0,
       "withVat": 193479
-    }
+    },
+    "tags": []
   },
   {
     "page": 38,
@@ -11187,7 +11525,8 @@
       "withoutVat": 159900,
       "vatPercent": 21.0,
       "withVat": 193479
-    }
+    },
+    "tags": []
   },
   {
     "page": 38,
@@ -11245,7 +11584,8 @@
       "withoutVat": 219900,
       "vatPercent": 21.0,
       "withVat": 266079
-    }
+    },
+    "tags": []
   },
   {
     "page": 38,
@@ -11303,7 +11643,8 @@
       "withoutVat": 219900,
       "vatPercent": 21.0,
       "withVat": 266079
-    }
+    },
+    "tags": []
   },
   {
     "page": 8,
@@ -11354,7 +11695,8 @@
       "withoutVat": 419900,
       "vatPercent": 21.0,
       "withVat": 508079
-    }
+    },
+    "tags": []
   },
   {
     "page": 8,
@@ -11405,7 +11747,8 @@
       "withoutVat": 419900,
       "vatPercent": 21.0,
       "withVat": 508079
-    }
+    },
+    "tags": []
   },
   {
     "page": 8,
@@ -11463,7 +11806,8 @@
       "withoutVat": 419900,
       "vatPercent": 21.0,
       "withVat": 508079
-    }
+    },
+    "tags": []
   },
   {
     "page": 8,
@@ -11521,7 +11865,8 @@
       "withoutVat": 419900,
       "vatPercent": 21.0,
       "withVat": 508079
-    }
+    },
+    "tags": []
   },
   {
     "page": 8,
@@ -11579,7 +11924,8 @@
       "withoutVat": 299900,
       "vatPercent": 21.0,
       "withVat": 362879
-    }
+    },
+    "tags": []
   },
   {
     "page": 8,
@@ -11637,7 +11983,8 @@
       "withoutVat": 299900,
       "vatPercent": 21.0,
       "withVat": 362879
-    }
+    },
+    "tags": []
   },
   {
     "page": 8,
@@ -11695,7 +12042,8 @@
       "withoutVat": 299900,
       "vatPercent": 21.0,
       "withVat": 362879
-    }
+    },
+    "tags": []
   },
   {
     "page": 8,
@@ -11753,7 +12101,8 @@
       "withoutVat": 299900,
       "vatPercent": 21.0,
       "withVat": 362879
-    }
+    },
+    "tags": []
   },
   {
     "page": 7,
@@ -11811,7 +12160,8 @@
       "withoutVat": 329900,
       "vatPercent": 21.0,
       "withVat": 399179
-    }
+    },
+    "tags": []
   },
   {
     "page": 7,
@@ -11833,7 +12183,10 @@
       "withoutVat": 329900,
       "vatPercent": 21.0,
       "withVat": 399179
-    }
+    },
+    "tags": [
+      "Alto Verano"
+    ]
   },
   {
     "page": 8,
@@ -11891,7 +12244,8 @@
       "withoutVat": 249900,
       "vatPercent": 21.0,
       "withVat": 302379
-    }
+    },
+    "tags": []
   },
   {
     "page": 8,
@@ -11949,7 +12303,8 @@
       "withoutVat": 249900,
       "vatPercent": 21.0,
       "withVat": 302379
-    }
+    },
+    "tags": []
   },
   {
     "page": 8,
@@ -12007,7 +12362,8 @@
       "withoutVat": 249900,
       "vatPercent": 21.0,
       "withVat": 302379
-    }
+    },
+    "tags": []
   },
   {
     "page": 8,
@@ -12065,7 +12421,8 @@
       "withoutVat": 249900,
       "vatPercent": 21.0,
       "withVat": 302379
-    }
+    },
+    "tags": []
   },
   {
     "page": 8,
@@ -12123,7 +12480,8 @@
       "withoutVat": 249900,
       "vatPercent": 21.0,
       "withVat": 302379
-    }
+    },
+    "tags": []
   },
   {
     "page": 8,
@@ -12181,7 +12539,8 @@
       "withoutVat": 249900,
       "vatPercent": 21.0,
       "withVat": 302379
-    }
+    },
+    "tags": []
   },
   {
     "page": 7,
@@ -12239,7 +12598,8 @@
       "withoutVat": 409900,
       "vatPercent": 21.0,
       "withVat": 495979
-    }
+    },
+    "tags": []
   },
   {
     "page": 7,
@@ -12297,7 +12657,8 @@
       "withoutVat": 409900,
       "vatPercent": 21.0,
       "withVat": 495979
-    }
+    },
+    "tags": []
   },
   {
     "page": 7,
@@ -12355,7 +12716,8 @@
       "withoutVat": 409900,
       "vatPercent": 21.0,
       "withVat": 495979
-    }
+    },
+    "tags": []
   },
   {
     "page": 7,
@@ -12413,7 +12775,8 @@
       "withoutVat": 409900,
       "vatPercent": 21.0,
       "withVat": 495979
-    }
+    },
+    "tags": []
   },
   {
     "page": 7,
@@ -12435,7 +12798,10 @@
       "withoutVat": 409900,
       "vatPercent": 21.0,
       "withVat": 495979
-    }
+    },
+    "tags": [
+      "Alto Verano"
+    ]
   },
   {
     "page": 7,
@@ -12493,7 +12859,8 @@
       "withoutVat": 409900,
       "vatPercent": 21.0,
       "withVat": 495979
-    }
+    },
+    "tags": []
   },
   {
     "page": 7,
@@ -12551,7 +12918,8 @@
       "withoutVat": 319900,
       "vatPercent": 21.0,
       "withVat": 387079
-    }
+    },
+    "tags": []
   },
   {
     "page": 7,
@@ -12609,7 +12977,8 @@
       "withoutVat": 319900,
       "vatPercent": 21.0,
       "withVat": 387079
-    }
+    },
+    "tags": []
   },
   {
     "page": 50,
@@ -12660,7 +13029,8 @@
       "withoutVat": 279900,
       "vatPercent": 21.0,
       "withVat": 338679
-    }
+    },
+    "tags": []
   },
   {
     "page": 57,
@@ -12718,7 +13088,8 @@
       "withoutVat": 289900,
       "vatPercent": 21.0,
       "withVat": 350779
-    }
+    },
+    "tags": []
   },
   {
     "page": 30,
@@ -12776,7 +13147,8 @@
       "withoutVat": 299900,
       "vatPercent": 21.0,
       "withVat": 362879
-    }
+    },
+    "tags": []
   },
   {
     "page": 30,
@@ -12834,7 +13206,8 @@
       "withoutVat": 299900,
       "vatPercent": 21.0,
       "withVat": 362879
-    }
+    },
+    "tags": []
   },
   {
     "page": 9,
@@ -12892,7 +13265,8 @@
       "withoutVat": 249900,
       "vatPercent": 21.0,
       "withVat": 302379
-    }
+    },
+    "tags": []
   },
   {
     "page": 9,
@@ -12943,7 +13317,8 @@
       "withoutVat": 249900,
       "vatPercent": 21.0,
       "withVat": 302379
-    }
+    },
+    "tags": []
   },
   {
     "page": 53,
@@ -12965,7 +13340,10 @@
       "withoutVat": 199900,
       "vatPercent": 21.0,
       "withVat": 241879
-    }
+    },
+    "tags": [
+      "Alto Verano"
+    ]
   },
   {
     "page": 53,
@@ -12987,7 +13365,10 @@
       "withoutVat": 199900,
       "vatPercent": 21.0,
       "withVat": 241879
-    }
+    },
+    "tags": [
+      "Alto Verano"
+    ]
   },
   {
     "page": 60,
@@ -13045,7 +13426,8 @@
       "withoutVat": 109900,
       "vatPercent": 21.0,
       "withVat": 132979
-    }
+    },
+    "tags": []
   },
   {
     "page": 60,
@@ -13103,7 +13485,8 @@
       "withoutVat": 109900,
       "vatPercent": 21.0,
       "withVat": 132979
-    }
+    },
+    "tags": []
   },
   {
     "page": 58,
@@ -13161,7 +13544,8 @@
       "withoutVat": 219900,
       "vatPercent": 21.0,
       "withVat": 266079
-    }
+    },
+    "tags": []
   },
   {
     "page": 58,
@@ -13219,7 +13603,8 @@
       "withoutVat": 219900,
       "vatPercent": 21.0,
       "withVat": 266079
-    }
+    },
+    "tags": []
   },
   {
     "page": 58,
@@ -13277,7 +13662,8 @@
       "withoutVat": 189900,
       "vatPercent": 21.0,
       "withVat": 229779
-    }
+    },
+    "tags": []
   },
   {
     "page": 58,
@@ -13335,7 +13721,8 @@
       "withoutVat": 189900,
       "vatPercent": 21.0,
       "withVat": 229779
-    }
+    },
+    "tags": []
   },
   {
     "page": 58,
@@ -13386,7 +13773,8 @@
       "withoutVat": 249900,
       "vatPercent": 21.0,
       "withVat": 302379
-    }
+    },
+    "tags": []
   },
   {
     "page": 58,
@@ -13444,7 +13832,8 @@
       "withoutVat": 249900,
       "vatPercent": 21.0,
       "withVat": 302379
-    }
+    },
+    "tags": []
   },
   {
     "page": 54,
@@ -13502,7 +13891,8 @@
       "withoutVat": 129900,
       "vatPercent": 21.0,
       "withVat": 157179
-    }
+    },
+    "tags": []
   },
   {
     "page": 54,
@@ -13560,7 +13950,8 @@
       "withoutVat": 129900,
       "vatPercent": 21.0,
       "withVat": 157179
-    }
+    },
+    "tags": []
   },
   {
     "page": 54,
@@ -13618,7 +14009,8 @@
       "withoutVat": 129900,
       "vatPercent": 21.0,
       "withVat": 157179
-    }
+    },
+    "tags": []
   },
   {
     "page": 60,
@@ -13655,7 +14047,8 @@
       "withoutVat": 109900,
       "vatPercent": 21.0,
       "withVat": 132979
-    }
+    },
+    "tags": []
   },
   {
     "page": 60,
@@ -13706,7 +14099,8 @@
       "withoutVat": 99900,
       "vatPercent": 21.0,
       "withVat": 120879
-    }
+    },
+    "tags": []
   },
   {
     "page": 60,
@@ -13728,7 +14122,10 @@
       "withoutVat": 139900,
       "vatPercent": 21.0,
       "withVat": 169279
-    }
+    },
+    "tags": [
+      "Holidays"
+    ]
   },
   {
     "page": 60,
@@ -13750,7 +14147,10 @@
       "withoutVat": 139900,
       "vatPercent": 21.0,
       "withVat": 169279
-    }
+    },
+    "tags": [
+      "Holidays"
+    ]
   },
   {
     "page": 53,
@@ -13808,7 +14208,8 @@
       "withoutVat": 179900,
       "vatPercent": 21.0,
       "withVat": 217679
-    }
+    },
+    "tags": []
   },
   {
     "page": 53,
@@ -13859,7 +14260,8 @@
       "withoutVat": 179900,
       "vatPercent": 21.0,
       "withVat": 217679
-    }
+    },
+    "tags": []
   },
   {
     "page": 9,
@@ -13917,7 +14319,8 @@
       "withoutVat": 159900,
       "vatPercent": 21.0,
       "withVat": 193479
-    }
+    },
+    "tags": []
   },
   {
     "page": 9,
@@ -13975,7 +14378,8 @@
       "withoutVat": 159900,
       "vatPercent": 21.0,
       "withVat": 193479
-    }
+    },
+    "tags": []
   },
   {
     "page": 12,
@@ -14033,7 +14437,8 @@
       "withoutVat": 159900,
       "vatPercent": 21.0,
       "withVat": 193479
-    }
+    },
+    "tags": []
   },
   {
     "page": 12,
@@ -14091,7 +14496,8 @@
       "withoutVat": 159900,
       "vatPercent": 21.0,
       "withVat": 193479
-    }
+    },
+    "tags": []
   },
   {
     "page": 9,
@@ -14142,7 +14548,10 @@
       "withoutVat": 149900,
       "vatPercent": 21.0,
       "withVat": 181379
-    }
+    },
+    "tags": [
+      "Tech Tees"
+    ]
   },
   {
     "page": 9,
@@ -14193,7 +14602,10 @@
       "withoutVat": 149900,
       "vatPercent": 21.0,
       "withVat": 181379
-    }
+    },
+    "tags": [
+      "Tech Tees"
+    ]
   },
   {
     "page": 9,
@@ -14215,7 +14627,11 @@
       "withoutVat": 149900,
       "vatPercent": 21.0,
       "withVat": 181379
-    }
+    },
+    "tags": [
+      "Alto Verano",
+      "Tech Tees"
+    ]
   },
   {
     "page": 9,
@@ -14273,7 +14689,10 @@
       "withoutVat": 149900,
       "vatPercent": 21.0,
       "withVat": 181379
-    }
+    },
+    "tags": [
+      "Tech Tees"
+    ]
   },
   {
     "page": 10,
@@ -14324,7 +14743,10 @@
       "withoutVat": 119900,
       "vatPercent": 21.0,
       "withVat": 145079
-    }
+    },
+    "tags": [
+      "Tech Tees"
+    ]
   },
   {
     "page": 10,
@@ -14375,7 +14797,10 @@
       "withoutVat": 119900,
       "vatPercent": 21.0,
       "withVat": 145079
-    }
+    },
+    "tags": [
+      "Tech Tees"
+    ]
   },
   {
     "page": 10,
@@ -14433,7 +14858,10 @@
       "withoutVat": 119900,
       "vatPercent": 21.0,
       "withVat": 145079
-    }
+    },
+    "tags": [
+      "Tech Tees"
+    ]
   },
   {
     "page": 10,
@@ -14491,7 +14919,10 @@
       "withoutVat": 119900,
       "vatPercent": 21.0,
       "withVat": 145079
-    }
+    },
+    "tags": [
+      "Tech Tees"
+    ]
   },
   {
     "page": 11,
@@ -14513,7 +14944,11 @@
       "withoutVat": 109900,
       "vatPercent": 21.0,
       "withVat": 132979
-    }
+    },
+    "tags": [
+      "Alto Verano",
+      "Tech Tees"
+    ]
   },
   {
     "page": 11,
@@ -14535,7 +14970,11 @@
       "withoutVat": 109900,
       "vatPercent": 21.0,
       "withVat": 132979
-    }
+    },
+    "tags": [
+      "Alto Verano",
+      "Tech Tees"
+    ]
   },
   {
     "page": 11,
@@ -14557,7 +14996,11 @@
       "withoutVat": 109900,
       "vatPercent": 21.0,
       "withVat": 132979
-    }
+    },
+    "tags": [
+      "Alto Verano",
+      "Tech Tees"
+    ]
   },
   {
     "page": 11,
@@ -14579,7 +15022,11 @@
       "withoutVat": 109900,
       "vatPercent": 21.0,
       "withVat": 132979
-    }
+    },
+    "tags": [
+      "Alto Verano",
+      "Tech Tees"
+    ]
   },
   {
     "page": 9,
@@ -14630,7 +15077,10 @@
       "withoutVat": 149900,
       "vatPercent": 21.0,
       "withVat": 181379
-    }
+    },
+    "tags": [
+      "Tech Tees"
+    ]
   },
   {
     "page": 9,
@@ -14681,7 +15131,10 @@
       "withoutVat": 149900,
       "vatPercent": 21.0,
       "withVat": 181379
-    }
+    },
+    "tags": [
+      "Tech Tees"
+    ]
   },
   {
     "page": 9,
@@ -14732,7 +15185,10 @@
       "withoutVat": 199900,
       "vatPercent": 21.0,
       "withVat": 241879
-    }
+    },
+    "tags": [
+      "Tech Tees"
+    ]
   },
   {
     "page": 9,
@@ -14783,7 +15239,10 @@
       "withoutVat": 199900,
       "vatPercent": 21.0,
       "withVat": 241879
-    }
+    },
+    "tags": [
+      "Tech Tees"
+    ]
   },
   {
     "page": 9,
@@ -14841,7 +15300,10 @@
       "withoutVat": 199900,
       "vatPercent": 21.0,
       "withVat": 241879
-    }
+    },
+    "tags": [
+      "Tech Tees"
+    ]
   },
   {
     "page": 9,
@@ -14899,7 +15361,10 @@
       "withoutVat": 199900,
       "vatPercent": 21.0,
       "withVat": 241879
-    }
+    },
+    "tags": [
+      "Tech Tees"
+    ]
   },
   {
     "page": 17,
@@ -14950,7 +15415,8 @@
       "withoutVat": 189900,
       "vatPercent": 21.0,
       "withVat": 229779
-    }
+    },
+    "tags": []
   },
   {
     "page": 17,
@@ -15001,7 +15467,8 @@
       "withoutVat": 189900,
       "vatPercent": 21.0,
       "withVat": 229779
-    }
+    },
+    "tags": []
   },
   {
     "page": 18,
@@ -15059,7 +15526,8 @@
       "withoutVat": 189900,
       "vatPercent": 21.0,
       "withVat": 229779
-    }
+    },
+    "tags": []
   },
   {
     "page": 18,
@@ -15117,7 +15585,8 @@
       "withoutVat": 189900,
       "vatPercent": 21.0,
       "withVat": 229779
-    }
+    },
+    "tags": []
   },
   {
     "page": 17,
@@ -15175,7 +15644,8 @@
       "withoutVat": 199900,
       "vatPercent": 21.0,
       "withVat": 241879
-    }
+    },
+    "tags": []
   },
   {
     "page": 17,
@@ -15233,7 +15703,8 @@
       "withoutVat": 199900,
       "vatPercent": 21.0,
       "withVat": 241879
-    }
+    },
+    "tags": []
   },
   {
     "page": 10,
@@ -15284,7 +15755,10 @@
       "withoutVat": 99900,
       "vatPercent": 21.0,
       "withVat": 120879
-    }
+    },
+    "tags": [
+      "Tech Tees"
+    ]
   },
   {
     "page": 10,
@@ -15306,7 +15780,11 @@
       "withoutVat": 99900,
       "vatPercent": 21.0,
       "withVat": 120879
-    }
+    },
+    "tags": [
+      "Alto Verano",
+      "Tech Tees"
+    ]
   },
   {
     "page": 10,
@@ -15357,7 +15835,10 @@
       "withoutVat": 99900,
       "vatPercent": 21.0,
       "withVat": 120879
-    }
+    },
+    "tags": [
+      "Tech Tees"
+    ]
   },
   {
     "page": 10,
@@ -15415,7 +15896,10 @@
       "withoutVat": 99900,
       "vatPercent": 21.0,
       "withVat": 120879
-    }
+    },
+    "tags": [
+      "Tech Tees"
+    ]
   },
   {
     "page": 10,
@@ -15473,7 +15957,10 @@
       "withoutVat": 99900,
       "vatPercent": 21.0,
       "withVat": 120879
-    }
+    },
+    "tags": [
+      "Tech Tees"
+    ]
   },
   {
     "page": 11,
@@ -15531,7 +16018,10 @@
       "withoutVat": 79900,
       "vatPercent": 21.0,
       "withVat": 96679
-    }
+    },
+    "tags": [
+      "Tech Tees"
+    ]
   },
   {
     "page": 11,
@@ -15589,7 +16079,10 @@
       "withoutVat": 79900,
       "vatPercent": 21.0,
       "withVat": 96679
-    }
+    },
+    "tags": [
+      "Tech Tees"
+    ]
   },
   {
     "page": 17,
@@ -15640,7 +16133,8 @@
       "withoutVat": 129900,
       "vatPercent": 21.0,
       "withVat": 157179
-    }
+    },
+    "tags": []
   },
   {
     "page": 17,
@@ -15662,7 +16156,8 @@
       "withoutVat": 129900,
       "vatPercent": 21.0,
       "withVat": 157179
-    }
+    },
+    "tags": []
   },
   {
     "page": 17,
@@ -15713,7 +16208,8 @@
       "withoutVat": 159900,
       "vatPercent": 21.0,
       "withVat": 193479
-    }
+    },
+    "tags": []
   },
   {
     "page": 17,
@@ -15764,7 +16260,8 @@
       "withoutVat": 159900,
       "vatPercent": 21.0,
       "withVat": 193479
-    }
+    },
+    "tags": []
   },
   {
     "page": 18,
@@ -15815,7 +16312,8 @@
       "withoutVat": 119900,
       "vatPercent": 21.0,
       "withVat": 145079
-    }
+    },
+    "tags": []
   },
   {
     "page": 18,
@@ -15866,7 +16364,8 @@
       "withoutVat": 119900,
       "vatPercent": 21.0,
       "withVat": 145079
-    }
+    },
+    "tags": []
   },
   {
     "page": 18,
@@ -15917,7 +16416,8 @@
       "withoutVat": 119900,
       "vatPercent": 21.0,
       "withVat": 145079
-    }
+    },
+    "tags": []
   },
   {
     "page": 18,
@@ -15968,7 +16468,8 @@
       "withoutVat": 119900,
       "vatPercent": 21.0,
       "withVat": 145079
-    }
+    },
+    "tags": []
   },
   {
     "page": 23,
@@ -15998,7 +16499,8 @@
       "withoutVat": 279900,
       "vatPercent": 21.0,
       "withVat": 338679
-    }
+    },
+    "tags": []
   },
   {
     "page": 23,
@@ -16028,7 +16530,8 @@
       "withoutVat": 279900,
       "vatPercent": 21.0,
       "withVat": 338679
-    }
+    },
+    "tags": []
   },
   {
     "page": 23,
@@ -16058,7 +16561,8 @@
       "withoutVat": 279900,
       "vatPercent": 21.0,
       "withVat": 338679
-    }
+    },
+    "tags": []
   },
   {
     "page": 23,
@@ -16088,7 +16592,8 @@
       "withoutVat": 139900,
       "vatPercent": 21.0,
       "withVat": 169279
-    }
+    },
+    "tags": []
   },
   {
     "page": 23,
@@ -16110,7 +16615,10 @@
       "withoutVat": 139900,
       "vatPercent": 21.0,
       "withVat": 169279
-    }
+    },
+    "tags": [
+      "Holidays"
+    ]
   },
   {
     "page": 23,
@@ -16140,7 +16648,8 @@
       "withoutVat": 129900,
       "vatPercent": 21.0,
       "withVat": 157179
-    }
+    },
+    "tags": []
   },
   {
     "page": 23,
@@ -16162,7 +16671,10 @@
       "withoutVat": 129900,
       "vatPercent": 21.0,
       "withVat": 157179
-    }
+    },
+    "tags": [
+      "Alto Verano"
+    ]
   },
   {
     "page": 23,
@@ -16192,7 +16704,8 @@
       "withoutVat": 249900,
       "vatPercent": 21.0,
       "withVat": 302379
-    }
+    },
+    "tags": []
   },
   {
     "page": 23,
@@ -16222,7 +16735,8 @@
       "withoutVat": 249900,
       "vatPercent": 21.0,
       "withVat": 302379
-    }
+    },
+    "tags": []
   },
   {
     "page": 23,
@@ -16252,7 +16766,8 @@
       "withoutVat": 249900,
       "vatPercent": 21.0,
       "withVat": 302379
-    }
+    },
+    "tags": []
   },
   {
     "page": 23,
@@ -16282,7 +16797,8 @@
       "withoutVat": 249900,
       "vatPercent": 21.0,
       "withVat": 302379
-    }
+    },
+    "tags": []
   },
   {
     "page": 23,
@@ -16312,7 +16828,8 @@
       "withoutVat": 279900,
       "vatPercent": 21.0,
       "withVat": 338679
-    }
+    },
+    "tags": []
   },
   {
     "page": 23,
@@ -16342,7 +16859,8 @@
       "withoutVat": 279900,
       "vatPercent": 21.0,
       "withVat": 338679
-    }
+    },
+    "tags": []
   },
   {
     "page": 23,
@@ -16372,7 +16890,8 @@
       "withoutVat": 279900,
       "vatPercent": 21.0,
       "withVat": 338679
-    }
+    },
+    "tags": []
   },
   {
     "page": 24,
@@ -16416,7 +16935,8 @@
       "withoutVat": 399900,
       "vatPercent": 21.0,
       "withVat": 483879
-    }
+    },
+    "tags": []
   },
   {
     "page": 24,
@@ -16460,7 +16980,8 @@
       "withoutVat": 449900,
       "vatPercent": 21.0,
       "withVat": 544379
-    }
+    },
+    "tags": []
   },
   {
     "page": 24,
@@ -16490,7 +17011,8 @@
       "withoutVat": 199900,
       "vatPercent": 21.0,
       "withVat": 241879
-    }
+    },
+    "tags": []
   },
   {
     "page": 24,
@@ -16512,7 +17034,10 @@
       "withoutVat": 199900,
       "vatPercent": 21.0,
       "withVat": 241879
-    }
+    },
+    "tags": [
+      "Holidays"
+    ]
   },
   {
     "page": 27,
@@ -16542,7 +17067,8 @@
       "withoutVat": 139900,
       "vatPercent": 21.0,
       "withVat": 169279
-    }
+    },
+    "tags": []
   },
   {
     "page": 27,
@@ -16572,7 +17098,8 @@
       "withoutVat": 139900,
       "vatPercent": 21.0,
       "withVat": 169279
-    }
+    },
+    "tags": []
   },
   {
     "page": 24,
@@ -16602,7 +17129,8 @@
       "withoutVat": 259900,
       "vatPercent": 21.0,
       "withVat": 314479
-    }
+    },
+    "tags": []
   },
   {
     "page": 24,
@@ -16632,7 +17160,8 @@
       "withoutVat": 259900,
       "vatPercent": 21.0,
       "withVat": 314479
-    }
+    },
+    "tags": []
   },
   {
     "page": 27,
@@ -16662,7 +17191,8 @@
       "withoutVat": 129900,
       "vatPercent": 21.0,
       "withVat": 157179
-    }
+    },
+    "tags": []
   },
   {
     "page": 27,
@@ -16692,7 +17222,8 @@
       "withoutVat": 129900,
       "vatPercent": 21.0,
       "withVat": 157179
-    }
+    },
+    "tags": []
   },
   {
     "page": 24,
@@ -16736,7 +17267,8 @@
       "withoutVat": 399900,
       "vatPercent": 21.0,
       "withVat": 483879
-    }
+    },
+    "tags": []
   },
   {
     "page": 24,
@@ -16766,7 +17298,8 @@
       "withoutVat": 199900,
       "vatPercent": 21.0,
       "withVat": 241879
-    }
+    },
+    "tags": []
   },
   {
     "page": 24,
@@ -16788,7 +17321,10 @@
       "withoutVat": 199900,
       "vatPercent": 21.0,
       "withVat": 241879
-    }
+    },
+    "tags": [
+      "Alto Verano"
+    ]
   },
   {
     "page": 24,
@@ -16818,7 +17354,8 @@
       "withoutVat": 199900,
       "vatPercent": 21.0,
       "withVat": 241879
-    }
+    },
+    "tags": []
   },
   {
     "page": 27,
@@ -16848,7 +17385,8 @@
       "withoutVat": 109900,
       "vatPercent": 21.0,
       "withVat": 132979
-    }
+    },
+    "tags": []
   },
   {
     "page": 27,
@@ -16878,7 +17416,8 @@
       "withoutVat": 109900,
       "vatPercent": 21.0,
       "withVat": 132979
-    }
+    },
+    "tags": []
   },
   {
     "page": 27,
@@ -16908,7 +17447,8 @@
       "withoutVat": 109900,
       "vatPercent": 21.0,
       "withVat": 132979
-    }
+    },
+    "tags": []
   },
   {
     "page": 24,
@@ -16952,7 +17492,8 @@
       "withoutVat": 349900,
       "vatPercent": 21.0,
       "withVat": 423379
-    }
+    },
+    "tags": []
   },
   {
     "page": 24,
@@ -16996,7 +17537,8 @@
       "withoutVat": 349900,
       "vatPercent": 21.0,
       "withVat": 423379
-    }
+    },
+    "tags": []
   },
   {
     "page": 24,
@@ -17040,7 +17582,8 @@
       "withoutVat": 379900,
       "vatPercent": 21.0,
       "withVat": 459679
-    }
+    },
+    "tags": []
   },
   {
     "page": 24,
@@ -17084,7 +17627,8 @@
       "withoutVat": 379900,
       "vatPercent": 21.0,
       "withVat": 459679
-    }
+    },
+    "tags": []
   },
   {
     "page": 27,
@@ -17114,7 +17658,8 @@
       "withoutVat": 129900,
       "vatPercent": 21.0,
       "withVat": 157179
-    }
+    },
+    "tags": []
   },
   {
     "page": 27,
@@ -17144,7 +17689,8 @@
       "withoutVat": 129900,
       "vatPercent": 21.0,
       "withVat": 157179
-    }
+    },
+    "tags": []
   },
   {
     "page": 25,
@@ -17166,7 +17712,10 @@
       "withoutVat": 199900,
       "vatPercent": 21.0,
       "withVat": 241879
-    }
+    },
+    "tags": [
+      "Alto Verano"
+    ]
   },
   {
     "page": 25,
@@ -17188,7 +17737,10 @@
       "withoutVat": 199900,
       "vatPercent": 21.0,
       "withVat": 241879
-    }
+    },
+    "tags": [
+      "Holidays"
+    ]
   },
   {
     "page": 28,
@@ -17218,7 +17770,8 @@
       "withoutVat": 799900,
       "vatPercent": 21.0,
       "withVat": 967879
-    }
+    },
+    "tags": []
   },
   {
     "page": 28,
@@ -17248,7 +17801,8 @@
       "withoutVat": 799900,
       "vatPercent": 21.0,
       "withVat": 967879
-    }
+    },
+    "tags": []
   },
   {
     "page": 25,
@@ -17278,7 +17832,8 @@
       "withoutVat": 259900,
       "vatPercent": 21.0,
       "withVat": 314479
-    }
+    },
+    "tags": []
   },
   {
     "page": 25,
@@ -17308,7 +17863,8 @@
       "withoutVat": 259900,
       "vatPercent": 21.0,
       "withVat": 314479
-    }
+    },
+    "tags": []
   },
   {
     "page": 23,
@@ -17338,7 +17894,8 @@
       "withoutVat": 319900,
       "vatPercent": 21.0,
       "withVat": 387079
-    }
+    },
+    "tags": []
   },
   {
     "page": 23,
@@ -17360,7 +17917,10 @@
       "withoutVat": 319900,
       "vatPercent": 21.0,
       "withVat": 387079
-    }
+    },
+    "tags": [
+      "Holidays"
+    ]
   },
   {
     "page": 23,
@@ -17390,7 +17950,8 @@
       "withoutVat": 319900,
       "vatPercent": 21.0,
       "withVat": 387079
-    }
+    },
+    "tags": []
   },
   {
     "page": 23,
@@ -17420,7 +17981,8 @@
       "withoutVat": 369900,
       "vatPercent": 21.0,
       "withVat": 447579
-    }
+    },
+    "tags": []
   },
   {
     "page": 23,
@@ -17450,7 +18012,8 @@
       "withoutVat": 369900,
       "vatPercent": 21.0,
       "withVat": 447579
-    }
+    },
+    "tags": []
   },
   {
     "page": 23,
@@ -17480,7 +18043,8 @@
       "withoutVat": 449900,
       "vatPercent": 21.0,
       "withVat": 544379
-    }
+    },
+    "tags": []
   },
   {
     "page": 23,
@@ -17510,7 +18074,8 @@
       "withoutVat": 449900,
       "vatPercent": 21.0,
       "withVat": 544379
-    }
+    },
+    "tags": []
   },
   {
     "page": 26,
@@ -17532,7 +18097,10 @@
       "withoutVat": 339900,
       "vatPercent": 21.0,
       "withVat": 411279
-    }
+    },
+    "tags": [
+      "Alto Verano"
+    ]
   },
   {
     "page": 26,
@@ -17562,7 +18130,8 @@
       "withoutVat": 339900,
       "vatPercent": 21.0,
       "withVat": 411279
-    }
+    },
+    "tags": []
   },
   {
     "page": 26,
@@ -17592,7 +18161,8 @@
       "withoutVat": 339900,
       "vatPercent": 21.0,
       "withVat": 411279
-    }
+    },
+    "tags": []
   },
   {
     "page": 26,
@@ -17622,7 +18192,8 @@
       "withoutVat": 339900,
       "vatPercent": 21.0,
       "withVat": 411279
-    }
+    },
+    "tags": []
   },
   {
     "page": 26,
@@ -17652,7 +18223,8 @@
       "withoutVat": 369900,
       "vatPercent": 21.0,
       "withVat": 447579
-    }
+    },
+    "tags": []
   },
   {
     "page": 26,
@@ -17682,7 +18254,8 @@
       "withoutVat": 369900,
       "vatPercent": 21.0,
       "withVat": 447579
-    }
+    },
+    "tags": []
   },
   {
     "page": 26,
@@ -17712,7 +18285,8 @@
       "withoutVat": 369900,
       "vatPercent": 21.0,
       "withVat": 447579
-    }
+    },
+    "tags": []
   },
   {
     "page": 26,
@@ -17742,7 +18316,8 @@
       "withoutVat": 369900,
       "vatPercent": 21.0,
       "withVat": 447579
-    }
+    },
+    "tags": []
   },
   {
     "page": 26,
@@ -17764,7 +18339,10 @@
       "withoutVat": 419900,
       "vatPercent": 21.0,
       "withVat": 508079
-    }
+    },
+    "tags": [
+      "Alto Verano"
+    ]
   },
   {
     "page": 26,
@@ -17794,7 +18372,8 @@
       "withoutVat": 419900,
       "vatPercent": 21.0,
       "withVat": 508079
-    }
+    },
+    "tags": []
   },
   {
     "page": 26,
@@ -17824,7 +18403,8 @@
       "withoutVat": 419900,
       "vatPercent": 21.0,
       "withVat": 508079
-    }
+    },
+    "tags": []
   },
   {
     "page": 26,
@@ -17854,7 +18434,8 @@
       "withoutVat": 449900,
       "vatPercent": 21.0,
       "withVat": 544379
-    }
+    },
+    "tags": []
   },
   {
     "page": 26,
@@ -17884,7 +18465,8 @@
       "withoutVat": 449900,
       "vatPercent": 21.0,
       "withVat": 544379
-    }
+    },
+    "tags": []
   },
   {
     "page": 25,
@@ -17906,7 +18488,10 @@
       "withoutVat": 79900,
       "vatPercent": 21.0,
       "withVat": 96679
-    }
+    },
+    "tags": [
+      "Alto Verano"
+    ]
   },
   {
     "page": 25,
@@ -17936,7 +18521,8 @@
       "withoutVat": 79900,
       "vatPercent": 21.0,
       "withVat": 96679
-    }
+    },
+    "tags": []
   },
   {
     "page": 25,
@@ -17958,7 +18544,10 @@
       "withoutVat": 79900,
       "vatPercent": 21.0,
       "withVat": 96679
-    }
+    },
+    "tags": [
+      "Holidays"
+    ]
   },
   {
     "page": 25,
@@ -17988,7 +18577,8 @@
       "withoutVat": 79900,
       "vatPercent": 21.0,
       "withVat": 96679
-    }
+    },
+    "tags": []
   },
   {
     "page": 25,
@@ -18018,7 +18608,8 @@
       "withoutVat": 99900,
       "vatPercent": 21.0,
       "withVat": 120879
-    }
+    },
+    "tags": []
   },
   {
     "page": 25,
@@ -18048,7 +18639,8 @@
       "withoutVat": 99900,
       "vatPercent": 21.0,
       "withVat": 120879
-    }
+    },
+    "tags": []
   },
   {
     "page": 25,
@@ -18078,7 +18670,8 @@
       "withoutVat": 99900,
       "vatPercent": 21.0,
       "withVat": 120879
-    }
+    },
+    "tags": []
   },
   {
     "page": 25,
@@ -18108,7 +18701,8 @@
       "withoutVat": 99900,
       "vatPercent": 21.0,
       "withVat": 120879
-    }
+    },
+    "tags": []
   },
   {
     "page": 25,
@@ -18130,7 +18724,10 @@
       "withoutVat": 139900,
       "vatPercent": 21.0,
       "withVat": 169279
-    }
+    },
+    "tags": [
+      "Alto Verano"
+    ]
   },
   {
     "page": 25,
@@ -18152,7 +18749,10 @@
       "withoutVat": 139900,
       "vatPercent": 21.0,
       "withVat": 169279
-    }
+    },
+    "tags": [
+      "Holidays"
+    ]
   },
   {
     "page": 28,
@@ -18182,7 +18782,8 @@
       "withoutVat": 899900,
       "vatPercent": 21.0,
       "withVat": 1088879
-    }
+    },
+    "tags": []
   },
   {
     "page": 28,
@@ -18212,7 +18813,8 @@
       "withoutVat": 899900,
       "vatPercent": 21.0,
       "withVat": 1088879
-    }
+    },
+    "tags": []
   },
   {
     "page": 28,
@@ -18234,7 +18836,10 @@
       "withoutVat": 949900,
       "vatPercent": 21.0,
       "withVat": 1149379
-    }
+    },
+    "tags": [
+      "Alto Verano"
+    ]
   },
   {
     "page": 28,
@@ -18264,7 +18869,8 @@
       "withoutVat": 949900,
       "vatPercent": 21.0,
       "withVat": 1149379
-    }
+    },
+    "tags": []
   },
   {
     "page": 28,
@@ -18294,7 +18900,8 @@
       "withoutVat": 999900,
       "vatPercent": 21.0,
       "withVat": 1209879
-    }
+    },
+    "tags": []
   },
   {
     "page": 28,
@@ -18324,7 +18931,8 @@
       "withoutVat": 999900,
       "vatPercent": 21.0,
       "withVat": 1209879
-    }
+    },
+    "tags": []
   },
   {
     "page": 27,
@@ -18354,7 +18962,8 @@
       "withoutVat": 79900,
       "vatPercent": 21.0,
       "withVat": 96679
-    }
+    },
+    "tags": []
   },
   {
     "page": 27,
@@ -18384,7 +18993,8 @@
       "withoutVat": 79900,
       "vatPercent": 21.0,
       "withVat": 96679
-    }
+    },
+    "tags": []
   },
   {
     "page": 27,
@@ -18414,7 +19024,8 @@
       "withoutVat": 79900,
       "vatPercent": 21.0,
       "withVat": 96679
-    }
+    },
+    "tags": []
   },
   {
     "page": 27,
@@ -18436,7 +19047,10 @@
       "withoutVat": 79900,
       "vatPercent": 21.0,
       "withVat": 96679
-    }
+    },
+    "tags": [
+      "Alto Verano"
+    ]
   },
   {
     "page": 25,
@@ -18487,7 +19101,8 @@
       "withoutVat": 339900,
       "vatPercent": 21.0,
       "withVat": 411279
-    }
+    },
+    "tags": []
   },
   {
     "page": 25,
@@ -18538,7 +19153,8 @@
       "withoutVat": 339900,
       "vatPercent": 21.0,
       "withVat": 411279
-    }
+    },
+    "tags": []
   },
   {
     "page": 30,
@@ -18589,7 +19205,8 @@
       "withoutVat": 49900,
       "vatPercent": 21.0,
       "withVat": 60379
-    }
+    },
+    "tags": []
   },
   {
     "page": 30,
@@ -18640,7 +19257,8 @@
       "withoutVat": 49900,
       "vatPercent": 21.0,
       "withVat": 60379
-    }
+    },
+    "tags": []
   },
   {
     "page": 30,
@@ -18691,7 +19309,8 @@
       "withoutVat": 79900,
       "vatPercent": 21.0,
       "withVat": 96679
-    }
+    },
+    "tags": []
   },
   {
     "page": 30,
@@ -18742,7 +19361,8 @@
       "withoutVat": 79900,
       "vatPercent": 21.0,
       "withVat": 96679
-    }
+    },
+    "tags": []
   },
   {
     "page": 60,
@@ -18764,7 +19384,10 @@
       "withoutVat": 189900,
       "vatPercent": 21.0,
       "withVat": 229779
-    }
+    },
+    "tags": [
+      "Holidays"
+    ]
   },
   {
     "page": 53,
@@ -18786,7 +19409,10 @@
       "withoutVat": 249900,
       "vatPercent": 21.0,
       "withVat": 302379
-    }
+    },
+    "tags": [
+      "Holidays"
+    ]
   },
   {
     "page": 53,
@@ -18808,7 +19434,10 @@
       "withoutVat": 199900,
       "vatPercent": 21.0,
       "withVat": 241879
-    }
+    },
+    "tags": [
+      "Alto Verano"
+    ]
   },
   {
     "page": 53,
@@ -18830,7 +19459,10 @@
       "withoutVat": 199900,
       "vatPercent": 21.0,
       "withVat": 241879
-    }
+    },
+    "tags": [
+      "Alto Verano"
+    ]
   },
   {
     "page": 60,
@@ -18888,7 +19520,8 @@
       "withoutVat": 99900,
       "vatPercent": 21.0,
       "withVat": 120879
-    }
+    },
+    "tags": []
   },
   {
     "page": 60,
@@ -18946,7 +19579,8 @@
       "withoutVat": 99900,
       "vatPercent": 21.0,
       "withVat": 120879
-    }
+    },
+    "tags": []
   },
   {
     "page": 53,
@@ -18968,7 +19602,10 @@
       "withoutVat": 179900,
       "vatPercent": 21.0,
       "withVat": 217679
-    }
+    },
+    "tags": [
+      "Alto Verano"
+    ]
   },
   {
     "page": 53,
@@ -18990,7 +19627,10 @@
       "withoutVat": 179900,
       "vatPercent": 21.0,
       "withVat": 217679
-    }
+    },
+    "tags": [
+      "Alto Verano"
+    ]
   },
   {
     "page": 53,
@@ -19012,7 +19652,10 @@
       "withoutVat": 179900,
       "vatPercent": 21.0,
       "withVat": 217679
-    }
+    },
+    "tags": [
+      "Alto Verano"
+    ]
   },
   {
     "page": 54,
@@ -19034,7 +19677,10 @@
       "withoutVat": 139900,
       "vatPercent": 21.0,
       "withVat": 169279
-    }
+    },
+    "tags": [
+      "Alto Verano"
+    ]
   },
   {
     "page": 54,
@@ -19056,7 +19702,10 @@
       "withoutVat": 139900,
       "vatPercent": 21.0,
       "withVat": 169279
-    }
+    },
+    "tags": [
+      "Alto Verano"
+    ]
   },
   {
     "page": 53,
@@ -19107,7 +19756,8 @@
       "withoutVat": 209900,
       "vatPercent": 21.0,
       "withVat": 253979
-    }
+    },
+    "tags": []
   },
   {
     "page": 53,
@@ -19158,7 +19808,8 @@
       "withoutVat": 209900,
       "vatPercent": 21.0,
       "withVat": 253979
-    }
+    },
+    "tags": []
   },
   {
     "page": 60,
@@ -19209,7 +19860,8 @@
       "withoutVat": 209900,
       "vatPercent": 21.0,
       "withVat": 253979
-    }
+    },
+    "tags": []
   },
   {
     "page": 60,
@@ -19260,7 +19912,8 @@
       "withoutVat": 209900,
       "vatPercent": 21.0,
       "withVat": 253979
-    }
+    },
+    "tags": []
   },
   {
     "page": 12,
@@ -19325,7 +19978,8 @@
       "withoutVat": 219900,
       "vatPercent": 21.0,
       "withVat": 266079
-    }
+    },
+    "tags": []
   },
   {
     "page": 12,
@@ -19411,7 +20065,8 @@
       "withoutVat": 219900,
       "vatPercent": 21.0,
       "withVat": 266079
-    }
+    },
+    "tags": []
   },
   {
     "page": 12,
@@ -19497,7 +20152,8 @@
       "withoutVat": 219900,
       "vatPercent": 21.0,
       "withVat": 266079
-    }
+    },
+    "tags": []
   },
   {
     "page": 12,
@@ -19583,7 +20239,8 @@
       "withoutVat": 279900,
       "vatPercent": 21.0,
       "withVat": 338679
-    }
+    },
+    "tags": []
   },
   {
     "page": 12,
@@ -19669,7 +20326,8 @@
       "withoutVat": 279900,
       "vatPercent": 21.0,
       "withVat": 338679
-    }
+    },
+    "tags": []
   },
   {
     "page": 61,
@@ -19727,7 +20385,8 @@
       "withoutVat": 199900,
       "vatPercent": 21.0,
       "withVat": 241879
-    }
+    },
+    "tags": []
   },
   {
     "page": 61,
@@ -19785,7 +20444,8 @@
       "withoutVat": 199900,
       "vatPercent": 21.0,
       "withVat": 241879
-    }
+    },
+    "tags": []
   },
   {
     "page": 12,
@@ -19857,7 +20517,8 @@
       "withoutVat": 219900,
       "vatPercent": 21.0,
       "withVat": 266079
-    }
+    },
+    "tags": []
   },
   {
     "page": 12,
@@ -19915,7 +20576,8 @@
       "withoutVat": 219900,
       "vatPercent": 21.0,
       "withVat": 266079
-    }
+    },
+    "tags": []
   },
   {
     "page": 12,
@@ -19973,7 +20635,8 @@
       "withoutVat": 239900,
       "vatPercent": 21.0,
       "withVat": 290279
-    }
+    },
+    "tags": []
   },
   {
     "page": 12,
@@ -20031,7 +20694,8 @@
       "withoutVat": 239900,
       "vatPercent": 21.0,
       "withVat": 290279
-    }
+    },
+    "tags": []
   },
   {
     "page": 12,
@@ -20089,7 +20753,8 @@
       "withoutVat": 239900,
       "vatPercent": 21.0,
       "withVat": 290279
-    }
+    },
+    "tags": []
   },
   {
     "page": 12,
@@ -20147,7 +20812,8 @@
       "withoutVat": 239900,
       "vatPercent": 21.0,
       "withVat": 290279
-    }
+    },
+    "tags": []
   },
   {
     "page": 61,
@@ -20169,7 +20835,10 @@
       "withoutVat": 199900,
       "vatPercent": 21.0,
       "withVat": 241879
-    }
+    },
+    "tags": [
+      "Holidays"
+    ]
   },
   {
     "page": 14,
@@ -20191,7 +20860,10 @@
       "withoutVat": 139900,
       "vatPercent": 21.0,
       "withVat": 169279
-    }
+    },
+    "tags": [
+      "Alto Verano"
+    ]
   },
   {
     "page": 14,
@@ -20213,7 +20885,10 @@
       "withoutVat": 139900,
       "vatPercent": 21.0,
       "withVat": 169279
-    }
+    },
+    "tags": [
+      "Alto Verano"
+    ]
   },
   {
     "page": 14,
@@ -20235,7 +20910,10 @@
       "withoutVat": 139900,
       "vatPercent": 21.0,
       "withVat": 169279
-    }
+    },
+    "tags": [
+      "Alto Verano"
+    ]
   },
   {
     "page": 14,
@@ -20257,7 +20935,10 @@
       "withoutVat": 139900,
       "vatPercent": 21.0,
       "withVat": 169279
-    }
+    },
+    "tags": [
+      "Alto Verano"
+    ]
   },
   {
     "page": 14,
@@ -20279,7 +20960,10 @@
       "withoutVat": 139900,
       "vatPercent": 21.0,
       "withVat": 169279
-    }
+    },
+    "tags": [
+      "Holidays"
+    ]
   },
   {
     "page": 62,
@@ -20301,7 +20985,10 @@
       "withoutVat": 169900,
       "vatPercent": 21.0,
       "withVat": 205579
-    }
+    },
+    "tags": [
+      "Alto Verano"
+    ]
   },
   {
     "page": 62,
@@ -20323,7 +21010,10 @@
       "withoutVat": 169900,
       "vatPercent": 21.0,
       "withVat": 205579
-    }
+    },
+    "tags": [
+      "Alto Verano"
+    ]
   },
   {
     "page": 14,
@@ -20388,7 +21078,8 @@
       "withoutVat": 239900,
       "vatPercent": 21.0,
       "withVat": 290279
-    }
+    },
+    "tags": []
   },
   {
     "page": 14,
@@ -20453,7 +21144,8 @@
       "withoutVat": 239900,
       "vatPercent": 21.0,
       "withVat": 290279
-    }
+    },
+    "tags": []
   },
   {
     "page": 14,
@@ -20504,7 +21196,8 @@
       "withoutVat": 199900,
       "vatPercent": 21.0,
       "withVat": 241879
-    }
+    },
+    "tags": []
   },
   {
     "page": 14,
@@ -20555,7 +21248,8 @@
       "withoutVat": 199900,
       "vatPercent": 21.0,
       "withVat": 241879
-    }
+    },
+    "tags": []
   },
   {
     "page": 14,
@@ -20613,7 +21307,8 @@
       "withoutVat": 154900,
       "vatPercent": 21.0,
       "withVat": 187429
-    }
+    },
+    "tags": []
   },
   {
     "page": 14,
@@ -20671,7 +21366,8 @@
       "withoutVat": 154900,
       "vatPercent": 21.0,
       "withVat": 187429
-    }
+    },
+    "tags": []
   },
   {
     "page": 15,
@@ -20722,7 +21418,8 @@
       "withoutVat": 179900,
       "vatPercent": 21.0,
       "withVat": 217679
-    }
+    },
+    "tags": []
   },
   {
     "page": 15,
@@ -20773,7 +21470,8 @@
       "withoutVat": 179900,
       "vatPercent": 21.0,
       "withVat": 217679
-    }
+    },
+    "tags": []
   },
   {
     "page": 15,
@@ -20831,7 +21529,8 @@
       "withoutVat": 144900,
       "vatPercent": 21.0,
       "withVat": 175329
-    }
+    },
+    "tags": []
   },
   {
     "page": 15,
@@ -20889,7 +21588,8 @@
       "withoutVat": 144900,
       "vatPercent": 21.0,
       "withVat": 175329
-    }
+    },
+    "tags": []
   },
   {
     "page": 14,
@@ -20954,7 +21654,8 @@
       "withoutVat": 189900,
       "vatPercent": 21.0,
       "withVat": 229779
-    }
+    },
+    "tags": []
   },
   {
     "page": 14,
@@ -21040,7 +21741,8 @@
       "withoutVat": 189900,
       "vatPercent": 21.0,
       "withVat": 229779
-    }
+    },
+    "tags": []
   },
   {
     "page": 15,
@@ -21062,7 +21764,10 @@
       "withoutVat": 159900,
       "vatPercent": 21.0,
       "withVat": 193479
-    }
+    },
+    "tags": [
+      "Alto Verano"
+    ]
   },
   {
     "page": 15,
@@ -21084,7 +21789,10 @@
       "withoutVat": 159900,
       "vatPercent": 21.0,
       "withVat": 193479
-    }
+    },
+    "tags": [
+      "Alto Verano"
+    ]
   },
   {
     "page": 15,
@@ -21106,7 +21814,10 @@
       "withoutVat": 159900,
       "vatPercent": 21.0,
       "withVat": 193479
-    }
+    },
+    "tags": [
+      "Alto Verano"
+    ]
   },
   {
     "page": 55,
@@ -21136,7 +21847,10 @@
       "withoutVat": 129900,
       "vatPercent": 21.0,
       "withVat": 157179
-    }
+    },
+    "tags": [
+      "Alto Verano"
+    ]
   },
   {
     "page": 55,
@@ -21158,7 +21872,10 @@
       "withoutVat": 129900,
       "vatPercent": 21.0,
       "withVat": 157179
-    }
+    },
+    "tags": [
+      "Alto Verano"
+    ]
   },
   {
     "page": 55,
@@ -21180,7 +21897,10 @@
       "withoutVat": 129900,
       "vatPercent": 21.0,
       "withVat": 157179
-    }
+    },
+    "tags": [
+      "Alto Verano"
+    ]
   },
   {
     "page": 14,
@@ -21238,7 +21958,8 @@
       "withoutVat": 169900,
       "vatPercent": 21.0,
       "withVat": 205579
-    }
+    },
+    "tags": []
   },
   {
     "page": 14,
@@ -21303,7 +22024,8 @@
       "withoutVat": 169900,
       "vatPercent": 21.0,
       "withVat": 205579
-    }
+    },
+    "tags": []
   },
   {
     "page": 62,
@@ -21361,7 +22083,8 @@
       "withoutVat": 149900,
       "vatPercent": 21.0,
       "withVat": 181379
-    }
+    },
+    "tags": []
   },
   {
     "page": 62,
@@ -21419,7 +22142,8 @@
       "withoutVat": 149900,
       "vatPercent": 21.0,
       "withVat": 181379
-    }
+    },
+    "tags": []
   },
   {
     "page": 62,
@@ -21441,7 +22165,10 @@
       "withoutVat": 119900,
       "vatPercent": 21.0,
       "withVat": 145079
-    }
+    },
+    "tags": [
+      "Holidays"
+    ]
   },
   {
     "page": 62,
@@ -21463,7 +22190,10 @@
       "withoutVat": 119900,
       "vatPercent": 21.0,
       "withVat": 145079
-    }
+    },
+    "tags": [
+      "Holidays"
+    ]
   },
   {
     "page": 5,
@@ -21485,7 +22215,10 @@
       "withoutVat": 59900,
       "vatPercent": 21.0,
       "withVat": 72479
-    }
+    },
+    "tags": [
+      "Alto Verano"
+    ]
   },
   {
     "page": 5,
@@ -21515,7 +22248,8 @@
       "withoutVat": 59900,
       "vatPercent": 21.0,
       "withVat": 72479
-    }
+    },
+    "tags": []
   },
   {
     "page": 5,
@@ -21545,7 +22279,8 @@
       "withoutVat": 69900,
       "vatPercent": 21.0,
       "withVat": 84579
-    }
+    },
+    "tags": []
   },
   {
     "page": 5,
@@ -21575,7 +22310,8 @@
       "withoutVat": 69900,
       "vatPercent": 21.0,
       "withVat": 84579
-    }
+    },
+    "tags": []
   },
   {
     "page": 43,
@@ -21605,7 +22341,8 @@
       "withoutVat": 99900,
       "vatPercent": 21.0,
       "withVat": 120879
-    }
+    },
+    "tags": []
   },
   {
     "page": 43,
@@ -21635,7 +22372,8 @@
       "withoutVat": 99900,
       "vatPercent": 21.0,
       "withVat": 120879
-    }
+    },
+    "tags": []
   },
   {
     "page": 43,
@@ -21665,7 +22403,8 @@
       "withoutVat": 99900,
       "vatPercent": 21.0,
       "withVat": 120879
-    }
+    },
+    "tags": []
   },
   {
     "page": 43,
@@ -21695,7 +22434,8 @@
       "withoutVat": 109900,
       "vatPercent": 21.0,
       "withVat": 132979
-    }
+    },
+    "tags": []
   },
   {
     "page": 32,
@@ -21760,7 +22500,8 @@
       "withoutVat": 109900,
       "vatPercent": 21.0,
       "withVat": 132979
-    }
+    },
+    "tags": []
   },
   {
     "page": 32,
@@ -21825,7 +22566,8 @@
       "withoutVat": 109900,
       "vatPercent": 21.0,
       "withVat": 132979
-    }
+    },
+    "tags": []
   },
   {
     "page": 34,
@@ -21847,7 +22589,10 @@
       "withoutVat": 69900,
       "vatPercent": 21.0,
       "withVat": 84579
-    }
+    },
+    "tags": [
+      "Holidays"
+    ]
   },
   {
     "page": 34,
@@ -21869,7 +22614,10 @@
       "withoutVat": 69900,
       "vatPercent": 21.0,
       "withVat": 84579
-    }
+    },
+    "tags": [
+      "Holidays"
+    ]
   },
   {
     "page": 33,
@@ -21927,7 +22675,8 @@
       "withoutVat": 59900,
       "vatPercent": 21.0,
       "withVat": 72479
-    }
+    },
+    "tags": []
   },
   {
     "page": 33,
@@ -21985,7 +22734,8 @@
       "withoutVat": 59900,
       "vatPercent": 21.0,
       "withVat": 72479
-    }
+    },
+    "tags": []
   },
   {
     "page": 33,
@@ -22043,7 +22793,8 @@
       "withoutVat": 49900,
       "vatPercent": 21.0,
       "withVat": 60379
-    }
+    },
+    "tags": []
   },
   {
     "page": 33,
@@ -22101,7 +22852,8 @@
       "withoutVat": 49900,
       "vatPercent": 21.0,
       "withVat": 60379
-    }
+    },
+    "tags": []
   },
   {
     "page": 33,
@@ -22166,7 +22918,8 @@
       "withoutVat": 49900,
       "vatPercent": 21.0,
       "withVat": 60379
-    }
+    },
+    "tags": []
   },
   {
     "page": 34,
@@ -22231,7 +22984,8 @@
       "withoutVat": 69900,
       "vatPercent": 21.0,
       "withVat": 84579
-    }
+    },
+    "tags": []
   },
   {
     "page": 34,
@@ -22296,7 +23050,8 @@
       "withoutVat": 69900,
       "vatPercent": 21.0,
       "withVat": 84579
-    }
+    },
+    "tags": []
   },
   {
     "page": 32,
@@ -22361,7 +23116,8 @@
       "withoutVat": 79900,
       "vatPercent": 21.0,
       "withVat": 96679
-    }
+    },
+    "tags": []
   },
   {
     "page": 32,
@@ -22426,7 +23182,8 @@
       "withoutVat": 99900,
       "vatPercent": 21.0,
       "withVat": 120879
-    }
+    },
+    "tags": []
   },
   {
     "page": 34,
@@ -22491,7 +23248,8 @@
       "withoutVat": 79900,
       "vatPercent": 21.0,
       "withVat": 96679
-    }
+    },
+    "tags": []
   },
   {
     "page": 34,
@@ -22556,7 +23314,8 @@
       "withoutVat": 79900,
       "vatPercent": 21.0,
       "withVat": 96679
-    }
+    },
+    "tags": []
   },
   {
     "page": 32,
@@ -22621,7 +23380,8 @@
       "withoutVat": 79900,
       "vatPercent": 21.0,
       "withVat": 96679
-    }
+    },
+    "tags": []
   },
   {
     "page": 32,
@@ -22686,7 +23446,8 @@
       "withoutVat": 79900,
       "vatPercent": 21.0,
       "withVat": 96679
-    }
+    },
+    "tags": []
   },
   {
     "page": 33,
@@ -22744,7 +23505,8 @@
       "withoutVat": 69900,
       "vatPercent": 21.0,
       "withVat": 84579
-    }
+    },
+    "tags": []
   },
   {
     "page": 33,
@@ -22795,7 +23557,8 @@
       "withoutVat": 69900,
       "vatPercent": 21.0,
       "withVat": 84579
-    }
+    },
+    "tags": []
   },
   {
     "page": 33,
@@ -22853,7 +23616,8 @@
       "withoutVat": 69900,
       "vatPercent": 21.0,
       "withVat": 84579
-    }
+    },
+    "tags": []
   },
   {
     "page": 33,
@@ -22911,7 +23675,8 @@
       "withoutVat": 79900,
       "vatPercent": 21.0,
       "withVat": 96679
-    }
+    },
+    "tags": []
   },
   {
     "page": 33,
@@ -22969,7 +23734,8 @@
       "withoutVat": 79900,
       "vatPercent": 21.0,
       "withVat": 96679
-    }
+    },
+    "tags": []
   },
   {
     "page": 32,
@@ -23027,7 +23793,8 @@
       "withoutVat": 249900,
       "vatPercent": 21.0,
       "withVat": 302379
-    }
+    },
+    "tags": []
   },
   {
     "page": 32,
@@ -23049,7 +23816,10 @@
       "withoutVat": 249900,
       "vatPercent": 21.0,
       "withVat": 302379
-    }
+    },
+    "tags": [
+      "Alto Verano"
+    ]
   },
   {
     "page": 32,
@@ -23107,7 +23877,8 @@
       "withoutVat": 139900,
       "vatPercent": 21.0,
       "withVat": 169279
-    }
+    },
+    "tags": []
   },
   {
     "page": 35,
@@ -23144,7 +23915,8 @@
       "withoutVat": 79900,
       "vatPercent": 21.0,
       "withVat": 96679
-    }
+    },
+    "tags": []
   },
   {
     "page": 35,
@@ -23181,7 +23953,8 @@
       "withoutVat": 79900,
       "vatPercent": 21.0,
       "withVat": 96679
-    }
+    },
+    "tags": []
   },
   {
     "page": 35,
@@ -23211,7 +23984,8 @@
       "withoutVat": 64900,
       "vatPercent": 21.0,
       "withVat": 78529
-    }
+    },
+    "tags": []
   },
   {
     "page": 35,
@@ -23241,7 +24015,8 @@
       "withoutVat": 64900,
       "vatPercent": 21.0,
       "withVat": 78529
-    }
+    },
+    "tags": []
   },
   {
     "page": 35,
@@ -23271,7 +24046,8 @@
       "withoutVat": 64900,
       "vatPercent": 21.0,
       "withVat": 78529
-    }
+    },
+    "tags": []
   },
   {
     "page": 35,
@@ -23293,7 +24069,10 @@
       "withoutVat": 64900,
       "vatPercent": 21.0,
       "withVat": 78529
-    }
+    },
+    "tags": [
+      "Alto Verano"
+    ]
   },
   {
     "page": 35,
@@ -23315,7 +24094,10 @@
       "withoutVat": 64900,
       "vatPercent": 21.0,
       "withVat": 78529
-    }
+    },
+    "tags": [
+      "Alto Verano"
+    ]
   },
   {
     "page": 35,
@@ -23359,7 +24141,8 @@
       "withoutVat": 59900,
       "vatPercent": 21.0,
       "withVat": 72479
-    }
+    },
+    "tags": []
   },
   {
     "page": 35,
@@ -23403,7 +24186,8 @@
       "withoutVat": 59900,
       "vatPercent": 21.0,
       "withVat": 72479
-    }
+    },
+    "tags": []
   },
   {
     "page": 35,
@@ -23447,7 +24231,8 @@
       "withoutVat": 69900,
       "vatPercent": 21.0,
       "withVat": 84579
-    }
+    },
+    "tags": []
   },
   {
     "page": 35,
@@ -23491,7 +24276,8 @@
       "withoutVat": 69900,
       "vatPercent": 21.0,
       "withVat": 84579
-    }
+    },
+    "tags": []
   },
   {
     "page": 33,
@@ -23549,7 +24335,8 @@
       "withoutVat": 79900,
       "vatPercent": 21.0,
       "withVat": 96679
-    }
+    },
+    "tags": []
   },
   {
     "page": 33,
@@ -23607,7 +24394,8 @@
       "withoutVat": 79900,
       "vatPercent": 21.0,
       "withVat": 96679
-    }
+    },
+    "tags": []
   },
   {
     "page": 34,
@@ -23665,7 +24453,8 @@
       "withoutVat": 129900,
       "vatPercent": 21.0,
       "withVat": 157179
-    }
+    },
+    "tags": []
   },
   {
     "page": 34,
@@ -23723,7 +24512,8 @@
       "withoutVat": 129900,
       "vatPercent": 21.0,
       "withVat": 157179
-    }
+    },
+    "tags": []
   },
   {
     "page": 34,
@@ -23781,7 +24571,8 @@
       "withoutVat": 129900,
       "vatPercent": 21.0,
       "withVat": 157179
-    }
+    },
+    "tags": []
   },
   {
     "page": 34,
@@ -23832,7 +24623,8 @@
       "withoutVat": 129900,
       "vatPercent": 21.0,
       "withVat": 157179
-    }
+    },
+    "tags": []
   },
   {
     "page": 34,
@@ -23854,7 +24646,10 @@
       "withoutVat": 94900,
       "vatPercent": 21.0,
       "withVat": 114829
-    }
+    },
+    "tags": [
+      "Holidays"
+    ]
   },
   {
     "page": 34,
@@ -23876,7 +24671,10 @@
       "withoutVat": 94900,
       "vatPercent": 21.0,
       "withVat": 114829
-    }
+    },
+    "tags": [
+      "Holidays"
+    ]
   },
   {
     "page": 34,
@@ -23934,7 +24732,8 @@
       "withoutVat": 109900,
       "vatPercent": 21.0,
       "withVat": 132979
-    }
+    },
+    "tags": []
   },
   {
     "page": 34,
@@ -23985,7 +24784,8 @@
       "withoutVat": 109900,
       "vatPercent": 21.0,
       "withVat": 132979
-    }
+    },
+    "tags": []
   },
   {
     "page": 32,
@@ -24043,7 +24843,8 @@
       "withoutVat": 199900,
       "vatPercent": 21.0,
       "withVat": 241879
-    }
+    },
+    "tags": []
   },
   {
     "page": 32,
@@ -24101,7 +24902,8 @@
       "withoutVat": 199900,
       "vatPercent": 21.0,
       "withVat": 241879
-    }
+    },
+    "tags": []
   },
   {
     "page": 61,
@@ -24123,7 +24925,10 @@
       "withoutVat": 229900,
       "vatPercent": 21.0,
       "withVat": 278179
-    }
+    },
+    "tags": [
+      "Alto Verano"
+    ]
   },
   {
     "page": 61,
@@ -24145,7 +24950,10 @@
       "withoutVat": 229900,
       "vatPercent": 21.0,
       "withVat": 278179
-    }
+    },
+    "tags": [
+      "Alto Verano"
+    ]
   },
   {
     "page": 61,
@@ -24167,7 +24975,10 @@
       "withoutVat": 229900,
       "vatPercent": 21.0,
       "withVat": 278179
-    }
+    },
+    "tags": [
+      "Holidays"
+    ]
   },
   {
     "page": 61,
@@ -24189,7 +25000,10 @@
       "withoutVat": 229900,
       "vatPercent": 21.0,
       "withVat": 278179
-    }
+    },
+    "tags": [
+      "Holidays"
+    ]
   },
   {
     "page": 5,
@@ -24240,7 +25054,8 @@
       "withoutVat": 79900,
       "vatPercent": 21.0,
       "withVat": 96679
-    }
+    },
+    "tags": []
   },
   {
     "page": 30,
@@ -24326,7 +25141,8 @@
       "withoutVat": 279900,
       "vatPercent": 21.0,
       "withVat": 338679
-    }
+    },
+    "tags": []
   },
   {
     "page": 30,
@@ -24412,7 +25228,8 @@
       "withoutVat": 279900,
       "vatPercent": 21.0,
       "withVat": 338679
-    }
+    },
+    "tags": []
   },
   {
     "page": 30,
@@ -24498,7 +25315,8 @@
       "withoutVat": 229900,
       "vatPercent": 21.0,
       "withVat": 278179
-    }
+    },
+    "tags": []
   },
   {
     "page": 30,
@@ -24584,7 +25402,8 @@
       "withoutVat": 229900,
       "vatPercent": 21.0,
       "withVat": 278179
-    }
+    },
+    "tags": []
   },
   {
     "page": 21,
@@ -24642,7 +25461,8 @@
       "withoutVat": 229900,
       "vatPercent": 21.0,
       "withVat": 278179
-    }
+    },
+    "tags": []
   },
   {
     "page": 21,
@@ -24693,7 +25513,8 @@
       "withoutVat": 229900,
       "vatPercent": 21.0,
       "withVat": 278179
-    }
+    },
+    "tags": []
   },
   {
     "page": 21,
@@ -24715,7 +25536,8 @@
       "withoutVat": 289900,
       "vatPercent": 21.0,
       "withVat": 350779
-    }
+    },
+    "tags": []
   },
   {
     "page": 13,
@@ -24737,7 +25559,8 @@
       "withoutVat": 299900,
       "vatPercent": 21.0,
       "withVat": 362879
-    }
+    },
+    "tags": []
   },
   {
     "page": 21,
@@ -24816,7 +25639,8 @@
       "withoutVat": 274900,
       "vatPercent": 21.0,
       "withVat": 332629
-    }
+    },
+    "tags": []
   },
   {
     "page": 21,
@@ -24902,7 +25726,8 @@
       "withoutVat": 274900,
       "vatPercent": 21.0,
       "withVat": 332629
-    }
+    },
+    "tags": []
   },
   {
     "page": 21,
@@ -24981,7 +25806,8 @@
       "withoutVat": 239900,
       "vatPercent": 21.0,
       "withVat": 290279
-    }
+    },
+    "tags": []
   },
   {
     "page": 21,
@@ -25067,7 +25893,8 @@
       "withoutVat": 239900,
       "vatPercent": 21.0,
       "withVat": 290279
-    }
+    },
+    "tags": []
   },
   {
     "page": 21,
@@ -25146,7 +25973,8 @@
       "withoutVat": 189900,
       "vatPercent": 21.0,
       "withVat": 229779
-    }
+    },
+    "tags": []
   },
   {
     "page": 21,
@@ -25232,7 +26060,8 @@
       "withoutVat": 189900,
       "vatPercent": 21.0,
       "withVat": 229779
-    }
+    },
+    "tags": []
   },
   {
     "page": 46,
@@ -25290,7 +26119,8 @@
       "withoutVat": 419900,
       "vatPercent": 21.0,
       "withVat": 508079
-    }
+    },
+    "tags": []
   },
   {
     "page": 46,
@@ -25348,7 +26178,8 @@
       "withoutVat": 419900,
       "vatPercent": 21.0,
       "withVat": 508079
-    }
+    },
+    "tags": []
   },
   {
     "page": 47,
@@ -25399,7 +26230,8 @@
       "withoutVat": 349900,
       "vatPercent": 21.0,
       "withVat": 423379
-    }
+    },
+    "tags": []
   },
   {
     "page": 47,
@@ -25450,7 +26282,8 @@
       "withoutVat": 349900,
       "vatPercent": 21.0,
       "withVat": 423379
-    }
+    },
+    "tags": []
   },
   {
     "page": 47,
@@ -25501,7 +26334,8 @@
       "withoutVat": 349900,
       "vatPercent": 21.0,
       "withVat": 423379
-    }
+    },
+    "tags": []
   },
   {
     "page": 47,
@@ -25559,7 +26393,8 @@
       "withoutVat": 349900,
       "vatPercent": 21.0,
       "withVat": 423379
-    }
+    },
+    "tags": []
   },
   {
     "page": 47,
@@ -25617,7 +26452,8 @@
       "withoutVat": 499900,
       "vatPercent": 21.0,
       "withVat": 604879
-    }
+    },
+    "tags": []
   },
   {
     "page": 47,
@@ -25668,7 +26504,8 @@
       "withoutVat": 499900,
       "vatPercent": 21.0,
       "withVat": 604879
-    }
+    },
+    "tags": []
   },
   {
     "page": 47,
@@ -25726,7 +26563,8 @@
       "withoutVat": 499900,
       "vatPercent": 21.0,
       "withVat": 604879
-    }
+    },
+    "tags": []
   },
   {
     "page": 46,
@@ -25784,7 +26622,8 @@
       "withoutVat": 599900,
       "vatPercent": 21.0,
       "withVat": 725879
-    }
+    },
+    "tags": []
   },
   {
     "page": 46,
@@ -25835,7 +26674,8 @@
       "withoutVat": 599900,
       "vatPercent": 21.0,
       "withVat": 725879
-    }
+    },
+    "tags": []
   },
   {
     "page": 46,
@@ -25893,7 +26733,8 @@
       "withoutVat": 709900,
       "vatPercent": 21.0,
       "withVat": 858979
-    }
+    },
+    "tags": []
   },
   {
     "page": 46,
@@ -25944,7 +26785,8 @@
       "withoutVat": 499900,
       "vatPercent": 21.0,
       "withVat": 604879
-    }
+    },
+    "tags": []
   },
   {
     "page": 46,
@@ -26002,7 +26844,8 @@
       "withoutVat": 499900,
       "vatPercent": 21.0,
       "withVat": 604879
-    }
+    },
+    "tags": []
   },
   {
     "page": 46,
@@ -26060,7 +26903,8 @@
       "withoutVat": 389900,
       "vatPercent": 21.0,
       "withVat": 471779
-    }
+    },
+    "tags": []
   },
   {
     "page": 46,
@@ -26111,7 +26955,8 @@
       "withoutVat": 389900,
       "vatPercent": 21.0,
       "withVat": 471779
-    }
+    },
+    "tags": []
   },
   {
     "page": 46,
@@ -26162,7 +27007,8 @@
       "withoutVat": 389900,
       "vatPercent": 21.0,
       "withVat": 471779
-    }
+    },
+    "tags": []
   },
   {
     "page": 46,
@@ -26220,7 +27066,8 @@
       "withoutVat": 389900,
       "vatPercent": 21.0,
       "withVat": 471779
-    }
+    },
+    "tags": []
   },
   {
     "page": 46,
@@ -26242,7 +27089,10 @@
       "withoutVat": 389900,
       "vatPercent": 21.0,
       "withVat": 471779
-    }
+    },
+    "tags": [
+      "Alto Verano"
+    ]
   },
   {
     "page": 46,
@@ -26300,7 +27150,8 @@
       "withoutVat": 389900,
       "vatPercent": 21.0,
       "withVat": 471779
-    }
+    },
+    "tags": []
   },
   {
     "page": 20,
@@ -26351,7 +27202,8 @@
       "withoutVat": 399900,
       "vatPercent": 21.0,
       "withVat": 483879
-    }
+    },
+    "tags": []
   },
   {
     "page": 20,
@@ -26402,7 +27254,8 @@
       "withoutVat": 399900,
       "vatPercent": 21.0,
       "withVat": 483879
-    }
+    },
+    "tags": []
   },
   {
     "page": 20,
@@ -26460,7 +27313,8 @@
       "withoutVat": 419900,
       "vatPercent": 21.0,
       "withVat": 508079
-    }
+    },
+    "tags": []
   },
   {
     "page": 20,
@@ -26518,7 +27372,8 @@
       "withoutVat": 419900,
       "vatPercent": 21.0,
       "withVat": 508079
-    }
+    },
+    "tags": []
   },
   {
     "page": 46,
@@ -26569,7 +27424,8 @@
       "withoutVat": 999900,
       "vatPercent": 21.0,
       "withVat": 1209879
-    }
+    },
+    "tags": []
   },
   {
     "page": 46,
@@ -26620,7 +27476,8 @@
       "withoutVat": 999900,
       "vatPercent": 21.0,
       "withVat": 1209879
-    }
+    },
+    "tags": []
   },
   {
     "page": 46,
@@ -26671,7 +27528,8 @@
       "withoutVat": 999000,
       "vatPercent": 21.0,
       "withVat": 1208790
-    }
+    },
+    "tags": []
   },
   {
     "page": 20,
@@ -26722,7 +27580,8 @@
       "withoutVat": 349900,
       "vatPercent": 21.0,
       "withVat": 423379
-    }
+    },
+    "tags": []
   },
   {
     "page": 20,
@@ -26773,7 +27632,8 @@
       "withoutVat": 349900,
       "vatPercent": 21.0,
       "withVat": 423379
-    }
+    },
+    "tags": []
   },
   {
     "page": 20,
@@ -26831,7 +27691,8 @@
       "withoutVat": 349900,
       "vatPercent": 21.0,
       "withVat": 423379
-    }
+    },
+    "tags": []
   },
   {
     "page": 20,
@@ -26889,7 +27750,8 @@
       "withoutVat": 349900,
       "vatPercent": 21.0,
       "withVat": 423379
-    }
+    },
+    "tags": []
   },
   {
     "page": 20,
@@ -26947,7 +27809,8 @@
       "withoutVat": 199900,
       "vatPercent": 21.0,
       "withVat": 241879
-    }
+    },
+    "tags": []
   },
   {
     "page": 20,
@@ -27005,7 +27868,8 @@
       "withoutVat": 199900,
       "vatPercent": 21.0,
       "withVat": 241879
-    }
+    },
+    "tags": []
   },
   {
     "page": 21,
@@ -27063,7 +27927,8 @@
       "withoutVat": 249900,
       "vatPercent": 21.0,
       "withVat": 302379
-    }
+    },
+    "tags": []
   },
   {
     "page": 21,
@@ -27114,7 +27979,8 @@
       "withoutVat": 249900,
       "vatPercent": 21.0,
       "withVat": 302379
-    }
+    },
+    "tags": []
   },
   {
     "page": 21,
@@ -27172,7 +28038,8 @@
       "withoutVat": 249900,
       "vatPercent": 21.0,
       "withVat": 302379
-    }
+    },
+    "tags": []
   },
   {
     "page": 21,
@@ -27230,7 +28097,8 @@
       "withoutVat": 249900,
       "vatPercent": 21.0,
       "withVat": 302379
-    }
+    },
+    "tags": []
   },
   {
     "page": 65,
@@ -27252,7 +28120,10 @@
       "withoutVat": 269900,
       "vatPercent": 21.0,
       "withVat": 326579
-    }
+    },
+    "tags": [
+      "Holidays"
+    ]
   },
   {
     "page": 65,
@@ -27274,7 +28145,10 @@
       "withoutVat": 159900,
       "vatPercent": 21.0,
       "withVat": 193479
-    }
+    },
+    "tags": [
+      "Holidays"
+    ]
   },
   {
     "page": 65,
@@ -27296,7 +28170,10 @@
       "withoutVat": 159900,
       "vatPercent": 21.0,
       "withVat": 193479
-    }
+    },
+    "tags": [
+      "Holidays"
+    ]
   },
   {
     "page": 64,
@@ -27347,7 +28224,8 @@
       "withoutVat": 499900,
       "vatPercent": 21.0,
       "withVat": 604879
-    }
+    },
+    "tags": []
   },
   {
     "page": 64,
@@ -27398,7 +28276,8 @@
       "withoutVat": 449900,
       "vatPercent": 21.0,
       "withVat": 544379
-    }
+    },
+    "tags": []
   },
   {
     "page": 64,
@@ -27449,7 +28328,8 @@
       "withoutVat": 179900,
       "vatPercent": 21.0,
       "withVat": 217679
-    }
+    },
+    "tags": []
   },
   {
     "page": 64,
@@ -27507,7 +28387,8 @@
       "withoutVat": 219900,
       "vatPercent": 21.0,
       "withVat": 266079
-    }
+    },
+    "tags": []
   },
   {
     "page": 64,
@@ -27572,7 +28453,8 @@
       "withoutVat": 244900,
       "vatPercent": 21.0,
       "withVat": 296329
-    }
+    },
+    "tags": []
   },
   {
     "page": 64,
@@ -27623,6 +28505,7 @@
       "withoutVat": 139900,
       "vatPercent": 21.0,
       "withVat": 169279
-    }
+    },
+    "tags": []
   }
 ]

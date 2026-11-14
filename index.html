@@ -3,62 +3,104 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="theme-color" content="#132820" />
+    <meta name="theme-color" content="#0f231b" />
     <title>Patagonia | Primavera-Verano 2026-27</title>
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
     <header class="hero">
       <div class="wrap hero-content">
-        <p class="kicker">Patagonia · Primavera - Verano 2026-27</p>
-        <h1>Encontrá el equipo<br />para ir más lejos.</h1>
-        <p class="lead">Explorá el catálogo por artículo, código o color.</p>
-        <label class="search" for="searchInput">
-          <span aria-hidden="true">⌕</span>
-          <input id="searchInput" type="search" autocomplete="off" placeholder="Ej.: 84675, jacket o BLK" autofocus />
-          <kbd>Esc</kbd>
-        </label>
+        <p class="kicker"><span class="kicker-dot" aria-hidden="true"></span>Patagonia · Primavera - Verano 2026-27</p>
+        <h1>Encontrá el equipo<br /><em>para ir más lejos.</em></h1>
+        <p class="lead">Consultá precio y stock por artículo, código o color.</p>
+        <div class="hero-stats" aria-label="Resumen del catálogo">
+          <p><strong id="statProducts">—</strong><span>artículos</span></p>
+          <p><strong id="statInStock">—</strong><span>con stock</span></p>
+          <p><strong id="statUnits">—</strong><span>unidades</span></p>
+        </div>
       </div>
     </header>
+
+    <div class="toolbar" id="toolbar">
+      <div class="wrap toolbar-inner">
+        <label class="search" for="searchInput">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"></circle><path d="m20 20-3.6-3.6"></path></svg>
+          <input id="searchInput" type="search" autocomplete="off" placeholder="Buscar: 84675, jacket o BLK" autofocus />
+          <kbd>Esc</kbd>
+        </label>
+        <label class="toggle">
+          <input id="onlyStock" type="checkbox" />
+          <span class="toggle-track" aria-hidden="true"><span></span></span>
+          <span class="toggle-text">Solo con stock</span>
+        </label>
+      </div>
+    </div>
+
     <main class="wrap">
       <section class="filters" aria-label="Filtros de productos">
-        <div id="categories" class="categories" aria-label="Categorías"></div>
+        <div class="filter-group">
+          <p class="filter-title">Campañas</p>
+          <div id="campaigns" class="chips chips-campaign" aria-label="Campañas"></div>
+        </div>
+        <div class="filter-group">
+          <p class="filter-title">Categorías</p>
+          <div class="chips-scroll">
+            <div id="categories" class="chips" aria-label="Categorías"></div>
+          </div>
+        </div>
       </section>
+
       <section class="summary" aria-live="polite">
-        <p><strong id="resultCount">0</strong> <span id="resultLabel">productos</span></p>
-        <button id="clearSearch" class="clear" type="button" hidden>Limpiar búsqueda</button>
+        <p><strong id="resultCount">0</strong> <span id="resultLabel">productos</span> <span id="activeFilter" class="active-filter"></span></p>
+        <button id="clearSearch" class="clear" type="button" hidden>Limpiar filtros</button>
       </section>
+
       <section id="results" class="grid" aria-label="Resultados"></section>
     </main>
+
+    <footer class="site-footer">
+      <div class="wrap">Patagonia · Catálogo Primavera-Verano 2026-27 · Precios en pesos argentinos · Stock actualizado diariamente</div>
+    </footer>
+
+    <button id="toTop" class="to-top" type="button" aria-label="Volver arriba" hidden>↑</button>
+
     <template id="productCard">
       <article class="card">
-        <div class="photo"><img loading="lazy" /></div>
+        <div class="photo">
+          <img loading="lazy" />
+          <div class="tags" aria-label="Tags"></div>
+          <span class="stock-badge"></span>
+        </div>
         <div class="info">
           <p class="category"></p>
           <h2></h2>
           <div class="meta"><span class="code"></span><span class="color"></span></div>
+
           <div class="prices" aria-label="Precios">
-            <p><span>Sin IVA</span><strong class="price-without-vat"></strong></p>
-            <p><span class="price-vat-label">IVA</span><strong class="price-vat"></strong></p>
-            <p class="price-total"><span>Total</span><strong class="price-total-value"></strong></p>
+            <p class="price-total"><span>Precio final</span><strong class="price-total-value"></strong></p>
+            <div class="price-detail">
+              <p><span>Sin IVA</span><strong class="price-without-vat"></strong></p>
+              <p><span class="price-vat-label">IVA</span><strong class="price-vat"></strong></p>
+            </div>
           </div>
+
           <div class="stock" aria-label="Stock disponible">
-            <p class="stock-total">Stock: <strong class="stock-total-value"></strong></p>
+            <p class="stock-total">Stock total <strong class="stock-total-value"></strong></p>
             <dl class="stock-breakdown">
               <div><dt>Carrito</dt><dd class="stock-carrito"></dd></div>
               <div><dt>Local</dt><dd class="stock-local"></dd></div>
               <div><dt>Bariloche</dt><dd class="stock-bariloche"></dd></div>
               <div><dt>Río</dt><dd class="stock-rio"></dd></div>
             </dl>
-            <div class="stock-sizes" hidden>
-              <p>Stock por talle</p>
+            <details class="stock-sizes" hidden>
+              <summary>Stock por talle <span class="size-count"></span></summary>
               <div class="stock-size-table" role="table">
                 <div class="stock-size-row stock-size-heading" role="row">
                   <span role="columnheader">Talle</span><span role="columnheader">Carrito</span><span role="columnheader">Local</span><span role="columnheader">Bari</span><span role="columnheader">Río</span>
                 </div>
                 <div class="stock-size-rows"></div>
               </div>
-            </div>
+            </details>
           </div>
         </div>
       </article>
